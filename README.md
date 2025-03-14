@@ -24,9 +24,9 @@
 
 - Collect data from APIS for KuCoin, Poloniex, Digifinex, Pump.fun, or scrape it if API is not free
 
-# Once we're confident we've found enough P&D chats
+# Once we're confident we've found enough P&D channels
 
 - Make a script that searches all channels for messages within the last month, and puts them in a well-organized dataset
-- Find a way to search this dataset for token names, then look them up in exchange APIs
-- Use this to classify channels as P&D
+- Do some clustering on this data to hopefully remove outlier channels
+- Find a way to search this data for token names, then look them up in exchange APIs
 - Use methods from research papers to perform predictions
