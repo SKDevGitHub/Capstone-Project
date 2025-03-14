@@ -21,7 +21,7 @@ keywords = list()
 for line in open("keywords","r").readlines():
     if line == "": continue
     else:
-        without_newline = line.replace("\n","")
+        without_newline = line.strip()
         keywords.append(without_newline)
 
 channels_found = set()
@@ -50,7 +50,7 @@ with get_driver_linux() as driver:
 
 # add the channels found last time to the set, so we avoid repeats but keep data
 for old in open("tg_scraped_channels","r").readlines():
-    channels_found.add(old.replace("\n",''))
+    channels_found.add(old.strip())
 
 for chan in channels_found:
     new = chan.replace('"','')

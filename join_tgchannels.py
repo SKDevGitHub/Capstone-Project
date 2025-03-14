@@ -17,7 +17,9 @@ for line in open("blacklisted_tg_channels","r").readlines():
 
 channels_2_join = channels_2_join.difference(blacklist)
 
+# USE YOUR OWN LOCAL VERSION OF api_id.secret AND NEVER ADD IT TO ANY FILE THAT ENDS UP ON GITHUB
 api_id = open('api_id.secret','r').readlines()[0].strip()
+# USE YOUR OWN LOCAL VERSION OF api_hash.secret AND NEVER ADD IT TO ANY FILE THAT ENDS UP ON GITHUB
 api_hash = open('api_hash.secret','r').readlines()[0].strip()
 
 rate_limit_seconds = 30.0  # Start higher
