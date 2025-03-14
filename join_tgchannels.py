@@ -9,22 +9,16 @@ import random
 channels_2_join = set()
 blacklist = set()
 
-filename_from_stdin = input("input filename with telegram channels. or DONE: ")
-while filename_from_stdin != "DONE":
-    for line in open(filename_from_stdin,"r").readlines():
-        channels_2_join.add(line.replace("\n",''))
-    filename_from_stdin = input('input filename with telegram channels. or DONE: ')
+for line in open("tg_scraped_channels","r").readlines():
+    channels_2_join.add(line.strip())
 
-filename_from_stdin = input("input blacklist file. or DONE: ")
-while filename_from_stdin != "DONE":
-    for line in open(filename_from_stdin,"r").readlines():
-        blacklist.add(line.replace("\n",''))
-    filename_from_stdin = input('input blacklist file. or DONE: ')
+for line in open("blacklisted_tg_channels","r").readlines():
+    blacklist.add(line.strip())
 
 channels_2_join = channels_2_join.difference(blacklist)
 
-api_id = ***REMOVED***
-api_hash = ***REMOVED***
+api_id = open('api_id.secret','r').readlines()[0].strip()
+api_hash = open('api_hash.secret','r').readlines()[0].strip()
 
 rate_limit_seconds = 30.0  # Start higher
 min_rate_limit     = 10.0  # Never go below 10s
