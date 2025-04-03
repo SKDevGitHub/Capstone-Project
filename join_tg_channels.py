@@ -12,7 +12,7 @@ blacklist = set()
 for line in open("tg_scraped_channels","r").readlines():
     channels_2_join.add(line.strip())
 
-for line in open("blacklisted_tg_channels","r").readlines():
+for line in open("blacklisted_tg_channels.dump","r").readlines():
     blacklist.add(line.strip())
 
 channels_2_join = channels_2_join.difference(blacklist)
@@ -30,6 +30,7 @@ async def join_channels():
     async with TelegramClient("joiner", api_id, api_hash) as client:
         print("Successfully connected client")
 
+        # NOTE: this fails the first time you connect, but then works when you run the script again
         dialogs = await client(functions.messages.GetDialogsRequest(
             offset_date=None,
             offset_id=0,
@@ -38,13 +39,16 @@ async def join_channels():
             hash=0
         ))
 
-        already_joined = {chan.username for chan in dialogs.chats if chan.username}
-        already_joined_count = len(already_joined)
-        print(f"Already in {already_joined_count} channels")
-
+        already_joined = set()
+        for chan in dialogs.chats:
+            try:
+                already_joined.add(chan.username)
+            except:
+                pass
+        print(f"Already in {len(dialogs.chats)} channels")
         prospective_channels = channels_2_join.difference(already_joined)
         print(f"Found {len(prospective_channels)} new channels to join")
-
+        already_joined_count = len(dialogs.chats)
         for channel in prospective_channels:
             if already_joined_count >= 499:  # Telegram limit
                 print("Reached 500-channel limit. Stopping.")
@@ -63,7 +67,9 @@ async def join_channels():
             except errors.FloodWaitError as e:
                 print(f"FloodWaitError: Waiting {e.seconds} seconds")
                 rate_limit_seconds = e.seconds + random.uniform(1, 3)  # Add jitter
-            
+                with open("last_flood_wait.impatient", "w") as file:
+                    file.write(rate_limit_seconds)
+
             except Exception as e:
                 print(f"Unexpected error: {e}")
                 break  # Stop on unknown errors
