@@ -1,0 +1,26 @@
+[
+    {
+        "message_id": 1,
+        "date": "2024-04-22 14:16:23",
+        "sender_id": -1002009094836,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": null,
+        "media_type": null,
+        "media_path": null,
+        "reply_to": null
+    },
+    {
+        "message_id": 3,
+        "date": "2024-04-22 14:19:13",
+        "sender_id": -1002009094836,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Always be yourself unless you can be a $CAPY 🦦",
+        "media_type": "MessageMediaPhoto",
+        "media_path": "/home/kaham/telegram-scraper/CapySolCoin/media/photo_3.jpg",
+        "reply_to": null
+    }
+]
