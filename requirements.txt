@@ -1,0 +1,12 @@
+ccxt
+pandas
+telethon
+aiohttp
+matplotlib
+websockets
+numpy
+selenium
+scrapfly
+jmespath
+certifi
+PIL
