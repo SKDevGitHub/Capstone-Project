@@ -23,14 +23,14 @@ def load_state():
                     'api_hash': None,
                     'phone': None,
                     'channels': {},
-                    'scrape_media': True,
+                    'scrape_media': False,
                 }
     return {
         'api_id': None,
         'api_hash': None,
         'phone': None,
         'channels': {},
-        'scrape_media': True,
+        'scrape_media': False,
     }
 
 def save_state(state):
