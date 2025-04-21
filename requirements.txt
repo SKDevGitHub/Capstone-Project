@@ -10,3 +10,4 @@ scrapfly
 jmespath
 certifi
 PIL
+pytz
