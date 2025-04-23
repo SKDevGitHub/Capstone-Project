@@ -7,7 +7,9 @@ from telethon.tl.types import MessageMediaPhoto, MessageMediaDocument, User, Pee
 from telethon.errors import FloodWaitError, RPCError
 import aiohttp
 import sys
-import shutil  # Import shutil for directory removal
+import datetime
+from telethon.tl.functions.messages import GetHistoryRequest
+import pytz # Import pytz
 
 STATE_FILE = 'state.json'
 
@@ -65,9 +67,7 @@ def save_message_to_memory(channel, message, sender):
         'last_name': getattr(sender, 'last_name', None) if isinstance(sender, User) else None,
         'username': getattr(sender, 'username', None) if isinstance(sender, User) else None,
         'message': message.message,
-        'media_type': message.media.__class__.__name__ if message.media else None,
-        'media_path': None,
-        'reply_to': message.reply_to_msg_id if message.reply_to else None
+        'reply_to': message.reply_to_msg_id if message.reply_to else None,
     }
 
     channel_messages[channel].append(message_data)
@@ -77,76 +77,18 @@ MAX_RETRIES = 5
 def clean_channel_id(channel):
     """Convert channel URL to a clean channel ID suitable for filenames"""
     if channel.startswith('https://t.me/'):
-        return channel.split('/')[-1]  # Extract the username part
+        return channel.split('/')[-1]
     return channel
 
-async def download_media(channel, message, message_data):
-    if not message.media or not state['scrape_media']:
-        return None
-
-    channel_dir = os.path.join(os.getcwd(), channel)
-    media_folder = os.path.join(channel_dir, 'media')
-    os.makedirs(media_folder, exist_ok=True)
-    media_file_name = None
-    if isinstance(message.media, MessageMediaPhoto):
-        media_file_name = f"photo_{message.id}.jpg"
-    elif isinstance(message.media, MessageMediaDocument):
-        # Get original filename if available, otherwise create a generic one
-        original_name = getattr(message.file, 'name', None)
-        if original_name:
-            # Remove any path components that might be in the filename
-            media_file_name = os.path.basename(original_name)
-        else:
-            ext = getattr(message.file, 'ext', 'bin') or 'bin'
-            media_file_name = f"doc_{message.id}.{ext}"
-    else:
-        print(f"Unsupported media type for message {message.id}. Skipping download.")
-        return None
-
-    # Ensure the filename is safe for Windows
-    media_file_name = media_file_name.replace(':', '_').replace('/', '_').replace('\\', '_')
-    media_path = os.path.join(media_folder, media_file_name)
-
-    if os.path.exists(media_path):
-        print(f"Media file already exists: {media_path}")
-        message_data['media_path'] = media_path
-        return media_path
-
-    retries = 0
-    while retries < MAX_RETRIES:
-        try:
-            # Download to the specific path we created
-            media_path = await message.download_media(file=media_path)
-            if media_path:
-                print(f"Successfully downloaded media to: {media_path}")
-                message_data['media_path'] = media_path
-            break
-        except (TimeoutError, aiohttp.ClientError, RPCError) as e:
-            retries += 1
-            print(f"Retrying download for message {message.id}. Attempt {retries}...")
-            await asyncio.sleep(2 ** retries)
-        except Exception as e:
-            print(f"Error downloading media for message {message.id}: {str(e)}")
-            return None
-    return media_path
-
-is_scraping_active = False
-current_scraping_channel = None
-scraping_start_time = None
-
-async def scrape_channel(channel, offset_id):
+async def scrape_channel(channel):
     global is_scraping_active, current_scraping_channel, scraping_start_time
 
     try:
-        # Set global flags to indicate scraping is active
         is_scraping_active = True
         current_scraping_channel = channel
         scraping_start_time = asyncio.get_event_loop().time()
 
-        # Store the original channel identifier
         original_channel = channel
-
-        # Clean the channel ID for file operations
         clean_channel = clean_channel_id(channel)
 
         try:
@@ -163,74 +105,112 @@ async def scrape_channel(channel, offset_id):
             print(f"Error getting entity for channel {channel}: {e}")
             return
 
-
         total_messages = 0
         processed_messages = 0
-
-        async for message in client.iter_messages(entity, offset_id=offset_id, reverse=True):
-            total_messages += 1
-
-        if total_messages == 0:
-            print(f"No messages found in channel {channel}.")
-            return
-
         last_message_id = None
-        processed_messages = 0
+        one_month_ago = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(days=30) # Make it offset-aware
+        limit = 100
 
-        # Clear previous messages for this channel
         if clean_channel in channel_messages:
             channel_messages[clean_channel] = []
-
-        async for message in client.iter_messages(entity, offset_id=offset_id, reverse=True):
+        offset_id = 0
+        while True:
             try:
+                history = await client(
+                    GetHistoryRequest(
+                        peer=entity,
+                        offset_id=offset_id,
+                        offset_date=None,
+                        add_offset=0,
+                        limit=limit,
+                        max_id=0,
+                        min_id=0,
+                        hash=0,
+                    )
+                )
+            except FloodWaitError as e:
+                print(f"FloodWaitError: {e.seconds} seconds")
+                await asyncio.sleep(e.seconds)
+                continue
+            except Exception as e:
+                print(f"Error fetching messages: {e}")
+                break
+
+            if not history.messages:
+                break
+
+            for message in history.messages:
+                # Convert message.date to offset-aware if it's offset-naive
+                if message.date.tzinfo is None or message.date.tzinfo.utcoffset(message.date) is None:
+                    message_date_utc = message.date.replace(tzinfo=datetime.timezone.utc)
+                else:
+                    message_date_utc = message.date
+
+                if message_date_utc < one_month_ago:
+                    print(
+                        f"Reached messages older than one month. Stopping scraping for channel {channel}."
+                    )
+                    break
+
                 sender = await message.get_sender()
                 message_data = {
-                    'message_id': message.id,
-                    'date': message.date.strftime('%Y-%m-%d %H:%M:%S'),
-                    'sender_id': message.sender_id,
-                    'first_name': getattr(sender, 'first_name', None) if isinstance(sender, User) else None,
-                    'last_name': getattr(sender, 'last_name', None) if isinstance(sender, User) else None,
-                    'username': getattr(sender, 'username', None) if isinstance(sender, User) else None,
-                    'message': message.message,
-                    'media_type': message.media.__class__.__name__ if message.media else None,
-                    'media_path': None,
-                    'reply_to': message.reply_to_msg_id if message.reply_to else None
+                    "message_id": message.id,
+                    "date": message_date_utc.strftime("%Y-%m-%d %H:%M:%S"),
+                    "sender_id": message.sender_id,
+                    "first_name": (
+                        getattr(sender, "first_name", None)
+                        if isinstance(sender, User)
+                        else None
+                    ),
+                    "last_name": (
+                        getattr(sender, "last_name", None)
+                        if isinstance(sender, User)
+                        else None
+                    ),
+                    "username": getattr(sender, "username", None)
+                    if isinstance(sender, User)
+                    else None,
+                    "message": message.message,
+                    "reply_to": message.reply_to_msg_id if message.reply_to else None,
                 }
 
                 if clean_channel not in channel_messages:
                     channel_messages[clean_channel] = []
 
-                if state['scrape_media'] and message.media:
-                    media_path = await download_media(clean_channel, message, message_data)
-
                 channel_messages[clean_channel].append(message_data)
-
                 last_message_id = message.id
                 processed_messages += 1
+                total_messages += 1
 
-                progress = (processed_messages / total_messages) * 100
-                sys.stdout.write(f"\rScraping channel: {channel} - Progress: {progress:.2f}%")
+                progress = (
+                    100 if total_messages == 0 else (processed_messages / total_messages) * 100
+                )
+                sys.stdout.write(
+                    f"\rScraping channel: {channel} - Progress: {progress:.2f}%"
+                )
                 sys.stdout.flush()
+                offset_id = message.id
+            if message_date_utc < one_month_ago:
+                break
+            if len(history.messages) < limit:
+                break
 
-                state['channels'][original_channel] = last_message_id
-                save_state(state)
-            except Exception as e:
-                print(f"Error processing message {message.id}: {e}")
+        state["channels"][original_channel] = last_message_id
+        save_state(state)
 
-        # Save to CSV after scraping is complete
         save_to_csv(clean_channel)
-        save_to_json(clean_channel) #also save to json
+        save_to_json(clean_channel)
         print(f"\nSaved data for channel {channel} to CSV and JSON files.")
 
         print()
     except ValueError as e:
         print(f"Error with channel {channel}: {e}")
     finally:
-        # Reset flags when scraping is done
         is_scraping_active = False
         current_scraping_channel = None
         scraping_start_time = None
-    return channel_messages.get(clean_channel, []) # return the messages
+    return channel_messages.get(clean_channel, [])
+
 
 def save_to_csv(channel):
     if channel not in channel_messages or not channel_messages[channel]:
@@ -239,25 +219,24 @@ def save_to_csv(channel):
 
     channel_dir = os.path.join(os.getcwd(), channel)
     os.makedirs(channel_dir, exist_ok=True)
-    csv_file = os.path.join(channel_dir, f'{channel}.csv')
+    csv_file = os.path.join(channel_dir, f"{channel}.csv")
 
     try:
-        with open(csv_file, 'w', newline='', encoding='utf-8') as f:
-            # Get field names from the first message
+        with open(csv_file, "w", newline="", encoding="utf-8") as f:
             fieldnames = channel_messages[channel][0].keys()
             writer = csv.DictWriter(f, fieldnames=fieldnames)
-
-            # Write header
             writer.writeheader()
-
-            # Write data
             for message in channel_messages[channel]:
                 writer.writerow(message)
 
-        print(f"Successfully saved {len(channel_messages[channel])} messages to {csv_file}")
+        print(
+            f"Successfully saved {len(channel_messages[channel])} messages to {csv_file}"
+        )
     except Exception as e:
         print(f"Error saving to CSV: {e}")
         print(f"Attempted path: {csv_file}")
+
+
 def save_to_json(channel):
     if channel not in channel_messages or not channel_messages[channel]:
         print(f"No messages to save for channel {channel}")
@@ -265,23 +244,27 @@ def save_to_json(channel):
 
     channel_dir = os.path.join(os.getcwd(), channel)
     os.makedirs(channel_dir, exist_ok=True)
-    json_file = os.path.join(channel_dir, f'{channel}.json')
+    json_file = os.path.join(channel_dir, f"{channel}.json")
 
     try:
-        with open(json_file, 'w', encoding='utf-8') as f:
+        with open(json_file, "w", encoding="utf-8") as f:
             json.dump(channel_messages[channel], f, ensure_ascii=False, indent=4)
 
-        print(f"Successfully saved {len(channel_messages[channel])} messages to {json_file}")
+        print(
+            f"Successfully saved {len(channel_messages[channel])} messages to {json_file}"
+        )
     except Exception as e:
         print(f"Error saving to JSON: {e}")
         print(f"Attempted path: {json_file}")
+
 
 async def main():
     await client.start()
     try:
         channel_input = input("Enter the channel ID/URL to scrape: ")
-        offset_id = 0  # You can change this if you want to start from a specific message
-        messages = await scrape_channel(channel_input, offset_id) #get messages
+        messages = await scrape_channel(
+            channel_input
+        )
 
         if messages:
             print(f"Scraping and saving for channel '{channel_input}' complete.")
@@ -295,5 +278,6 @@ async def main():
     finally:
         await client.disconnect()
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     asyncio.run(main())
