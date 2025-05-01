@@ -11,3 +11,4 @@ jmespath
 certifi
 PIL
 pytz
+langdetect
