@@ -38,7 +38,6 @@ class PlotCanvas(FigureCanvas):
 
         # Calculate price changes
         df['Price_Change'] = df['Close'].diff()
-
         # Compute mean and standard deviation of price changes
         mean_change = df['Price_Change'].mean()
         std_change = df['Price_Change'].std()
