@@ -7,6 +7,7 @@ import datetime
 import time
 import asyncio
 import random
+from langdetect import detect, LangDetectException
 
 # USE YOUR OWN LOCAL VERSION OF api_id.secret AND NEVER ADD IT TO ANY FILE THAT ENDS UP ON GITHUB
 api_id = open('api_id.secret','r').readlines()[0].strip()
@@ -20,6 +21,16 @@ client = TelegramClient('session_name', api_id, api_hash)
 
 async def should_leave_channel(channel):
     try:
+        # Language check
+        try:
+            lang = detect(channel.title)
+            if lang != 'en':
+                print(f"Non-English title detected ({lang}): {channel.title}")
+                return True
+        except LangDetectException:
+            print(f"Language detection failed: {channel.title}")
+            return True
+
         # Get full channel details (for member count)
         full = await client(GetFullChannelRequest(channel))
         members = full.full_chat.participants_count
@@ -51,7 +62,7 @@ async def leave_channels():
         if isinstance(dialog.entity, Channel) and dialog.is_channel:
             channel = dialog.entity
             print(f'Checking: {channel.title}')
-            if should_leave_channel(channel):
+            if await should_leave_channel(channel):
                 print(f'Leaving: {channel.title}')
                 await client(LeaveChannelRequest(channel))
 

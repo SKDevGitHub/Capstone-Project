@@ -68,7 +68,7 @@ async def join_channels():
                 print(f"FloodWaitError: Waiting {e.seconds} seconds")
                 rate_limit_seconds = e.seconds + random.uniform(1, 3)  # Add jitter
                 with open("last_flood_wait.impatient", "w") as file:
-                    file.write(rate_limit_seconds)
+                    file.write(str(rate_limit_seconds))
 
             except Exception as e:
                 print(f"Unexpected error: {e}")
