@@ -87,7 +87,7 @@ class MessageProcessor(QWidget):
                     processed_messages.append(parsed_data)
 
             # Sort messages by date
-            processed_messages.sort(key=lambda item: item[0])
+            processed_messages.sort(key=lambda item: item[0], reverse = True)
 
             # Clear old content
             while self.scroll_content.count():
