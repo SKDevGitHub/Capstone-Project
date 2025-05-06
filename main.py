@@ -1,6 +1,14 @@
+import sys
+import json
+from PyQt5.QtWidgets import (
+    QApplication, QWidget, QVBoxLayout, QHBoxLayout, QLabel, QLineEdit,
+    QPushButton, QTextEdit, QComboBox, QFileDialog, QScrollArea, QFrame, QMainWindow
+)
+from PyQt5.QtCore import Qt, QDate, QDateTime, QTimer
+from PyQt5.QtGui import QFont
+
 import asyncio
 import websockets
-import json
 import ssl
 import certifi
 import platform
@@ -8,12 +16,6 @@ import os
 import pandas as pd
 import traceback
 from datetime import datetime
-
-from PyQt5.QtWidgets import (
-    QApplication, QWidget, QVBoxLayout, QHBoxLayout, QLabel, QLineEdit,
-    QPushButton, QTextEdit, QComboBox, QFileDialog
-)
-from PyQt5.QtCore import QTimer
 
 from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas
 from matplotlib.figure import Figure
@@ -66,8 +68,7 @@ class WebSocketDisplay(QWidget):
     def __init__(self):
         super().__init__()
         self.setWindowTitle("Pump.fun Real-time + Historical Graphs")
-        self.setGeometry(100, 100, 1000, 900)
-
+        # Removed setGeometry here, will be managed by MainWindow
         self.websocket = None
         self.is_connected = False
         self.connection_task = None
@@ -271,19 +272,148 @@ class WebSocketDisplay(QWidget):
             self.plot_canvas.plot(self.csv_data[coin], coin)
 
 
+class TelegramMessageDisplay(QWidget):
+    def __init__(self):
+        super().__init__()
+        self.setWindowTitle("Telegram Message Viewer")
+        # Removed setGeometry here, will be managed by MainWindow
+        self.layout = QVBoxLayout(self)
+
+        self.scroll_area = QScrollArea()
+        self.scroll_area.setWidgetResizable(True)
+        self.scroll_content = QVBoxLayout()
+        container = QWidget()
+        container.setLayout(self.scroll_content)
+        self.scroll_area.setWidget(container)
+        self.layout.addWidget(self.scroll_area)
+
+        self.load_and_process_file()
+
+    def parse_message_data(self, msg):
+        """Parses a single message to extract date, coin, symbol, cap, and age."""
+        if "date" in msg and "message" in msg:
+            date_str = msg["date"]
+            message_text = msg["message"]
+            coin = "N/A"
+            symbol = "N/A"
+            cap = "N/A"
+            age = "N/A"
+
+            if message_text:
+                lines = message_text.split('\n')
+                for line in lines:
+                    if "🔔" in line:
+                        parts = line.split("|")
+                        if len(parts) > 1:
+                            coin_symbol = parts[0].replace("🔔", "").strip()
+                            symbol_match = coin_symbol.split()
+                            if symbol_match:
+                                coin = symbol_match[0].strip()
+                                if len(symbol_match) > 1:
+                                    symbol = symbol_match[-1].strip()
+                                else:
+                                    symbol = coin
+                    if "Marketcap:" in line:
+                        cap = line.split(":")[-1].strip()
+                    if "Age:" in line:
+                        age = line.split(":")[-1].strip()
+
+            try:
+                datetime_obj = QDateTime.fromString(date_str, Qt.ISODate)
+                if not datetime_obj.isValid():
+                    datetime_obj = QDateTime.fromString(date_str, "yyyy-MM-dd hh:mm:ss")
+                if datetime_obj.isValid():
+                    return datetime_obj, coin, symbol, cap, age
+                else:
+                    print(f"Warning: Could not parse date: {date_str}")
+                    return None
+            except Exception as e:
+                print(f"Error parsing date '{date_str}': {e}")
+                return None
+        return None
+
+    def load_and_process_file(self):
+        filename = "telegram-scraper/TheDegenBoysLounge/TheDegenBoysLounge.json"
+        if filename:
+            with open(filename, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+
+            messages = data if isinstance(data, list) else data.get("messages", [])
+            processed_messages = []
+
+            for msg in messages:
+                parsed_data = self.parse_message_data(msg)
+                if parsed_data:
+                    processed_messages.append(parsed_data)
+
+            print(f"Parsed {len(processed_messages)} messages.")
+            # Sort messages by date (newest to oldest)
+            processed_messages.sort(key=lambda item: item[0], reverse=True)
+
+            # Clear old content
+            while self.scroll_content.count():
+                child = self.scroll_content.takeAt(0)
+                if child.widget():
+                    child.widget().deleteLater()
+
+            # Display processed messages
+            font = QFont()
+            font.setPointSize(10)
+            for date_obj, coin, symbol, cap, age in processed_messages:
+                date_str_readable = date_obj.toString("yyyy-MM-dd hh:mm:ss")
+                output_text = f"<b>Date:</b> {date_str_readable}<br>"
+                output_text += f"<b>Coin:</b> {coin}, <b>Symbol:</b> {symbol}, <b>Cap:</b> {cap}, <b>Age:</b> {age}<br><br>"
+
+                label = QLabel(output_text)
+                label.setFont(font)
+                label.setWordWrap(True)
+                self.scroll_content.addWidget(label)
+                container = QWidget()
+                container.setLayout(self.scroll_content)
+                self.scroll_area.setWidget(container)
+
+                # Optional: Ensure scroll to top after loading new data
+                self.scroll_area.verticalScrollBar().setValue(0)
+
+        print("Loaded and processed messages successfully.")
+
+
+class MainWindow(QMainWindow):
+    def __init__(self):
+        super().__init__()
+        self.setWindowTitle("Pump.fun Dashboard")
+        self.setGeometry(100, 100, 1200, 900)
+
+        self.central_widget = QWidget()
+        self.setCentralWidget(self.central_widget)
+
+        self.main_layout = QHBoxLayout(self.central_widget)
+
+        self.telegram_message_display = TelegramMessageDisplay()
+        self.websocket_display = WebSocketDisplay()
+
+        self.main_layout.addWidget(self.telegram_message_display)
+        self.main_layout.addWidget(self.websocket_display)
+
+
 async def main():
     app = QApplication([])
     loop = QEventLoop(app)
     asyncio.set_event_loop(loop)
 
     # Load QSS stylesheet
-    with open("styles.qss", "r") as f:
-        stylesheet = f.read()
-        print(f"Loaded stylesheet: (first 100 chars): {stylesheet[:100]}")
-        app.setStyleSheet(stylesheet)
+    try:
+        with open("styles.qss", "r") as f:
+            stylesheet = f.read()
+            app.setStyleSheet(stylesheet)
+            print(f"Loaded stylesheet (first 100 chars): {stylesheet[:100]}")
+    except FileNotFoundError:
+        print("Warning: styles.qss not found.")
+    except Exception as e:
+        print(f"Error loading stylesheet: {e}")
 
-    window = WebSocketDisplay()
-    window.show()
+    main_window = MainWindow()
+    main_window.show()
 
     with loop:
         await loop.run_forever()
@@ -291,3 +421,4 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
+            # **Crucial Step: Create a container widget and set its layout, then set it as the scroll area's widget
