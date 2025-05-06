@@ -1,0 +1,115 @@
+/* General widget styling */
+QWidget {
+    background-color: #2b2b2b;
+    color: #f0f0f0;
+    font-family: Segoe UI, sans-serif;
+    font-size: 14px;
+}
+
+/* QPushButton styling */
+QPushButton {
+    background-color: #3c3f41;
+    border: 1px solid #555;
+    border-radius: 4px;
+    padding: 6px 12px;
+}
+
+QPushButton:hover {
+    background-color: #4b6eaf;
+}
+
+QPushButton:pressed {
+    background-color: #2b2b2b;
+}
+
+/* QLabel styling */
+QLabel {
+    color: #f0f0f0;
+}
+
+/* QLineEdit styling */
+QLineEdit {
+    background-color: #3c3f41;
+    border: 1px solid #555;
+    border-radius: 4px;
+    padding: 4px;
+    color: #f0f0f0;
+}
+
+/* QTextEdit styling */
+QTextEdit {
+    background-color: #3c3f41;
+    border: 1px solid #555;
+    border-radius: 4px;
+    padding: 6px;
+    color: #f0f0f0;
+}
+
+/* QComboBox styling */
+QComboBox {
+    background-color: #3c3f41;
+    border: 1px solid #555;
+    border-radius: 4px;
+    padding: 4px;
+}
+
+QComboBox QAbstractItemView {
+    background-color: #3c3f41;
+    selection-background-color: #4b6eaf;
+    color: #f0f0f0;
+}
+
+/* QCheckBox styling */
+QCheckBox {
+    spacing: 5px;
+}
+
+QCheckBox::indicator {
+    width: 16px;
+    height: 16px;
+}
+
+QCheckBox::indicator:unchecked {
+    border: 1px solid #888;
+    background: #2b2b2b;
+}
+
+QCheckBox::indicator:checked {
+    border: 1px solid #4b6eaf;
+    background-color: #4b6eaf;
+}
+
+/* QScrollBar styling */
+QScrollBar:vertical {
+    background: #2b2b2b;
+    width: 12px;
+    margin: 0px;
+}
+
+QScrollBar::handle:vertical {
+    background: #555;
+    border-radius: 6px;
+}
+
+QScrollBar::handle:vertical:hover {
+    background: #4b6eaf;
+}
+
+/* QTabWidget and QTabBar */
+QTabWidget::pane {
+    border: 1px solid #444;
+    top: -1px;
+}
+
+QTabBar::tab {
+    background: #3c3f41;
+    color: #f0f0f0;
+    padding: 6px 12px;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+}
+
+QTabBar::tab:selected {
+    background: #2b2b2b;
+    border-bottom: 1px solid #2b2b2b;
+}
