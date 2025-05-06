@@ -362,7 +362,7 @@ class TelegramMessageDisplay(QWidget):
             # Display processed messages
             font = QFont()
             font.setPointSize(10)
-            for date_obj, coin, symbol, cap, age in processed_messages:
+            for date_obj, coin, symbol, cap, age in processed_messages[:30]:
                 date_str_readable = date_obj.toString("yyyy-MM-dd hh:mm:ss")
                 output_text = f"<b>Date:</b> {date_str_readable}<br>"
                 output_text += f"<b>Coin:</b> {coin}, <b>Symbol:</b> {symbol}, <b>Cap:</b> {cap}, <b>Age:</b> {age}<br><br>"
