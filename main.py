@@ -276,6 +276,12 @@ async def main():
     loop = QEventLoop(app)
     asyncio.set_event_loop(loop)
 
+    # Load QSS stylesheet
+    with open("styles.qss", "r") as f:
+        stylesheet = f.read()
+        print(f"Loaded stylesheet: (first 100 chars): {stylesheet[:100]}")
+        app.setStyleSheet(stylesheet)
+
     window = WebSocketDisplay()
     window.show()
 

@@ -257,6 +257,13 @@ class WebSocketDisplay(QWidget):
 async def main_async():
     print("Starting main event loop...")
     app = QApplication([])
+
+    # Load QSS stylesheet
+    with open("styles.qss", "r") as f:
+        stylesheet = f.read()
+        print(f"Loaded stylesheet: (first 100 chars): {stylesheet[:100]}")
+        app.setStyleSheet(stylesheet)
+    
     loop = QEventLoop(app)
     asyncio.set_event_loop(loop)
 

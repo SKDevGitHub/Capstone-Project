@@ -29,7 +29,7 @@ class MessageProcessor(QWidget):
 
     def parse_message_data(self, msg):
         """Parses a single message to extract date, coin, symbol, cap, and age."""
-        if msg.get("type") == "message" and "date" in msg and "message" in msg:
+        if "date" in msg and "message" in msg:
             date_str = msg["date"]
             message_text = msg["message"]
             coin = "N/A"
@@ -37,23 +37,24 @@ class MessageProcessor(QWidget):
             cap = "N/A"
             age = "N/A"
 
-            lines = message_text.split('\n')
-            for line in lines:
-                if "🔔" in line:
-                    parts = line.split("|")
-                    if len(parts) > 1:
-                        coin_symbol = parts[0].replace("🔔", "").strip()
-                        symbol_match = coin_symbol.split()
-                        if symbol_match:
-                            coin = symbol_match[0].strip()
-                            if len(symbol_match) > 1:
-                                symbol = symbol_match[-1].strip()
-                            else:
-                                symbol = coin
-                if "Marketcap:" in line:
-                    cap = line.split(":")[-1].strip()
-                if "Age:" in line:
-                    age = line.split(":")[-1].strip()
+            if message_text:
+                lines = message_text.split('\n')
+                for line in lines:
+                    if "🔔" in line:
+                        parts = line.split("|")
+                        if len(parts) > 1:
+                            coin_symbol = parts[0].replace("🔔", "").strip()
+                            symbol_match = coin_symbol.split()
+                            if symbol_match:
+                                coin = symbol_match[0].strip()
+                                if len(symbol_match) > 1:
+                                    symbol = symbol_match[-1].strip()
+                                else:
+                                    symbol = coin
+                    if "Marketcap:" in line:
+                        cap = line.split(":")[-1].strip()
+                    if "Age:" in line:
+                        age = line.split(":")[-1].strip()
 
             try:
                 datetime_obj = QDateTime.fromString(date_str, Qt.ISODate)
