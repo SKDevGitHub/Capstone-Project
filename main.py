@@ -279,6 +279,10 @@ class TelegramMessageDisplay(QWidget):
         # Removed setGeometry here, will be managed by MainWindow
         self.layout = QVBoxLayout(self)
 
+        self.load_button = QPushButton("Load Telegram JSON File")
+        self.load_button.clicked.connect(self.load_and_process_file)
+        self.layout.addWidget(self.load_button)
+
         self.scroll_area = QScrollArea()
         self.scroll_area.setWidgetResizable(True)
         self.scroll_content = QVBoxLayout()
@@ -286,8 +290,6 @@ class TelegramMessageDisplay(QWidget):
         container.setLayout(self.scroll_content)
         self.scroll_area.setWidget(container)
         self.layout.addWidget(self.scroll_area)
-
-        self.load_and_process_file()
 
     def parse_message_data(self, msg):
         """Parses a single message to extract date, coin, symbol, cap, and age."""
@@ -333,7 +335,7 @@ class TelegramMessageDisplay(QWidget):
         return None
 
     def load_and_process_file(self):
-        filename = "telegram-scraper/TheDegenBoysLounge/TheDegenBoysLounge.json"
+        filename, _ = QFileDialog.getOpenFileName(self, "Open JSON", "", "JSON Files (*.json)")
         if filename:
             with open(filename, 'r', encoding='utf-8') as f:
                 data = json.load(f)
@@ -342,11 +344,12 @@ class TelegramMessageDisplay(QWidget):
             processed_messages = []
 
             for msg in messages:
+                print(msg)
+                print("===" * 20)
                 parsed_data = self.parse_message_data(msg)
                 if parsed_data:
                     processed_messages.append(parsed_data)
 
-            print(f"Parsed {len(processed_messages)} messages.")
             # Sort messages by date (newest to oldest)
             processed_messages.sort(key=lambda item: item[0], reverse=True)
 
@@ -374,8 +377,6 @@ class TelegramMessageDisplay(QWidget):
 
                 # Optional: Ensure scroll to top after loading new data
                 self.scroll_area.verticalScrollBar().setValue(0)
-
-        print("Loaded and processed messages successfully.")
 
 
 class MainWindow(QMainWindow):
