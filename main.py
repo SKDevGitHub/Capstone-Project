@@ -2,7 +2,7 @@ import sys
 import json
 from PyQt5.QtWidgets import (
     QApplication, QWidget, QVBoxLayout, QHBoxLayout, QLabel, QLineEdit,
-    QPushButton, QTextEdit, QComboBox, QFileDialog, QScrollArea, QFrame, QMainWindow
+    QPushButton, QTextEdit, QComboBox, QFileDialog, QScrollArea, QFrame, QMainWindow, QMessageBox
 )
 from PyQt5.QtCore import Qt, QDate, QDateTime, QTimer
 from PyQt5.QtGui import QFont
@@ -25,6 +25,65 @@ from qasync import QEventLoop
 # Windows compatibility
 if platform.system() == "Windows":
     asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
+
+class LoginWindow(QWidget):
+    def __init__(self, on_login_success):
+        super().__init__()
+        self.setWindowTitle("Login - Pump Screener")
+        self.setFixedSize(1200, 800)
+
+        self.on_login_success = on_login_success
+
+        # Main vertical layout
+        main_layout = QVBoxLayout()
+        main_layout.setAlignment(Qt.AlignCenter)
+
+        # Title label
+        title = QLabel("Pump Screener")
+        title.setAlignment(Qt.AlignCenter)
+        title.setStyleSheet("font-size: 36px; font-weight: bold; margin-bottom: 50px;")
+
+        # Username input
+        self.username_input = QLineEdit()
+        self.username_input.setPlaceholderText("Username")
+        self.username_input.setFixedWidth(300)
+        self.username_input.setFixedHeight(40)
+
+        # Password input
+        self.password_input = QLineEdit()
+        self.password_input.setPlaceholderText("Password")
+        self.password_input.setEchoMode(QLineEdit.Password)
+        self.password_input.setFixedWidth(300)
+        self.password_input.setFixedHeight(40)
+
+        # Login button
+        self.login_button = QPushButton("Login")
+        self.login_button.setFixedWidth(300)
+        self.login_button.setFixedHeight(40)
+        self.login_button.clicked.connect(self.handle_login)
+
+        # Form layout (centered)
+        form_layout = QVBoxLayout()
+        form_layout.setSpacing(20)
+        form_layout.addWidget(self.username_input, alignment=Qt.AlignCenter)
+        form_layout.addWidget(self.password_input, alignment=Qt.AlignCenter)
+        form_layout.addWidget(self.login_button, alignment=Qt.AlignCenter)
+
+        # Add title and form to main layout
+        main_layout.addWidget(title)
+        main_layout.addLayout(form_layout)
+
+        self.setLayout(main_layout)
+
+    def handle_login(self):
+        username = self.username_input.text().strip()
+        password = self.password_input.text().strip()
+
+        if username == "admin" and password == "1234":
+            self.on_login_success()
+            self.close()
+        else:
+            QMessageBox.warning(self, "Login Failed", "Invalid username or password.")
 
 
 class PlotCanvas(FigureCanvas):
@@ -399,22 +458,25 @@ async def main():
     loop = QEventLoop(app)
     asyncio.set_event_loop(loop)
 
-    # Load QSS stylesheet
+    # Load stylesheet
     try:
         with open("styles.qss", "r") as f:
             stylesheet = f.read()
             app.setStyleSheet(stylesheet)
-            print(f"Loaded stylesheet (first 100 chars): {stylesheet[:100]}")
     except FileNotFoundError:
         print("Warning: styles.qss not found.")
-    except Exception as e:
-        print(f"Error loading stylesheet: {e}")
 
     main_window = MainWindow()
-    main_window.show()
+
+    def show_main_window():
+        main_window.show()
+
+    login_window = LoginWindow(on_login_success=show_main_window)
+    login_window.show()
 
     with loop:
-        await loop.run_forever()
+        loop.run_forever()
+
 
 
 if __name__ == "__main__":
