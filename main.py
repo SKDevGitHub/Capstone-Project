@@ -279,10 +279,6 @@ class TelegramMessageDisplay(QWidget):
         # Removed setGeometry here, will be managed by MainWindow
         self.layout = QVBoxLayout(self)
 
-        self.load_button = QPushButton("Load Telegram JSON File")
-        self.load_button.clicked.connect(self.load_and_process_file)
-        self.layout.addWidget(self.load_button)
-
         self.scroll_area = QScrollArea()
         self.scroll_area.setWidgetResizable(True)
         self.scroll_content = QVBoxLayout()
@@ -290,6 +286,7 @@ class TelegramMessageDisplay(QWidget):
         container.setLayout(self.scroll_content)
         self.scroll_area.setWidget(container)
         self.layout.addWidget(self.scroll_area)
+        self.load_and_process_file()
 
     def parse_message_data(self, msg):
         """Parses a single message to extract date, coin, symbol, cap, and age."""
@@ -335,7 +332,7 @@ class TelegramMessageDisplay(QWidget):
         return None
 
     def load_and_process_file(self):
-        filename, _ = QFileDialog.getOpenFileName(self, "Open JSON", "", "JSON Files (*.json)")
+        filename = "telegram-scraper/TheDegenBoysLounge/TheDegenBoysLounge.json"
         if filename:
             with open(filename, 'r', encoding='utf-8') as f:
                 data = json.load(f)
@@ -422,4 +419,3 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
-            # **Crucial Step: Create a container widget and set its layout, then set it as the scroll area's widget
