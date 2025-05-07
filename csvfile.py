@@ -35,7 +35,7 @@ def plot_closing_prices(data_dict):
         plt.grid(True)
         plt.show()
 
-folder_path = "/Users/skautt/Downloads/archive/Meme Coin"
+folder_path = "/Users/skautt/Desktop/capstone/Capstone-Project/Meme Coin"
 coin_data = load_and_merge_data(folder_path)
 
 if coin_data:
