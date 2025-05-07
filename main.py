@@ -422,4 +422,3 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
-            # **Crucial Step: Create a container widget and set its layout, then set it as the scroll area's widget
