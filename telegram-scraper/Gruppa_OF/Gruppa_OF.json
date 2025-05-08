@@ -1,5 +1,3065 @@
 [
     {
+        "message_id": 29861,
+        "date": "2025-05-07 19:37:59",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29860,
+        "date": "2025-05-07 19:37:58",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29859,
+        "date": "2025-05-07 19:37:58",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "07.05.2025 Champions League.\nPSG🇨🇵 against Arsenal London🏴󠁧󠁢󠁥󠁮󠁧󠁿.",
+        "reply_to": null
+    },
+    {
+        "message_id": 29858,
+        "date": "2025-05-07 18:35:40",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "07.05.2025 Champions League.\nPSG🇨🇵 - Arsenal London🏴󠁧󠁢󠁥󠁮󠁧󠁿. Migrants vs 1312",
+        "reply_to": null
+    },
+    {
+        "message_id": 29857,
+        "date": "2025-05-07 17:09:02",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "07.05.2025 Danish cup, semifinale🇩🇰.\nSilkeborg - Brøndby IF",
+        "reply_to": null
+    },
+    {
+        "message_id": 29856,
+        "date": "2025-05-07 13:32:36",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "05.05.2025 Italy🇮🇹 street fight .\nGenoa vs Milan.\nAround 100 Genoa try to attack Milan but police avoid any contact",
+        "reply_to": 29840
+    },
+    {
+        "message_id": 29855,
+        "date": "2025-05-07 08:18:02",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29854,
+        "date": "2025-05-07 08:18:01",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29853,
+        "date": "2025-05-07 08:18:01",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "06.05.2025 Portugal 🇵🇹 \nBenfica fans last night vandalized lion statue before Lisbon derby",
+        "reply_to": null
+    },
+    {
+        "message_id": 29852,
+        "date": "2025-05-07 07:34:09",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29851,
+        "date": "2025-05-07 07:34:09",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29850,
+        "date": "2025-05-07 07:34:08",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29849,
+        "date": "2025-05-07 07:34:08",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29848,
+        "date": "2025-05-07 07:34:08",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29847,
+        "date": "2025-05-07 07:34:07",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29846,
+        "date": "2025-05-07 07:34:07",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29845,
+        "date": "2025-05-07 07:34:06",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "04.05.2025 Switzerland 🇨🇭 \nFC Sion choreo at home against FC Zürich",
+        "reply_to": null
+    },
+    {
+        "message_id": 29844,
+        "date": "2025-05-07 04:44:12",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "04.05.2025 Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿\nRangers fan in the derby against Celtic, waving an Israeli flag in front of the Celtic supporters.",
+        "reply_to": null
+    },
+    {
+        "message_id": 29843,
+        "date": "2025-05-06 18:45:08",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "03.05.2025 Germany 🇩🇪 3 league\nDynamo Dresden away in Bielefeld",
+        "reply_to": null
+    },
+    {
+        "message_id": 29842,
+        "date": "2025-05-06 18:28:34",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "06.05.2025 Champions League, Paris.\nBefore PSG🇨🇵 - Arsenal London 🏴󠁧󠁢󠁥󠁮󠁧󠁿. \nAfter PSG attacking grand dads😉 a few weeks ago 1312 is now waiting in a side street for them to come today aswell.\np.s. fight between PSG and Aston Villa in the bar a few weeks ago",
+        "reply_to": null
+    },
+    {
+        "message_id": 29841,
+        "date": "2025-05-06 16:36:16",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29840,
+        "date": "2025-05-06 16:36:16",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "05.05.2025 Italy🇮🇹 street fight .\nGenoa vs Milan.\nAround 100 Genoa try to attack Milan but police avoid any contact",
+        "reply_to": null
+    },
+    {
+        "message_id": 29839,
+        "date": "2025-05-06 04:47:28",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29838,
+        "date": "2025-05-06 04:47:28",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "04.05.2025 Belgium 🇧🇪 \nInfo Anderlecht: 20 young purple army soldiers (Anderlecht) rushed to attack 40 northern fanatics (Bruges), but Bruges escapes... it was 8:50 in the morning and there were no policemen. (Bruges did not show up)",
+        "reply_to": null
+    },
+    {
+        "message_id": 29837,
+        "date": "2025-05-05 20:04:56",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "02.05.2025 Germany 🇩🇪 \nNürnberg celebrating 125 Years of the Club in the Church of Nürnberg",
+        "reply_to": null
+    },
+    {
+        "message_id": 29836,
+        "date": "2025-05-05 18:54:02",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "04.05.2025 Belgium , cup final 🇧🇪\nClub Brugge - Anderlecht.\nInfo Brugge: Anderlecht ultras asking for protection because Bruges is there. \nHe say in french “on est anderlecht” it means we are Anderlecht. The guys are from ultras Anderlecht",
+        "reply_to": null
+    },
+    {
+        "message_id": 29835,
+        "date": "2025-05-05 18:14:09",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29834,
+        "date": "2025-05-05 18:14:09",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "03.05.2025 Germany 🇩🇪\nSt. Pauli attack some normal fans of VfB Stuttgart and throw pyrotechnics in a taxi with VfB fans",
+        "reply_to": null
+    },
+    {
+        "message_id": 29833,
+        "date": "2025-05-05 14:43:40",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "04.05.2025 Germany🇩🇪 \nFürth vs Ingolstadt.\nDuring a rest stop near Bayreuth on the A9, there was spontaneous contact between Fürth and Ingolstadt. Fürth then attacked Ingolstadt during the rest stop. They fled into the buses, but Fürth had the bus doors, which contained material. They stole the drums, the choreography, and individual fan scarves from Ingolstadt. When the police arrived, the Fürth buses were gone. An Ingolstadt fan was injured.",
+        "reply_to": null
+    },
+    {
+        "message_id": 29832,
+        "date": "2025-05-05 14:23:06",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "04.05.2025 Belgium 🇧🇪 \nBruges attack migrants in Molenbeek",
+        "reply_to": null
+    },
+    {
+        "message_id": 29831,
+        "date": "2025-05-05 13:35:12",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "XX.05.2025 Norway 🇳🇴 Arrange fight.\nBergen 𝕳ooligans vs Vålerenga Fight team. 6x6. Win Vålerenga.\n📸 Bergen",
+        "reply_to": null
+    },
+    {
+        "message_id": 29830,
+        "date": "2025-05-05 13:26:15",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29829,
+        "date": "2025-05-05 13:26:15",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29828,
+        "date": "2025-05-05 13:26:14",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29827,
+        "date": "2025-05-05 13:26:14",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29826,
+        "date": "2025-05-05 13:26:14",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "03.05.2025 Switzerland🇨🇭\nBSC Young Boys away in Lausanne against Lausanne-Sport",
+        "reply_to": null
+    },
+    {
+        "message_id": 29825,
+        "date": "2025-05-05 12:04:46",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "04.05.2025 Belgium cup, final🇧🇪 \n40 Bruges running vs 15 Anderlecht",
+        "reply_to": null
+    },
+    {
+        "message_id": 29824,
+        "date": "2025-05-05 11:54:20",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "04.05.2025 Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿\nRangers with material Celtic",
+        "reply_to": 29779
+    },
+    {
+        "message_id": 29823,
+        "date": "2025-05-05 10:32:35",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29822,
+        "date": "2025-05-05 10:32:34",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29821,
+        "date": "2025-05-05 10:32:34",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29820,
+        "date": "2025-05-05 10:32:34",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "03.05.2025 Germany 🇩🇪 \nVfB Stuttgart with stolen material from Sankt Pauli",
+        "reply_to": null
+    },
+    {
+        "message_id": 29819,
+        "date": "2025-05-05 10:20:56",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "04.05.2025 Belgium cup, final🇧🇪 \nBruges against police",
+        "reply_to": null
+    },
+    {
+        "message_id": 29818,
+        "date": "2025-05-05 10:11:13",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29817,
+        "date": "2025-05-05 10:11:13",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29816,
+        "date": "2025-05-05 10:11:13",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29815,
+        "date": "2025-05-05 10:11:12",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29814,
+        "date": "2025-05-05 10:11:12",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "03.05.2025 Ireland🇮🇪\nCliftonville in Irish cup final against Dungannon",
+        "reply_to": null
+    },
+    {
+        "message_id": 29813,
+        "date": "2025-05-05 09:48:57",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29812,
+        "date": "2025-05-05 09:48:57",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29811,
+        "date": "2025-05-05 09:48:56",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "04.05.2025 Italy 🇮🇹\nTorino supporters made a march in the city centre to protest against the owner. Around 20k people participated, with also representations of Genoa ultras and supporters from Fiorentina, River Plate, Benfica.\nYesterday it was also the commemoration of Superga tragedy of 1949, when Grande Torino died in the airplane accident. Every year in 4th may supporters and the entire team (players, staff and the OWNER) go to Superga to commemorate them. Yesterday, for the first time, the owner Urbano Cairo was obliged to not go with the team for security reasons, he had to go alone in the morning, while 20k fans were protesting against him in the city centre.",
+        "reply_to": null
+    },
+    {
+        "message_id": 29810,
+        "date": "2025-05-05 08:08:07",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "04.05.2025 Belgium 🇧🇪 \nBruges attack migrants in Molenbeek",
+        "reply_to": null
+    },
+    {
+        "message_id": 29809,
+        "date": "2025-05-05 07:41:17",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "04.05.2025 Germany 🇩🇪  Frankfurt in Mainz",
+        "reply_to": 29766
+    },
+    {
+        "message_id": 29808,
+        "date": "2025-05-05 07:00:11",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "04.05.2025 Italy🇮🇹 Ancona vs Giulianova",
+        "reply_to": null
+    },
+    {
+        "message_id": 29807,
+        "date": "2025-05-05 05:43:00",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "04.05.2025 Belgium cup, final🇧🇪 Anderlecht attacked 1312",
+        "reply_to": null
+    },
+    {
+        "message_id": 29806,
+        "date": "2025-05-05 04:52:24",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "04.05.2025 Belgium 🇧🇪 \nBruges before cupfinal against Anderlecht",
+        "reply_to": null
+    },
+    {
+        "message_id": 29805,
+        "date": "2025-05-05 04:39:07",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29804,
+        "date": "2025-05-05 04:39:06",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29803,
+        "date": "2025-05-05 04:39:06",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "04.05.2025 Germany 🇩🇪  Frankfurt with 8000 away fans in Mainz",
+        "reply_to": null
+    },
+    {
+        "message_id": 29802,
+        "date": "2025-05-04 21:00:53",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "04.05.2025 Belgium 🇧🇪 \nArabs migrants attacked Bruges",
+        "reply_to": 29798
+    },
+    {
+        "message_id": 29801,
+        "date": "2025-05-04 20:56:56",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "04.05.2025 Belgium cup, final 🇧🇪 \nAnderlecht try to attack Bruges",
+        "reply_to": null
+    },
+    {
+        "message_id": 29800,
+        "date": "2025-05-04 20:37:45",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29799,
+        "date": "2025-05-04 20:37:45",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29798,
+        "date": "2025-05-04 20:37:45",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "04.05.2025 Belgium 🇧🇪 \nArabs migrants attacked Bruges",
+        "reply_to": null
+    },
+    {
+        "message_id": 29797,
+        "date": "2025-05-04 20:20:37",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "04.05.2025 Belgium 🇧🇪 \nAnderlecht attacked Bruges",
+        "reply_to": null
+    },
+    {
+        "message_id": 29796,
+        "date": "2025-05-04 20:15:45",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "02.05.2025 France 🇫🇷\nDankerque - Laval. Laval vs 1312",
+        "reply_to": null
+    },
+    {
+        "message_id": 29794,
+        "date": "2025-05-04 19:56:08",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "04.05.2025 Poland 🇵🇱 \nJagiellonia Białystok today against Górnik",
+        "reply_to": null
+    },
+    {
+        "message_id": 29793,
+        "date": "2025-05-04 19:47:52",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "04.05.2025 Belgium 🇧🇪 \nAjax Amsterdam 🇳🇱 🤝 Anderlecht today at Belgium cupfinal.",
+        "reply_to": null
+    },
+    {
+        "message_id": 29792,
+        "date": "2025-05-04 18:14:49",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": 29789
+    },
+    {
+        "message_id": 29791,
+        "date": "2025-05-04 18:14:48",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "03.05.2025 Georgia 🇬🇪 \nInfo Dinamo Batumi: Torpedo Kutaisi \"hooligans\" used knives, batons and chains",
+        "reply_to": 29789
+    },
+    {
+        "message_id": 29790,
+        "date": "2025-05-04 17:51:46",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29789,
+        "date": "2025-05-04 17:51:46",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "03.05.2025 Georgia 🇬🇪 \nTorpedo hooligans attack Dinamo Batumi ultras and they took away the banner.",
+        "reply_to": null
+    },
+    {
+        "message_id": 29788,
+        "date": "2025-05-04 17:43:08",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29787,
+        "date": "2025-05-04 17:43:08",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29786,
+        "date": "2025-05-04 17:43:08",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29785,
+        "date": "2025-05-04 17:43:07",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29784,
+        "date": "2025-05-04 17:43:07",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿𝘀 𝗙𝗿𝗼𝗺 𝗚𝗘𝗥𝗠𝗔𝗡𝗬 🇩🇪\n\npyro Wolfsburg yesterday against  Borussia Dortmund\n\nᴄʜᴇᴀᴘᴇꜱᴛ ᴘʀɪᴄᴇꜱ 🧮\nɪꜰ ʏᴏᴜ ꜰɪɴᴅ ɪᴛ ᴄʜᴇᴀᴘᴇʀ, ᴡᴇ ᴡɪʟʟ ʀᴇꜰᴜɴᴅ ᴛʜᴇ ᴅɪꜰꜰᴇʀᴇɴᴄᴇ 💳\n\nɴᴇxᴛ ᴘᴀʀᴄᴇʟ ꜱʜɪᴘᴍᴇɴᴛ ɪꜱ\n05.05.𝟤𝟢𝟤5, ᴅᴇʟɪᴠᴇʀʏ 𝟤-𝟧 ᴅᴀʏꜱ \n\n📩 https://t.me/GruppaOFPyroBot",
+        "reply_to": null
+    },
+    {
+        "message_id": 29783,
+        "date": "2025-05-04 17:07:54",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "03.05.2025 Germany 🇩🇪 3 league\nDynamo Dresden in Bielefeld",
+        "reply_to": null
+    },
+    {
+        "message_id": 29782,
+        "date": "2025-05-04 16:57:29",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "04.05.2025 Belgium 🇧🇪 \nBruges before cupfinal against Anderlecht",
+        "reply_to": null
+    },
+    {
+        "message_id": 29781,
+        "date": "2025-05-04 16:13:01",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29780,
+        "date": "2025-05-04 16:13:00",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29779,
+        "date": "2025-05-04 16:13:00",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "04.05.2025 Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿\nRangers today against Celtic",
+        "reply_to": null
+    },
+    {
+        "message_id": 29778,
+        "date": "2025-05-04 16:03:04",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "XX.XX.2025 Arrange fight, U21. \nSpartak Trnava (RBA🇸🇰) vs Sparta Praha🇨🇿. 11x11. 55 sec. Win. Spartak Trnava (RBA)",
+        "reply_to": null
+    },
+    {
+        "message_id": 29777,
+        "date": "2025-05-04 15:10:44",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "XX.05.2025 Kazakhstan 🇰🇿  Arrange fight.\nVerniy 70 (Kairat) vs West Wind (Actobe). 10х10. 1,30 min. Win. West Wind",
+        "reply_to": null
+    },
+    {
+        "message_id": 29776,
+        "date": "2025-05-04 14:45:37",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "03.05.2025 Finland🇫🇮 \nUsual Suspects+Young Suspects (HJK) on tour to Turku",
+        "reply_to": null
+    },
+    {
+        "message_id": 29775,
+        "date": "2025-05-04 14:37:06",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "04.05.2025 Switzerland🇨🇭 \nFC Basel vs Servette",
+        "reply_to": null
+    },
+    {
+        "message_id": 29774,
+        "date": "2025-05-04 13:32:01",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "03.05.2025 Croatia🇭🇷\nBBB (Dinamo Zagreb) last night after win against Hajduk Split.",
+        "reply_to": null
+    },
+    {
+        "message_id": 29773,
+        "date": "2025-05-04 12:39:12",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "04.05.2025 Italy 🇮🇹 \nAtalanta fans in Monza. Banner dedicated to the killed fan \"Claris\"",
+        "reply_to": 29766
+    },
+    {
+        "message_id": 29772,
+        "date": "2025-05-04 11:48:26",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "04.05.2025 Belgium 🇧🇪 \nBruges before cupfinal against Anderlecht",
+        "reply_to": null
+    },
+    {
+        "message_id": 29771,
+        "date": "2025-05-04 11:23:37",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29770,
+        "date": "2025-05-04 11:23:37",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29769,
+        "date": "2025-05-04 11:23:36",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29768,
+        "date": "2025-05-04 11:23:36",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "04.05.2025 Germany 🇩🇪  2 league.\nBirthday 1. FC Nürnberg 125 years, march through the city before Nuremberg - Elversberg",
+        "reply_to": null
+    },
+    {
+        "message_id": 29767,
+        "date": "2025-05-04 11:23:10",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "XX.XX.2025 Arrange fight, U21. \nSpartak Trnava (RBA🇸🇰) vs Sparta Praha🇨🇿. 11x11. 55 sec. Win. Spartak Trnava (RBA)",
+        "reply_to": null
+    },
+    {
+        "message_id": 29766,
+        "date": "2025-05-04 10:58:52",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "03.05.2025 Italy 🇮🇹 \nFight Atalanta vs Inter. one 26 year old stabbed to death.\nR* C* was stabbed in the back by a 19-year-old Inter fan, J* D* S*, who voluntarily surrendered to authorities",
+        "reply_to": null
+    },
+    {
+        "message_id": 29765,
+        "date": "2025-05-04 09:33:34",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "03.05.2025 Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿\nGreen Brigade (Celtic) with Rangers material",
+        "reply_to": null
+    },
+    {
+        "message_id": 29764,
+        "date": "2025-05-04 09:16:52",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "03.05.2024 Germany🇩🇪 2 leaugue \n\nAngry FC Köln fans yesterday after the game againsg Regensburg that they only Played 1:1.\n\nAfter they had a  big lead for the Promotion to 1.bundesliga,it seems now that it is possible that they dont go to Promotion",
+        "reply_to": null
+    },
+    {
+        "message_id": 29760,
+        "date": "2025-05-04 08:32:50",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29759,
+        "date": "2025-05-04 08:32:50",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "03.05.2025 Poland 🇵🇱 \nperformance Śląsk Wrocław last night against Zagłębie Lublin",
+        "reply_to": null
+    },
+    {
+        "message_id": 29758,
+        "date": "2025-05-04 08:23:32",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29757,
+        "date": "2025-05-04 08:23:31",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29756,
+        "date": "2025-05-04 08:23:31",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29755,
+        "date": "2025-05-04 08:23:30",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "03.05.2025 Germany 🇩🇪 2 league.\nHannover 96 away against Ulm",
+        "reply_to": null
+    },
+    {
+        "message_id": 29750,
+        "date": "2025-05-04 08:03:40",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "03.05.2025 Italy 🇮🇹 Lecce - Napoli.\nLecce protest against italian league",
+        "reply_to": null
+    },
+    {
+        "message_id": 29749,
+        "date": "2025-05-04 07:27:04",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "XX.04.2025 Sweden🇸🇪 Arrange fight.\nÖrgryte Boxningssällskap vs Norrköping (NG). 5x5. Win. Örgryte.",
+        "reply_to": null
+    },
+    {
+        "message_id": 29748,
+        "date": "2025-05-04 06:31:38",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "03.05.2025 Belgium 🇧🇪 \nAnderlecht before cup final against Bruges",
+        "reply_to": null
+    },
+    {
+        "message_id": 29747,
+        "date": "2025-05-04 06:25:59",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "03.05.2025 Northern Ireland. Cliftonville fighting amongst themselves",
+        "reply_to": null
+    },
+    {
+        "message_id": 29746,
+        "date": "2025-05-03 20:27:24",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "03.05.2025 Italy 🇮🇹 \nultras groups of Napoli fight among themselves in Lecce",
+        "reply_to": null
+    },
+    {
+        "message_id": 29745,
+        "date": "2025-05-03 19:34:02",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29744,
+        "date": "2025-05-03 19:34:01",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29743,
+        "date": "2025-05-03 19:34:01",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "03.05.2025 Italy 🇮🇹  Inter vs VERONA",
+        "reply_to": null
+    },
+    {
+        "message_id": 29742,
+        "date": "2025-05-03 17:05:01",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29741,
+        "date": "2025-05-03 17:05:01",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "03.05.2025 France 🇫🇷 Arrange fight.\nIndeps Auxerre vs Brigade Arverne (Indeps Clermont-Ferrand). 6x6. 30 sec Win. Brigade Arverne",
+        "reply_to": null
+    },
+    {
+        "message_id": 29740,
+        "date": "2025-05-03 16:40:13",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "03.05.2025 Italy 🇮🇹 \nNapoli inside figth FEDAYN vs CURVA A",
+        "reply_to": null
+    },
+    {
+        "message_id": 29739,
+        "date": "2025-05-03 15:55:09",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "03.05.2025 Croatia 🇭🇷 \nHajduk Split - Dinamo Zagreb pyroshow",
+        "reply_to": null
+    },
+    {
+        "message_id": 29738,
+        "date": "2025-05-03 13:49:07",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29737,
+        "date": "2025-05-03 13:49:06",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29736,
+        "date": "2025-05-03 13:49:06",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "03.05.2025 Germany 🇩🇪 2 league.\nHannover 96 away against Ulm",
+        "reply_to": null
+    },
+    {
+        "message_id": 29735,
+        "date": "2025-05-03 12:14:17",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "XX.XX.2025 Arrange fight, U22.\nBrøndby (FFY🇩🇰) vs Hertha Berlin🇩🇪. 10x10. Win Brøndby.",
+        "reply_to": null
+    },
+    {
+        "message_id": 29734,
+        "date": "2025-05-03 11:56:09",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "03.05.2025 Cliftonville 2 hours before North Irish cup final against D.S. FC",
+        "reply_to": null
+    },
+    {
+        "message_id": 29733,
+        "date": "2025-05-03 11:52:59",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "02.05.2025 Bulgaria 🇧🇬 \nAfter match Lokomotiv Plovdiv - Lokomotiv Sofia.\nInfo Bultras Youths: Botev Plovdiv, on top vs Lauta Youths (Lokomotiv Plovdiv, down side). ~6x25. Lauta Youths run without a fight",
+        "reply_to": null
+    },
+    {
+        "message_id": 29732,
+        "date": "2025-05-03 11:39:36",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29731,
+        "date": "2025-05-03 11:39:36",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29730,
+        "date": "2025-05-03 11:39:35",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29729,
+        "date": "2025-05-03 11:39:35",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29728,
+        "date": "2025-05-03 11:39:34",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29727,
+        "date": "2025-05-03 11:39:34",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "03.05.2025 Croatia🇭🇷\nTorcida (Hajduk) vs BBB (Dinamo Zagreb) in Split. Arrested: 85 (BBB), 25 (Split).",
+        "reply_to": null
+    },
+    {
+        "message_id": 29726,
+        "date": "2025-05-03 11:27:56",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "XX.05.2025 Arrange fight, U19.\nKøbenhavn🇩🇰 vs Lübeck🇩🇪. 2 rounds.\n1 round:  8x8. 2,15 min. hard and fair fight. \n2 round: 2x2, 50 sec.\nWin. København both rounds",
+        "reply_to": null
+    },
+    {
+        "message_id": 29725,
+        "date": "2025-05-03 11:03:18",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "03.05.2025 Croatia 🇭🇷 street fight.\nHajduk Split vs Dinamo Zagreb. 200x80.",
+        "reply_to": null
+    },
+    {
+        "message_id": 29724,
+        "date": "2025-05-03 10:45:31",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "03.05.2025 Croatia 🇭🇷 street fight.\nHajduk Split vs Dinamo Zagreb.\nBad Blue Boys (Dinamo Zagreb) after fight. 1312",
+        "reply_to": null
+    },
+    {
+        "message_id": 29723,
+        "date": "2025-05-03 10:35:20",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "03.05.2025 Croatia 🇭🇷.\nAfter fight Hajduk Split vs Dinamo Zagreb👌",
+        "reply_to": null
+    },
+    {
+        "message_id": 29721,
+        "date": "2025-05-03 09:39:09",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "03.05.2025 Croatia 🇭🇷 street fight.\nHajduk Split vs Dinamo Zagreb. 200x80. Win. Hajduk",
+        "reply_to": null
+    },
+    {
+        "message_id": 29720,
+        "date": "2025-05-03 09:09:52",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29719,
+        "date": "2025-05-03 09:09:51",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "03.05.2025 Croatia 🇭🇷 street fight.\nHajduk Split vs Dinamo Zagreb",
+        "reply_to": null
+    },
+    {
+        "message_id": 29718,
+        "date": "2025-05-03 09:05:15",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29717,
+        "date": "2025-05-03 09:05:15",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "27.04.2025 Italy 🇮🇹 \n7 divisione Lazio Italy. Tecchiena  vs Cisterna.",
+        "reply_to": null
+    },
+    {
+        "message_id": 29716,
+        "date": "2025-05-03 08:16:34",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "02.03.2025 Greece 🇬🇷 \nStreetfight PAOK - AEK. 2 PAOK busses were going to Athens for futsal game and stopped at a restaurant. AEK fans for the derby vs Olympiacos and stopped to the same parking without knowing that PAOK fans were there. PAOK fans understood that they were aek fans and started to hit them with chairs from the restaurant. 2 AEK fans injured",
+        "reply_to": null
+    },
+    {
+        "message_id": 29715,
+        "date": "2025-05-03 07:07:33",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "02.05.2025 Germany🇩🇪 4 league.\n FC Sc𝕳weinfurt last night",
+        "reply_to": null
+    },
+    {
+        "message_id": 29714,
+        "date": "2025-05-03 07:04:18",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "02.05.2025 Germany🇩🇪 Derby match FC Schweinfurt against Würzburger Kickers and celebration of promotion to the 3rd league",
+        "reply_to": null
+    },
+    {
+        "message_id": 29713,
+        "date": "2025-05-03 06:06:57",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "01.05.2025 Conference League.\nReal Betis🇪🇸 - Fiorentina🇮🇹. Betis 🤝 Porto🇵🇹",
+        "reply_to": null
+    },
+    {
+        "message_id": 29712,
+        "date": "2025-05-02 16:44:28",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "02.05.2025 Germany 🇩🇪 \nSchalke at home against Paderborn",
+        "reply_to": null
+    },
+    {
+        "message_id": 29711,
+        "date": "2025-05-02 15:20:20",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29710,
+        "date": "2025-05-02 15:20:20",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "02.05.2025 Poland🇵🇱 cup, final.\nLegia Warszawa against Pogoń Szczecin",
+        "reply_to": null
+    },
+    {
+        "message_id": 29709,
+        "date": "2025-05-02 14:17:57",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "02.05.2025 Pogoń Szczecin🇵🇱 today cup final against Legia Warszawa",
+        "reply_to": null
+    },
+    {
+        "message_id": 29708,
+        "date": "2025-05-02 13:36:55",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "02.05.2025 Pogoń Szczecin🇵🇱 🤝 Feyenoord Rotterdam🇳🇱 before cup final against Legia Warszawa",
+        "reply_to": null
+    },
+    {
+        "message_id": 29707,
+        "date": "2025-05-02 13:35:40",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "02.05.2025 Pogoń Szczecin🇵🇱 🤝 Feyenoord Rotterdam🇳🇱 before cup final against Legia Warszawa",
+        "reply_to": null
+    },
+    {
+        "message_id": 29706,
+        "date": "2025-05-02 11:44:14",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29705,
+        "date": "2025-05-02 11:44:13",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29704,
+        "date": "2025-05-02 11:44:13",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "02.05.2025 Today Polish final cup🇵🇱\nLegia Warszawa before  match against Pogoń Szczecin",
+        "reply_to": null
+    },
+    {
+        "message_id": 29703,
+        "date": "2025-05-02 09:47:16",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "01.05.2025 Conference League.\nSemifinal yesterday, Djurgården🇸🇪 messege to Chelsea🏴󠁧󠁢󠁥󠁮󠁧󠁿 ”Owned by the members, you’ll never sing that”.",
+        "reply_to": null
+    },
+    {
+        "message_id": 29702,
+        "date": "2025-05-02 08:51:50",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29701,
+        "date": "2025-05-02 08:51:50",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "01.05.2025 Netherlands 🇳🇱\nVolendam last night in honor of the championship",
+        "reply_to": null
+    },
+    {
+        "message_id": 29700,
+        "date": "2025-05-02 08:17:09",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29699,
+        "date": "2025-05-02 08:17:09",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "01.05.2025 Europa League.\nPerformance Tottenham 🏴󠁧󠁢󠁥󠁮󠁧󠁿 last night",
+        "reply_to": null
+    },
+    {
+        "message_id": 29698,
+        "date": "2025-05-01 20:55:15",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29697,
+        "date": "2025-05-01 20:55:15",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29696,
+        "date": "2025-05-01 20:55:15",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29695,
+        "date": "2025-05-01 20:55:14",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29694,
+        "date": "2025-05-01 20:55:14",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "27.04.2025 Austria 🇦🇹 \nSturm Graz against Austria Wien",
+        "reply_to": null
+    },
+    {
+        "message_id": 29693,
+        "date": "2025-05-01 20:49:41",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "01.05.2025 Netherlands 🇳🇱\nVolendam today in honor of the championship",
+        "reply_to": null
+    },
+    {
+        "message_id": 29692,
+        "date": "2025-05-01 19:38:09",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29691,
+        "date": "2025-05-01 19:38:09",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29690,
+        "date": "2025-05-01 19:38:08",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29689,
+        "date": "2025-05-01 19:38:08",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "01.05.2025 Conference League.\nDjurgården 🇸🇪 home against Chelsea 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "reply_to": null
+    },
+    {
+        "message_id": 29688,
+        "date": "2025-05-01 18:55:30",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29687,
+        "date": "2025-05-01 18:55:30",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "01.05.2025 Europa League.\nBilbao🇪🇸 before game against Manchester United 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "reply_to": null
+    },
+    {
+        "message_id": 29686,
+        "date": "2025-05-01 10:16:17",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29685,
+        "date": "2025-05-01 10:16:17",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "30.04.2025 Russia cup🇷🇺\nperformance Zenit St. Petersburg last night against CSKA Moscow",
+        "reply_to": null
+    },
+    {
+        "message_id": 29684,
+        "date": "2025-05-01 08:30:04",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29683,
+        "date": "2025-05-01 08:30:04",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "01.05.2025 Conference League\nReal Betis 🇪🇸 vs Fiorentina 🇮🇹\nInfo Betis: We knew they were with the police, but we had to attack them. The video where we're running is the end because the police were also coming, and that place is the center of the city.\nInfo Fiorentina: Betis tried to attack Fiorentina. Betis ran away it's not true that they ran away from the police there are many videos where you can see that we chase them without the police",
+        "reply_to": null
+    },
+    {
+        "message_id": 29682,
+        "date": "2025-05-01 05:58:55",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "30.04.2025 Conference League.\n53 Supporters Gol Sur (Real Betis🇪🇸) before attack on 90 ultras Fiorentina🇮🇹",
+        "reply_to": null
+    },
+    {
+        "message_id": 29681,
+        "date": "2025-05-01 04:48:56",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29680,
+        "date": "2025-05-01 04:48:56",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "01.05.2025 Conference League\nReal Betis 🇪🇸 vs Fiorentina 🇮🇹",
+        "reply_to": null
+    },
+    {
+        "message_id": 29679,
+        "date": "2025-05-01 04:42:11",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "01.05.2025 Conference League\nBetis (right🇪🇸) attacked Fiorentina (left🇮🇹). \nInfo Betis: We knew they were with the police, but we had to attack them. The video where we're running is the end because the police were also coming, and that place is the center of the city.\nInfo Fiorentina: Betis tried to attack Fiorentina. Betis ran away it's not true that they ran away from the police there are many videos where you can see that we chase them without the police",
+        "reply_to": null
+    },
+    {
+        "message_id": 29678,
+        "date": "2025-04-30 18:48:01",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29677,
+        "date": "2025-04-30 18:48:00",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29676,
+        "date": "2025-04-30 18:48:00",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "30.04.2025 Champions League.\nCurva Nord (Inter Milano🇮🇹) in Barcelona🇪🇸 before semi final",
+        "reply_to": null
+    },
+    {
+        "message_id": 29675,
+        "date": "2025-04-30 18:26:05",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29674,
+        "date": "2025-04-30 18:26:04",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29673,
+        "date": "2025-04-30 18:26:04",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29672,
+        "date": "2025-04-30 18:26:03",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29671,
+        "date": "2025-04-30 18:26:03",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29670,
+        "date": "2025-04-30 18:26:03",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "27.04.2025 Germany 🇩🇪  2 league.\nFC Köln ultras away at Hannover",
+        "reply_to": null
+    },
+    {
+        "message_id": 29669,
+        "date": "2025-04-30 17:20:28",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29668,
+        "date": "2025-04-30 17:20:27",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "30.04.2025 Serbia🇷🇸 Streetfight Grobari (Partizan) vs Delije (Crvena Zvezda). 8x4. Grobari with weapons and Delije only with hands",
+        "reply_to": null
+    },
+    {
+        "message_id": 29667,
+        "date": "2025-04-30 15:27:39",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "30.04.2025 Netherlands 🇳🇱\nWell known Brigata Tifosi (De Graafschap) from the Netherlands are disbanding by their own choice.\nAfter 21.5 years, we have decided with a heavy heart to stop as BT. A decision that has been coming for some time, but which we have been able to postpone through various efforts in recent years. Unfortunately, there are a number of factors, both inside and outside the group, that make it impossible to continue supporting our club as we have done for all those years. And so we have to be honest, to ourselves and to the club. We do it with full dedication, or we don't do it at all. This is the reason why we have made the decision to put an end to BT after this season. Of course, this does not mean that we will no longer be seen at De Spinnekop or during away matches. A fanatic Graafschapper is something you are for life!",
+        "reply_to": null
+    },
+    {
+        "message_id": 29666,
+        "date": "2025-04-30 12:08:31",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿\nUnreleased footage from Union Bears (Rangers) vs Green Brigade/asu earlier this season with commentary from Green Brigade",
+        "reply_to": null
+    },
+    {
+        "message_id": 29665,
+        "date": "2025-04-29 17:52:52",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "29.04.2025 Champions League.\nArsenal London🏴󠁧󠁢󠁥󠁮󠁧󠁿- PSG🇨🇵. PSG corteo away before match",
+        "reply_to": 29663
+    },
+    {
+        "message_id": 29664,
+        "date": "2025-04-29 17:40:28",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "29.04.2025 Champions League.\nArsenal🏴󠁧󠁢󠁥󠁮󠁧󠁿 - PSG🇨🇵. 📱📱📱 on tour",
+        "reply_to": null
+    },
+    {
+        "message_id": 29663,
+        "date": "2025-04-29 17:23:52",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "29.04.2025 Champions League.\nArsenal🏴󠁧󠁢󠁥󠁮󠁧󠁿 - PSG🇨🇵. PSG corteo before match",
+        "reply_to": null
+    },
+    {
+        "message_id": 29662,
+        "date": "2025-04-29 17:19:32",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "ХХ.04.2025 Hungary🇭🇺 Arrange fight, U18. \nNyíregyháza (Eastern Boys) vs Kispest (Troublemakers). 6x6. Win. Nyíregyháza",
+        "reply_to": null
+    },
+    {
+        "message_id": 29661,
+        "date": "2025-04-29 11:38:52",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "27.4.2025 Italy 🇮🇹 serie C. Avellino - Altamura.",
+        "reply_to": null
+    },
+    {
+        "message_id": 29660,
+        "date": "2025-04-29 04:42:02",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29659,
+        "date": "2025-04-29 04:42:02",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29658,
+        "date": "2025-04-29 04:42:01",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29657,
+        "date": "2025-04-29 04:42:01",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "25.04.2025 Hungary 🇭🇺 \nDebrecen away against Nyíregyháza",
+        "reply_to": null
+    },
+    {
+        "message_id": 29656,
+        "date": "2025-04-28 19:09:20",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "27.04.2025 Austria🇦🇹 Austria Vienna yesterday away at Sturm Graz",
+        "reply_to": null
+    },
+    {
+        "message_id": 29655,
+        "date": "2025-04-28 18:09:32",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29654,
+        "date": "2025-04-28 18:09:32",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "27.04.2025 France 🇫🇷\nMarseille vs Brest. ultras Marseille (South Winners group) made a tribute to the Pope.\n\nIn 2023, the Argentine Pope Francis visited Marseille’s Vélodrome Stadium and famously declared, « I come to Marseille, not to France »This rebellious statement displeased the Parisian elites but strongly resonated with the people of Marseille, who share proud rebellious values rooted in the Mediterranean and Argentine values that is closeness to the people over allegiance to the elites. This phrase was later honored yesterday night by the South Winners 87 Ultras , a group deeply inspired by the revolutionary Argentine Che Guevara, to pay tribute to Pope Francis.",
+        "reply_to": null
+    },
+    {
+        "message_id": 29653,
+        "date": "2025-04-28 10:55:19",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29652,
+        "date": "2025-04-28 10:55:19",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "27.04.2025 England 🏴󠁧󠁢󠁥󠁮󠁧󠁿\nBlue flares were spotted in the Liverpool’s crowd after an Everton fan bought 1 000 blue flares and replaced the blue labels with red ones,",
+        "reply_to": null
+    },
+    {
+        "message_id": 29651,
+        "date": "2025-04-28 08:01:56",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29650,
+        "date": "2025-04-28 08:01:56",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "27.04.2025 Norway 🇳🇴 \nperformance Lillestrøm away against FC Lyn Oslo. 3300 away fans",
+        "reply_to": null
+    },
+    {
+        "message_id": 29649,
+        "date": "2025-04-28 04:52:59",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "27.04.2025 Slovenia 🇸🇮 \nGreen Dragons Ljubljana on their way from train station to Celje stadium through the Celje city centre",
+        "reply_to": null
+    },
+    {
+        "message_id": 29648,
+        "date": "2025-04-27 20:05:20",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "27.04.2025 Italy🇮🇹 Atalanta - Lecce.\nAtalanta ultras against Liga italiana",
+        "reply_to": null
+    },
+    {
+        "message_id": 29647,
+        "date": "2025-04-27 17:58:35",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29646,
+        "date": "2025-04-27 17:58:35",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "26.04.2025 Spain cup🇪🇸\nBarcelona - Real Madrid. Ultras Sur (Real Madrid) in Sevilla.",
+        "reply_to": null
+    },
+    {
+        "message_id": 29645,
+        "date": "2025-04-27 14:37:50",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29644,
+        "date": "2025-04-27 14:37:49",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29643,
+        "date": "2025-04-27 14:37:49",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29642,
+        "date": "2025-04-27 14:37:49",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "27.04.2025 Switzerland  cup 1/2🇨🇭 \nBasel against Lausanne Sport",
+        "reply_to": null
+    },
+    {
+        "message_id": 29641,
+        "date": "2025-04-27 13:58:42",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "25.04.2025 Germany🇩🇪 4th Divison. Hallescher FC burning material Chemie Leipzig",
+        "reply_to": null
+    },
+    {
+        "message_id": 29640,
+        "date": "2025-04-27 12:55:22",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29639,
+        "date": "2025-04-27 12:55:22",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "27.04.2025 Germany🇩🇪 2 League \nFC Köln fans in Hannover today.\n\nAfter FC Köln ultras promised last week that the next pyro will come soon (after 310.000€ fine from DFB), today it happened. After the pyro they showed a Banner with \"as promised\"",
+        "reply_to": null
+    },
+    {
+        "message_id": 29638,
+        "date": "2025-04-27 12:40:12",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29637,
+        "date": "2025-04-27 12:40:12",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29636,
+        "date": "2025-04-27 12:40:11",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29635,
+        "date": "2025-04-27 12:40:11",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29634,
+        "date": "2025-04-27 12:40:11",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "26.04.2025 Czech🇨🇿 \nSlavia Prague away in Olomouc",
+        "reply_to": null
+    },
+    {
+        "message_id": 29633,
+        "date": "2025-04-27 11:38:34",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "27.04.2025 Germany🇩🇪 2 league.\nChoreographie Kaiserslautern against Schalke",
+        "reply_to": null
+    },
+    {
+        "message_id": 29632,
+        "date": "2025-04-27 11:35:07",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29631,
+        "date": "2025-04-27 11:35:07",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29630,
+        "date": "2025-04-27 11:35:06",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "26.04.2025 Austria🇦🇹 3 league.\nSV Austria Salzburg at home vs FC Lauterach\n\nInfo from @GruppaOFbot",
+        "reply_to": null
+    },
+    {
+        "message_id": 29629,
+        "date": "2025-04-27 11:27:40",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29628,
+        "date": "2025-04-27 11:27:39",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29627,
+        "date": "2025-04-27 11:27:39",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "27.04.2025 Bosnia 🇧🇦 \nThe Maniacs (FK Željezničar Sarajevo) corteo before derby FK Sarajevo - Zeljeznicar",
+        "reply_to": null
+    },
+    {
+        "message_id": 29626,
+        "date": "2025-04-27 11:15:16",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "27.04.2025 Germany🇩🇪 2 league.\n20.000 FC Köln fans in Hannover today before 45 min game",
+        "reply_to": null
+    },
+    {
+        "message_id": 29625,
+        "date": "2025-04-27 10:54:27",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29624,
+        "date": "2025-04-27 10:54:27",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "27.04.2025 Bosnia 🇧🇦 \nThe Maniacs corteo before derby Sarajevo Zeljeznicar",
+        "reply_to": null
+    },
+    {
+        "message_id": 29623,
+        "date": "2025-04-27 10:48:41",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "XX.04.2025 Poland 🇵🇱 Streetfight on the way. Orląt Radzyń vs AZS Podlasie. 39x34. Win. Orląt Radzyń.",
+        "reply_to": null
+    },
+    {
+        "message_id": 29622,
+        "date": "2025-04-27 10:21:19",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "27.04.2025 Germany🇩🇪 2 League \n20.000 FC Köln fans in Hannover today",
+        "reply_to": null
+    },
+    {
+        "message_id": 29621,
+        "date": "2025-04-27 08:38:03",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "26.04.2025 Switzerland cup 1/2🇨🇭 \nBSC Young Boys Bern away agains FC Biel Bienne",
+        "reply_to": null
+    },
+    {
+        "message_id": 29620,
+        "date": "2025-04-27 08:24:33",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "26.04.2025 Spain cup🇪🇸\nBarcelona - Real Madrid.\nPlayer with flag of Boixos Nois in celebration",
+        "reply_to": 29613
+    },
+    {
+        "message_id": 29619,
+        "date": "2025-04-27 08:10:45",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29618,
+        "date": "2025-04-27 08:10:45",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29617,
+        "date": "2025-04-27 08:10:44",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29616,
+        "date": "2025-04-27 08:10:44",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "26.04.2025 Spain cup🇪🇸\nBarcelona - Real Madrid. Boixos Nois (𝕳ooligans FC Barcelona) in Seville vs 1312",
+        "reply_to": null
+    },
+    {
+        "message_id": 29615,
+        "date": "2025-04-27 08:04:09",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29614,
+        "date": "2025-04-27 08:04:08",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29613,
+        "date": "2025-04-27 08:04:08",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "26.04.2025 Spain cup🇪🇸Barcelona - Real Madrid. Boixos Nois (𝕳ooligans FC Barcelona)",
+        "reply_to": null
+    },
+    {
+        "message_id": 29612,
+        "date": "2025-04-27 07:49:58",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29611,
+        "date": "2025-04-27 07:49:58",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29610,
+        "date": "2025-04-27 07:49:57",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29609,
+        "date": "2025-04-27 07:49:57",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "26.04.2025 England🏴󠁧󠁢󠁥󠁮󠁧󠁿 FA Cup.\nCrystal Palace against Aston Villa",
+        "reply_to": null
+    },
+    {
+        "message_id": 29608,
+        "date": "2025-04-26 22:20:18",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29607,
+        "date": "2025-04-26 22:20:18",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29606,
+        "date": "2025-04-26 22:20:18",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "26.04.2025 France🇫🇷\nFC Lorient is champion of Ligue 2. FC Lorient promoted back to Ligue 1",
+        "reply_to": null
+    },
+    {
+        "message_id": 29605,
+        "date": "2025-04-26 21:46:33",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29604,
+        "date": "2025-04-26 21:46:33",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29603,
+        "date": "2025-04-26 21:46:32",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29602,
+        "date": "2025-04-26 21:46:32",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29601,
+        "date": "2025-04-26 21:46:31",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29600,
+        "date": "2025-04-26 21:46:31",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29599,
+        "date": "2025-04-26 21:46:30",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29598,
+        "date": "2025-04-26 21:46:30",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29597,
+        "date": "2025-04-26 21:46:30",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29596,
+        "date": "2025-04-26 21:46:29",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "26.04.2025 Poland 🇵🇱  4 league.\nKS Promień Żary vs ZKS Dozamet Nowa Sól",
+        "reply_to": null
+    },
+    {
+        "message_id": 29595,
+        "date": "2025-04-26 20:27:36",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29594,
+        "date": "2025-04-26 20:27:36",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29593,
+        "date": "2025-04-26 20:27:35",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "26.04.2025 Switzerland cup 1/2🇨🇭 \nBSC Young Boys Bern away agains FC Biel Bienne",
+        "reply_to": null
+    },
+    {
+        "message_id": 29589,
+        "date": "2025-04-26 20:16:04",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "26.04.2025 Final Piala Malaysia 🇲🇾 Casual Pahang (DME) vs Casual Johor (IJF)",
+        "reply_to": null
+    },
+    {
+        "message_id": 29588,
+        "date": "2025-04-26 19:59:41",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29587,
+        "date": "2025-04-26 19:59:41",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29586,
+        "date": "2025-04-26 19:59:40",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "XX.04.2025 Arrange fight.\nRangers (RH25🇩🇰) vs Hammarby🇸🇪. 5x5. Win. Hammarby",
+        "reply_to": null
+    },
+    {
+        "message_id": 29585,
+        "date": "2025-04-26 19:53:23",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "XX.04.2025 Arrange fight.\nRangers (RH25🇩🇰) vs Hammarby🇸🇪. 5x5. Win. Hammarby\n\n📸 RH25 (Randers)",
+        "reply_to": null
+    },
+    {
+        "message_id": 29584,
+        "date": "2025-04-26 19:48:35",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29583,
+        "date": "2025-04-26 19:48:34",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29582,
+        "date": "2025-04-26 19:48:34",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "26.04.2025 Germany 🇩🇪 2 league.\npyro Fortuna Düsseldorf against Nürnberg",
+        "reply_to": null
+    },
+    {
+        "message_id": 29581,
+        "date": "2025-04-26 19:24:20",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29580,
+        "date": "2025-04-26 19:24:20",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29579,
+        "date": "2025-04-26 19:24:20",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "26.04.2025 Germany 🇩🇪 2 league.\nDüsseldorf - Nürnberg. Choreo and Pyro Nürnberg",
+        "reply_to": null
+    },
+    {
+        "message_id": 29578,
+        "date": "2025-04-26 18:09:17",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "26.04.2025 Switzerland cup 1/2🇨🇭 \nBSC Young Boys Bern away agains FC Biel Bienne",
+        "reply_to": null
+    },
+    {
+        "message_id": 29577,
+        "date": "2025-04-26 18:04:01",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "26.04.2025 Czech🇨🇿 \nSlavia Prague away in Olomouc",
+        "reply_to": null
+    },
+    {
+        "message_id": 29576,
+        "date": "2025-04-26 16:22:49",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Info Marseille: mob 100 Marseille  (CU84 MTP Fanatics) + 100 AEK Athens walk for 30 minutes without police in Nanterre in search of Parisian ultras and Parisian indep', Nanterre is a city located just 20 minutes by car from Paris, where are neighbourhoods like Pablo Picasso where some leaders of the K.S.T (K-Soce Team) come from, a group of Parisian ultras of the virage Auteuil \nThe Parisian ultras, although informed several days in advance, preferred to steal two cars in a parking without supervision and without human presence rather than come into contact when Marseille and AEK came out of the police escort during 30 minutes: paris no show shame on them",
+        "reply_to": 29539
+    },
+    {
+        "message_id": 29575,
+        "date": "2025-04-26 16:08:49",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "25.4.2025 🇩🇪 4th Division, Borussia Mönchengladbach U23 vs MSV Duisburg. \nMore than 16.500 Duisburg in Mönchengladbach",
+        "reply_to": null
+    },
+    {
+        "message_id": 29574,
+        "date": "2025-04-26 13:09:44",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "XX.04.2025 France🇫🇷 Arrange fight.\nKaem Crew (CAEN) vs Bad Squad Chartres. 2 rounds. \n1 round: 2 min. Win. Bad Squad Chartres.\n2 round: 10 sec. Win. Kaem Crew (CAEN)",
+        "reply_to": null
+    },
+    {
+        "message_id": 29573,
+        "date": "2025-04-26 12:45:58",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "26.04.2025 Sweden🇸🇪 Arrange fight, U19. \nVSK (Rude Boys) vs Häcken. 7x7. Win. Rude Boys\n📸VSK (Rude Boys)",
+        "reply_to": null
+    },
+    {
+        "message_id": 29572,
+        "date": "2025-04-26 12:39:51",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "XX.04 2025 France 🇫🇷 Arrange fight. Lyon 1919 vs Valyor Chambéry. 7x7.  1,30 min. Win. Lyon",
+        "reply_to": null
+    },
+    {
+        "message_id": 29571,
+        "date": "2025-04-26 11:19:39",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "XX.XX.2025 Spain🇪🇸 Arrange fight, U25. JJVV (Racing Club Santander) vs United Family (Real Betis). 8x8. 1,30 min. Win JJVV.",
+        "reply_to": null
+    },
+    {
+        "message_id": 29570,
+        "date": "2025-04-26 10:14:19",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29569,
+        "date": "2025-04-26 10:14:19",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "25.04.2025 Austria 🇦🇹 \nHartberg - Grazer AK pyro",
+        "reply_to": null
+    },
+    {
+        "message_id": 29568,
+        "date": "2025-04-26 10:00:01",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29567,
+        "date": "2025-04-26 10:00:01",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29566,
+        "date": "2025-04-26 10:00:00",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29565,
+        "date": "2025-04-26 10:00:00",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "25.04.2025 Germany🇩🇪 4th Divison. HFC - Chemie Leipzig",
+        "reply_to": null
+    },
+    {
+        "message_id": 29564,
+        "date": "2025-04-26 07:37:34",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": 29552
+    },
+    {
+        "message_id": 29563,
+        "date": "2025-04-26 07:37:34",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": 29552
+    },
+    {
+        "message_id": 29562,
+        "date": "2025-04-26 07:37:33",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": 29552
+    },
+    {
+        "message_id": 29561,
+        "date": "2025-04-26 07:37:33",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": 29552
+    },
+    {
+        "message_id": 29560,
+        "date": "2025-04-26 07:37:32",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "25.04.2025 🇩🇪 4th Division, Borussia Mönchengladbach U23 vs MSV Duisburg. Saturday. Duisburg promotion to 3rd league",
+        "reply_to": 29552
+    },
+    {
+        "message_id": 29554,
+        "date": "2025-04-26 07:27:04",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29553,
+        "date": "2025-04-26 07:27:04",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "25.04.2025 Spain 🇪🇸 \nBoixos Nois (𝕳ooligans FC Barcelona) Last night in Seville, looking and calling to Ultras Sur (Real Madrid). Ultras sur didn't go to Seville last night. Today is final copa del rey (Spain)",
+        "reply_to": null
+    },
+    {
+        "message_id": 29552,
+        "date": "2025-04-26 07:15:41",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29551,
+        "date": "2025-04-26 07:15:41",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29550,
+        "date": "2025-04-26 07:15:41",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29549,
+        "date": "2025-04-26 07:15:40",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "25.4.2025 🇩🇪 4th Division, Borussia Mönchengladbach U23 vs MSV Duisburg. \nMore than 16.500 Duisburg in Mönchengladbach",
+        "reply_to": null
+    },
+    {
+        "message_id": 29548,
+        "date": "2025-04-26 06:49:58",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29547,
+        "date": "2025-04-26 06:49:58",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29546,
+        "date": "2025-04-26 06:49:58",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "25.04.2025 Germany 🇩🇪 \nFans Ulm away in Fürth",
+        "reply_to": null
+    },
+    {
+        "message_id": 29545,
+        "date": "2025-04-26 01:18:04",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "25.04.2025 Hertha SBC against Magdeburg protesting against collective punishments in the Netherlands",
+        "reply_to": null
+    },
+    {
+        "message_id": 29544,
+        "date": "2025-04-25 12:53:29",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "25.04.2025 Lübeck🇩🇪 in Groningen🇳🇱",
+        "reply_to": null
+    },
+    {
+        "message_id": 29543,
+        "date": "2025-04-25 12:21:38",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "25.04.2025 Denmark 🇩🇰 \nGENERATION 64’ BRØNDBY away too Randers today",
+        "reply_to": null
+    },
+    {
+        "message_id": 29542,
+        "date": "2025-04-25 07:24:38",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29541,
+        "date": "2025-04-25 07:24:37",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 29540,
+        "date": "2025-04-25 07:24:37",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "24.04.2025 Netherlands 🇳🇱\nTwente against PSV Eindhoven for 60 year anniversary",
+        "reply_to": null
+    },
+    {
+        "message_id": 29539,
+        "date": "2025-04-25 04:35:20",
+        "sender_id": -1001484150043,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "16.04.2025 AEK🇬🇷 basketball game away vs Nanterre🇨🇵.\nMaudits 2000 (Paris SG) Stolen stuff Original 21 (AEK) + MTP (OMarseille)",
+        "reply_to": null
+    },
+    {
         "message_id": 29538,
         "date": "2025-04-24 12:21:14",
         "sender_id": -1001484150043,
@@ -3757,2726 +6817,6 @@
         "last_name": null,
         "username": null,
         "message": "07.04.2025 Italy🇮🇹 Bologna - Napoli. \nNapoli ultras away in the city streets Bologna",
-        "reply_to": null
-    },
-    {
-        "message_id": 29139,
-        "date": "2025-04-07 19:25:50",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29138,
-        "date": "2025-04-07 19:25:49",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29137,
-        "date": "2025-04-07 19:25:49",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29136,
-        "date": "2025-04-07 19:25:49",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "06.04.2025 Belgium 🇧🇪 \nStandard Liege fans found smoke bomb detonators from Charleroi fans after that they destroyed the toilets",
-        "reply_to": null
-    },
-    {
-        "message_id": 29135,
-        "date": "2025-04-07 18:49:10",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "05.04.2025 France🇫🇷 \nStrasbourg attacked Reims.\nInfo Strasbourg: Contact made two days before the match with Reims to announce to us the day before the match next to Reims.\nHe accepts our offer to fight outside the city but upon our arrival we wait several hours without news.\nThey end up telling us that they are in the city center of Reims in a bar and that they are waiting for us.\nWe decide to go and meet them but when we see them they run and hide in the bar like cowards.\nReims are not a serious hooligan team, they are just clowns who want to hang themselves for fighters. \nWithout Paris you are nothing",
-        "reply_to": null
-    },
-    {
-        "message_id": 29134,
-        "date": "2025-04-07 18:35:11",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29133,
-        "date": "2025-04-07 18:35:10",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "06.04.2025 Portugal 🇵🇹 \nAfter small fight, Porto Casuals conquer a Benfica banner",
-        "reply_to": null
-    },
-    {
-        "message_id": 29132,
-        "date": "2025-04-07 18:32:40",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "06.04.2025 Portugal 🇵🇹 \nNo name Boys (Benfica) before game. After they try to attack ultras porto fan club. Police stopped the Benfica hooligans before fight start",
-        "reply_to": null
-    },
-    {
-        "message_id": 29131,
-        "date": "2025-04-07 16:28:01",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "06.04.2025 Bosnia 🇧🇦 \nUltras Mostar pyro show yesterday against Borac Banja Luka",
-        "reply_to": null
-    },
-    {
-        "message_id": 29130,
-        "date": "2025-04-07 15:32:38",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "04.04.2025 Germany🇩🇪 3 league.\nDynamo Dresden fans and players away against Hannover II",
-        "reply_to": null
-    },
-    {
-        "message_id": 29129,
-        "date": "2025-04-07 14:06:41",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29128,
-        "date": "2025-04-07 14:06:40",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29127,
-        "date": "2025-04-07 14:06:40",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "06.04.2025 Spain 🇪🇸 5 division.\nBrigadas Alcalainas (Alcalá de Henares) - Rayo Vallecano B.\n\nSupport local team 🤝",
-        "reply_to": null
-    },
-    {
-        "message_id": 29126,
-        "date": "2025-04-07 13:09:58",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29125,
-        "date": "2025-04-07 13:09:58",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29124,
-        "date": "2025-04-07 13:09:57",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29123,
-        "date": "2025-04-07 13:09:57",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "05.04.2025 Hungary 🇭🇺\nFerencváros - Ujpest. 30 years Green Monsters",
-        "reply_to": null
-    },
-    {
-        "message_id": 29122,
-        "date": "2025-04-07 12:12:14",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29121,
-        "date": "2025-04-07 12:12:14",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "07.04.2025 Portugal🇵🇹\nPorto - Benfica. 1312 vs Coletivo 95",
-        "reply_to": null
-    },
-    {
-        "message_id": 29120,
-        "date": "2025-04-07 11:24:52",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "06.04.2025 Germany 🇩🇪 \nRot Weiß Erfurt against DHL",
-        "reply_to": null
-    },
-    {
-        "message_id": 29119,
-        "date": "2025-04-07 09:46:17",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "06.04.2025 Italy 🇮🇹 8 divisione Lazio.\nItri vs Isola Liri",
-        "reply_to": null
-    },
-    {
-        "message_id": 29118,
-        "date": "2025-04-07 08:17:07",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29117,
-        "date": "2025-04-07 08:17:06",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29116,
-        "date": "2025-04-07 08:17:06",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "T-shirt: European 𝕳ooligans\nT-shirt: Adrenaline ⚪⚫\n📍back in stock📍\n\nSize: S-XXXL, 25 €\n🆓 delivery\n\n✅ᵖʳᵒᵈᵘᶜᵗⁱᵒⁿ ᵒᶠ ᵃⁿʸ ᵀ⁻ˢʰⁱʳᵗˢ ᵃᶜᶜᵒʳᵈⁱⁿᵍ ᵗᵒ ʸᵒᵘʳ ᵈᵉˢⁱᵍⁿˢ\n\n📩 https://t.me/GruppaOFPyroBot",
-        "reply_to": null
-    },
-    {
-        "message_id": 29115,
-        "date": "2025-04-07 07:36:36",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "06.04.2025 Germany🇩🇪 2 league.\nKaiserslautern away  against Magdeburg",
-        "reply_to": null
-    },
-    {
-        "message_id": 29114,
-        "date": "2025-04-07 07:23:54",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "06.04.2025 Netherlands 🇳🇱\nGraafschap - Roda. 1312 against normal fans",
-        "reply_to": null
-    },
-    {
-        "message_id": 29111,
-        "date": "2025-04-06 20:55:22",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "06.04.2025 Germany🇩🇪. 3 league\nBefore Rot-Weiss Essen - Hansa Rostock.\n~ 400 Hansa fans were arrested on the highway and had to return Rostock.",
-        "reply_to": null
-    },
-    {
-        "message_id": 29110,
-        "date": "2025-04-06 20:33:25",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "06.04.2025 Portugal 🇵🇹 \nBenfica fans away in Dragon against Porto",
-        "reply_to": null
-    },
-    {
-        "message_id": 29109,
-        "date": "2025-04-06 19:47:44",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "06.04.2025 Belgium 🇧🇪 \nStandard Liège ultras in Charleroi",
-        "reply_to": null
-    },
-    {
-        "message_id": 29108,
-        "date": "2025-04-06 19:26:45",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "05.04.2025 Hungary 🇭🇺\nFerencváros - Ujpest. 30 years Green Monsters",
-        "reply_to": null
-    },
-    {
-        "message_id": 29107,
-        "date": "2025-04-06 18:39:28",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29106,
-        "date": "2025-04-06 18:39:28",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29105,
-        "date": "2025-04-06 18:39:27",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29104,
-        "date": "2025-04-06 18:39:27",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29103,
-        "date": "2025-04-06 18:39:26",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "05.04.2025 Czech🇨🇿 FC Banik Ostrava burning material AC Sparta Praha",
-        "reply_to": null
-    },
-    {
-        "message_id": 29102,
-        "date": "2025-04-06 18:33:28",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29101,
-        "date": "2025-04-06 18:33:28",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29100,
-        "date": "2025-04-06 18:33:28",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "05.04.2025 Germany 🇩🇪 \nUnion Salzgitter - 1. FC Göttingen 05.\nBraunschweig Trier to attack Göttingen 05. Win. 1312",
-        "reply_to": null
-    },
-    {
-        "message_id": 29099,
-        "date": "2025-04-06 18:09:06",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29098,
-        "date": "2025-04-06 18:09:05",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29097,
-        "date": "2025-04-06 18:09:05",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "06.04.2025 Netherlands 🇳🇱\nGraafschap - Roda. 1312 against normal fans",
-        "reply_to": null
-    },
-    {
-        "message_id": 29096,
-        "date": "2025-04-06 17:57:24",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29095,
-        "date": "2025-04-06 17:57:24",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "06.04.2025 Netherlands 🇳🇱\nGraafschap - Roda. 1312",
-        "reply_to": null
-    },
-    {
-        "message_id": 29094,
-        "date": "2025-04-06 16:20:36",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29093,
-        "date": "2025-04-06 16:20:36",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "05.04.2025 Germany 🇩🇪 \nFC Union Salzgitter - 1. FC Göttingen 05. Braunschweig attacked Göttingen. 1312 arrested 5 personen",
-        "reply_to": null
-    },
-    {
-        "message_id": 29092,
-        "date": "2025-04-06 16:06:50",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "05.04.2025 Sweden 🇸🇪 \nAik Stockholm against Norrköping",
-        "reply_to": null
-    },
-    {
-        "message_id": 29091,
-        "date": "2025-04-06 15:36:08",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29090,
-        "date": "2025-04-06 15:36:08",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29089,
-        "date": "2025-04-06 15:36:08",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "06.04.2025 Germany 🇩🇪 2 league.\nUlm away against Schalke 04",
-        "reply_to": null
-    },
-    {
-        "message_id": 29088,
-        "date": "2025-04-06 14:31:06",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29087,
-        "date": "2025-04-06 14:31:05",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29086,
-        "date": "2025-04-06 14:31:05",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29085,
-        "date": "2025-04-06 14:31:04",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29084,
-        "date": "2025-04-06 14:31:04",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "05.04.2025 Sweden 🇸🇪\nHelsingborg before match against Sandvikens",
-        "reply_to": null
-    },
-    {
-        "message_id": 29083,
-        "date": "2025-04-06 14:06:08",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29082,
-        "date": "2025-04-06 14:06:08",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29081,
-        "date": "2025-04-06 14:06:07",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29080,
-        "date": "2025-04-06 14:06:07",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "05.04.2025 Finland 🇫🇮\n Ilves-HJK. Usual Suspects Helsinki away on Tampere",
-        "reply_to": null
-    },
-    {
-        "message_id": 29079,
-        "date": "2025-04-06 13:45:44",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29078,
-        "date": "2025-04-06 13:45:43",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29077,
-        "date": "2025-04-06 13:45:43",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29076,
-        "date": "2025-04-06 13:45:42",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29075,
-        "date": "2025-04-06 13:45:42",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "05.04.2025 Poland 🇵🇱 \nŚląsk Wrocław - Motor Lublin",
-        "reply_to": null
-    },
-    {
-        "message_id": 29074,
-        "date": "2025-04-06 13:24:17",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "XX.04.2025 Sweden🇸🇪 Arrange Fight.\n Timrå (Timråsyngre) vs GAIS (Skogpatrullen). 7x7. Win. GAIS\n📸 Timrå (Timråsyngre)",
-        "reply_to": null
-    },
-    {
-        "message_id": 29073,
-        "date": "2025-04-06 12:55:16",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29072,
-        "date": "2025-04-06 12:55:16",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29071,
-        "date": "2025-04-06 12:55:15",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29070,
-        "date": "2025-04-06 12:55:15",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29069,
-        "date": "2025-04-06 12:55:14",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29068,
-        "date": "2025-04-06 12:55:14",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29067,
-        "date": "2025-04-06 12:55:14",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Netherlands🇳🇱\n\nSince last week, all dutch groups have started to protest against collective punishments together because nearly every week there is at least 1 game with an empty away end in either 1. or 2. league. Every week they will spread the message inside and outside the stadiums\n\nThis weekend at FC Groningen - PSV Eindhoven and Almere City - PEC Zwolle all fan bases showed the banner, and big   flyers / banners are being sticked all around the cities in the Netherlands",
-        "reply_to": null
-    },
-    {
-        "message_id": 29066,
-        "date": "2025-04-06 05:58:34",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": 29062
-    },
-    {
-        "message_id": 29065,
-        "date": "2025-04-06 05:58:33",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "05.04.2025 Portugal🇵🇹 \nFC Porto - Benfica. \nPorto: Photos 4 AM ? We don't have your mothers' schedules",
-        "reply_to": 29062
-    },
-    {
-        "message_id": 29064,
-        "date": "2025-04-06 05:09:50",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "05.04.2025 Switzerland 🇨🇭 \nYB Bern at home against Yverdon-Sport",
-        "reply_to": null
-    },
-    {
-        "message_id": 29063,
-        "date": "2025-04-05 16:19:41",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29062,
-        "date": "2025-04-05 16:19:41",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "05.04.2025 Portugal🇵🇹\nFC Porto - Benfica. No Name boys (Benfica) in Porto stadium last night “You are looking for us? When and where” before match",
-        "reply_to": null
-    },
-    {
-        "message_id": 29061,
-        "date": "2025-04-05 14:47:51",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29060,
-        "date": "2025-04-05 14:47:51",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "XX.XX.2025 Arrange fight, U21.\nDarmstadt (blue🇩🇪) vs Sparta Praha(red🇨🇿). 9x9. Fair hard fight. 1,10 min. Win. Darmstadt",
-        "reply_to": null
-    },
-    {
-        "message_id": 29059,
-        "date": "2025-04-05 14:16:20",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "05.04.2025 Germany 🇩🇪 3 league.\nCottbus in Munich against 1860",
-        "reply_to": null
-    },
-    {
-        "message_id": 29058,
-        "date": "2025-04-05 11:49:17",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "05.04.2025 Germany 🇩🇪 2 league.\nHamburg away in Nürnberg",
-        "reply_to": null
-    },
-    {
-        "message_id": 29057,
-        "date": "2025-04-05 10:08:38",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "XX.04.2025 Arrange fight.\nFight Flisbyens Krigere (Lillestrøm🇳🇴) vs Häcken🇸🇪. 6x6. 2 min. Win. Häcken.\n📸 Lillestrøm",
-        "reply_to": null
-    },
-    {
-        "message_id": 29056,
-        "date": "2025-04-05 09:33:06",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29055,
-        "date": "2025-04-05 09:33:05",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "05.04.2025 Australia 🇦🇺\nAuckland Port tried to attack West Sidney away sector in the stadium but ended up beaten and got their shits stolen by Northgate and Amok",
-        "reply_to": null
-    },
-    {
-        "message_id": 29054,
-        "date": "2025-04-05 07:16:59",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "04.04.2025 Austria 🇦🇹\nSK Sturm Graz vs Rapid Wien\n\npyro🔥 https://t.me/gruppaof_canal",
-        "reply_to": null
-    },
-    {
-        "message_id": 29053,
-        "date": "2025-04-05 07:16:59",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29052,
-        "date": "2025-04-05 07:00:15",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "04.04.2025 Austria 🇦🇹\ngraffiti Rapid Wien away vs Sturm Graz",
-        "reply_to": null
-    },
-    {
-        "message_id": 29051,
-        "date": "2025-04-04 22:31:57",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "04.04.2025 Germany 🇩🇪  4 league.\nHalle vs Jenа\nVery Good quality of the Jena vs Halle brawl",
-        "reply_to": null
-    },
-    {
-        "message_id": 29050,
-        "date": "2025-04-04 21:45:49",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "03.04.2025 Germany 🇩🇪  4 league.\nDuisburg home vs Rödinghausen",
-        "reply_to": null
-    },
-    {
-        "message_id": 29049,
-        "date": "2025-04-04 21:20:37",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "04.04.2025 Germany 🇩🇪  4 league.\nHalle vs Jena",
-        "reply_to": null
-    },
-    {
-        "message_id": 29048,
-        "date": "2025-04-04 20:50:12",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "04.04.2025 Germany 🇩🇪  4 league.\nHalle attacked Jena",
-        "reply_to": null
-    },
-    {
-        "message_id": 29047,
-        "date": "2025-04-04 20:18:00",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "04.04.2025 Germany 🇩🇪  4 league.\nHalle attacked Jena",
-        "reply_to": null
-    },
-    {
-        "message_id": 29046,
-        "date": "2025-04-04 19:11:41",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29045,
-        "date": "2025-04-04 19:11:41",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29044,
-        "date": "2025-04-04 19:11:41",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "04.04.2025 Germany 🇩🇪 \n Bayern München Away in Augsburg",
-        "reply_to": null
-    },
-    {
-        "message_id": 29043,
-        "date": "2025-04-04 18:58:19",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "04.04.2025 Netherlands 🇳🇱 2 league. \nInfo Cambuur: Cambuur in Emmen. Emmen no show",
-        "reply_to": null
-    },
-    {
-        "message_id": 29042,
-        "date": "2025-04-04 18:45:08",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "04.04.2025 Austria 🇦🇹\nSK Sturm Graz vs Rapid Wien",
-        "reply_to": null
-    },
-    {
-        "message_id": 29041,
-        "date": "2025-04-04 18:38:44",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29040,
-        "date": "2025-04-04 18:38:44",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29039,
-        "date": "2025-04-04 18:38:43",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29038,
-        "date": "2025-04-04 18:38:43",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "04.04.2025 Germany🇩🇪 3 league.\nDynamo Dresden away against Hannover II",
-        "reply_to": null
-    },
-    {
-        "message_id": 29037,
-        "date": "2025-04-04 18:34:21",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "04.04.2025 Germany🇩🇪 3 league.\nDynamo Dresden away against Hannover II",
-        "reply_to": null
-    },
-    {
-        "message_id": 29035,
-        "date": "2025-04-04 17:28:03",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "04.04.2025 Germany🇩🇪 3 league.\nDynamo Dresden away against Hannover II",
-        "reply_to": null
-    },
-    {
-        "message_id": 29034,
-        "date": "2025-04-04 17:23:05",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29033,
-        "date": "2025-04-04 17:23:05",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "04.04.2025 Netherlands🇳🇱 2 league.\nEmmen before match against Cambuur",
-        "reply_to": null
-    },
-    {
-        "message_id": 29032,
-        "date": "2025-04-04 13:37:49",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29031,
-        "date": "2025-04-04 13:37:49",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "XX.XX.2025 Czech🇨🇿 Arrange youth fight. Bohemians 🤝 Pardubice vs Zlin. 4x4. Win. Coalition",
-        "reply_to": null
-    },
-    {
-        "message_id": 29030,
-        "date": "2025-04-04 08:49:08",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "03.04.2025 Switzerland 🇨🇭 \nFC Basel last night against GC Zürich\n\npyro🔥 https://t.me/gruppaof_canal",
-        "reply_to": null
-    },
-    {
-        "message_id": 29029,
-        "date": "2025-04-03 20:50:30",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": 29026
-    },
-    {
-        "message_id": 29028,
-        "date": "2025-04-03 20:50:29",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": 29026
-    },
-    {
-        "message_id": 29027,
-        "date": "2025-04-03 20:50:29",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "03.04.2025 Switzerland 🇨🇭 hockey.\nZSC Lions tried to steal the flag from HC Davos.\nGood attempt by Zurich, but the victory goes to Davos",
-        "reply_to": 29026
-    },
-    {
-        "message_id": 29026,
-        "date": "2025-04-03 20:15:04",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "03.04.2025 Switzerland 🇨🇭 hockey.\nZSC Lions tried to steal the flag from HC Davos",
-        "reply_to": null
-    },
-    {
-        "message_id": 29025,
-        "date": "2025-04-03 17:22:03",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "02.04.2025 Spain cup 🇪🇸\nBarcelona - Atletiko Madrid. 1312👌",
-        "reply_to": null
-    },
-    {
-        "message_id": 29024,
-        "date": "2025-04-03 15:18:31",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29023,
-        "date": "2025-04-03 15:18:31",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29022,
-        "date": "2025-04-03 15:18:30",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29021,
-        "date": "2025-04-03 15:18:30",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29020,
-        "date": "2025-04-03 15:18:29",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29019,
-        "date": "2025-04-03 15:18:29",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "02.04.2025 Germany cup🇩🇪 1/2.\nStuttgart against rb Leipzig",
-        "reply_to": null
-    },
-    {
-        "message_id": 29018,
-        "date": "2025-04-03 14:50:51",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "02.04.2025 Greece 🇬🇷 \nYesterday at the half final for the greek cup. After the win on the field.\nOFI CRETE GATE 4 🤝🏼 SPANGENAREN (Sparta Rotterdam 🇳🇱)",
-        "reply_to": null
-    },
-    {
-        "message_id": 29017,
-        "date": "2025-04-03 13:51:17",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29016,
-        "date": "2025-04-03 13:51:16",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29015,
-        "date": "2025-04-03 13:51:16",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29014,
-        "date": "2025-04-03 13:51:15",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29013,
-        "date": "2025-04-03 13:51:15",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29012,
-        "date": "2025-04-03 13:51:15",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "01.04.2025 CAF Champions League.\nMamelodi Sundowns🇿🇦 vs Espérance Sportive de Tunis 🇹🇳. 500 Tunisian ultras in south africa (10.000 km distance tunisia - south africa)",
-        "reply_to": null
-    },
-    {
-        "message_id": 29011,
-        "date": "2025-04-03 09:27:25",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "03.04.25 Netherlands🇳🇱\nStarting this month, football fans with an area ban in the Netherlands will be monitored even more closely. The authorities of Leeuwarden (SC Cambuur) Rotterdam (Feyenoord) and Utrecht (FC Utrecht) will be allowed to use a new, portable device, the so-called Mini-ID, at home games of their clubs. The device, which fans are required to wear, allows the police to check in real time whether someone is near the stadium. Anyone who comes near despite an area ban will be immediately visible. For many people, this measure feels like a sliding scale towards a digital police state, in which people are increasingly subject to constant digital surveillance.",
-        "reply_to": null
-    },
-    {
-        "message_id": 29010,
-        "date": "2025-04-03 04:42:29",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29009,
-        "date": "2025-04-03 04:42:29",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "02.04.2025 Austria cup🇦🇹 1/2.\nperformance Austria Wien last night against TSV Hartberg",
-        "reply_to": null
-    },
-    {
-        "message_id": 29008,
-        "date": "2025-04-02 21:56:34",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29007,
-        "date": "2025-04-02 21:56:34",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29006,
-        "date": "2025-04-02 21:56:33",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29005,
-        "date": "2025-04-02 21:56:33",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29004,
-        "date": "2025-04-02 21:56:33",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "02.04.2025 Slovakia cup🇸🇰 1/2.\nSlovan Bratislava against Spartak Trnava",
-        "reply_to": null
-    },
-    {
-        "message_id": 29003,
-        "date": "2025-04-02 21:03:48",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29002,
-        "date": "2025-04-02 21:03:47",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29001,
-        "date": "2025-04-02 21:03:47",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 29000,
-        "date": "2025-04-02 21:03:46",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28999,
-        "date": "2025-04-02 21:03:46",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28998,
-        "date": "2025-04-02 21:03:46",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "02.04.2025 Hungary cup🇭🇺\nFerencváros against Ujpest",
-        "reply_to": null
-    },
-    {
-        "message_id": 28997,
-        "date": "2025-04-02 17:22:37",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28996,
-        "date": "2025-04-02 17:22:37",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28995,
-        "date": "2025-04-02 17:22:37",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28994,
-        "date": "2025-04-02 17:22:36",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28993,
-        "date": "2025-04-02 17:22:36",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28992,
-        "date": "2025-04-02 17:22:35",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "01.04.2025 Germany cup🇩🇪 1/2.\nArminia Bielefeld - Bayer 04 Leverkusen",
-        "reply_to": null
-    },
-    {
-        "message_id": 28991,
-        "date": "2025-04-02 13:46:30",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "30.03.2025 Italy 🇮🇹 Napoli - Milan.\nFrom the stands of the Curve A (Napoli), jokingly emerges an orange bomber that recalls the Baron, leader of \"Curva Sud\" (Milan) who during the years of militancy that bomber was a sign of recognition, from which he never separated.",
-        "reply_to": null
-    },
-    {
-        "message_id": 28990,
-        "date": "2025-04-02 10:23:08",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "01.04.2025 Germany cup, 1/2🇩🇪 \nLeverkusen in Bielefeld 🤷‍♂️😯🤷‍♂️",
-        "reply_to": null
-    },
-    {
-        "message_id": 28989,
-        "date": "2025-04-02 05:44:21",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28988,
-        "date": "2025-04-02 05:44:20",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "30.03.2025 Spain🇪🇸 derby Sevilla.\nReal Betis against Sevilla",
-        "reply_to": null
-    },
-    {
-        "message_id": 28983,
-        "date": "2025-04-02 04:35:05",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28982,
-        "date": "2025-04-02 04:35:04",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28981,
-        "date": "2025-04-02 04:35:04",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "01.04.2025 Serbia🇷🇸\nCrvena Zvezda – Partizan. Delije on volleyball derby against Partizan. The match was played in the Grobari part of town.",
-        "reply_to": null
-    },
-    {
-        "message_id": 28980,
-        "date": "2025-04-01 20:03:33",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "01.04.2025 Switzerland 🇨🇭 \nBSC Young Boys Ultras gave to the Servette FC ultras a drum\n\np.s. Servette Fans had a ban and are staying in a different sector, flagpoles and drums are not allowed so BSCYB took extra drums and flagpoles and gave them to SFC so they can support. Against Collective punishments (c)",
-        "reply_to": null
-    },
-    {
-        "message_id": 28979,
-        "date": "2025-04-01 16:53:24",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "01.04.2025 Germany cup, 1/2🇩🇪 \nBielefeld before match against Leverkusen",
-        "reply_to": 28978
-    },
-    {
-        "message_id": 28978,
-        "date": "2025-04-01 16:45:13",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "01.04.2025 Germany cup, 1/2🇩🇪 \nBielefeld before match against Leverkusen",
-        "reply_to": 28973
-    },
-    {
-        "message_id": 28977,
-        "date": "2025-04-01 12:56:36",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "XX.XX.2025 Czech🇨🇿 Arrange youth fight.\nBohemians 🤝 Pardubice vs Zlin. 4x4. Win. Coalition",
-        "reply_to": null
-    },
-    {
-        "message_id": 28975,
-        "date": "2025-04-01 12:48:28",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "01.04.2025 Hungary 🇭🇺 \nUjpest visit Ferencvaros area to destroy grafiti revenge attack for fradis action.\nBut Fradi spot them and chase, beat them",
-        "reply_to": 28974
-    },
-    {
-        "message_id": 28974,
-        "date": "2025-04-01 12:01:04",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "01.04.2025 Hungary 🇭🇺 \nFerencvaros destroy 2 graffiti with dead peoples Ujpest\np.s. The bottom one, a hungarian waterpolo olympic winner player, who died in cancer in 2020 Benedek Tibor",
-        "reply_to": null
-    },
-    {
-        "message_id": 28973,
-        "date": "2025-04-01 10:11:39",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "01.04.2025 Germany cup, 1/2🇩🇪 \nBielefeld last night at the Leverkusen hotel",
-        "reply_to": null
-    },
-    {
-        "message_id": 28972,
-        "date": "2025-03-31 18:41:14",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28971,
-        "date": "2025-03-31 18:41:14",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28970,
-        "date": "2025-03-31 18:41:13",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "29.03.2025 Germany🇩🇪 4 league.\nBFC Dynamo away against Rot Weiß Erfurt",
-        "reply_to": null
-    },
-    {
-        "message_id": 28969,
-        "date": "2025-03-31 18:12:46",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "30.03.2025 France 🇫🇷 \nLille vs Lens yesterday",
-        "reply_to": null
-    },
-    {
-        "message_id": 28968,
-        "date": "2025-03-31 17:00:07",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28967,
-        "date": "2025-03-31 17:00:05",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28966,
-        "date": "2025-03-31 17:00:05",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "30.03.2025 France 🇫🇷\n Lens away against Lille",
-        "reply_to": null
-    },
-    {
-        "message_id": 28965,
-        "date": "2025-03-31 13:04:09",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "30.03.2025 Russia🇷🇺 Meteor Voronezh 𝕳",
-        "reply_to": null
-    },
-    {
-        "message_id": 28964,
-        "date": "2025-03-31 11:26:29",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "31.03.2025 Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Rangers fans pay respect to Christopher Potter, who died in instantbul before the match against Fenerbache.",
-        "reply_to": null
-    },
-    {
-        "message_id": 28963,
-        "date": "2025-03-30 21:30:56",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28962,
-        "date": "2025-03-30 21:30:56",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "30.03.2025 Lauta Army (Lokomotiv Plovdiv🇧🇬) at the match Napoli - Milan🇮🇹",
-        "reply_to": null
-    },
-    {
-        "message_id": 28961,
-        "date": "2025-03-30 20:29:10",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28960,
-        "date": "2025-03-30 20:29:09",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28959,
-        "date": "2025-03-30 20:29:09",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "30.03.2025 Switzerland 🇨🇭 \nYB Bern at home against St. Gallen",
-        "reply_to": null
-    },
-    {
-        "message_id": 28958,
-        "date": "2025-03-30 20:16:02",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "30.03.2025 Bulgaria 🇧🇬 \nLevski Sofia burning banner Botev Plovdiv",
-        "reply_to": 28953
-    },
-    {
-        "message_id": 28957,
-        "date": "2025-03-30 19:31:44",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28956,
-        "date": "2025-03-30 19:31:44",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28955,
-        "date": "2025-03-30 19:31:43",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28954,
-        "date": "2025-03-30 19:31:43",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "30.03.2025 Switzerland 🇨🇭\nFC Zurich against Grasshopper-Club Zürich\n\nPyro🔥 https://t.me/gruppaof_canal",
-        "reply_to": null
-    },
-    {
-        "message_id": 28953,
-        "date": "2025-03-30 19:02:25",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "30.03.2025 Bulgaria 🇧🇬 \nLevski Sofia burning banner Botev Plovdiv",
-        "reply_to": null
-    },
-    {
-        "message_id": 28952,
-        "date": "2025-03-30 18:36:04",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "30.03.2025 Bulgaria 🇧🇬 \nLevski Sofia - Botev Plovdiv.\nThe moment Levski entered towards the away sector",
-        "reply_to": 28949
-    },
-    {
-        "message_id": 28951,
-        "date": "2025-03-30 18:34:02",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28950,
-        "date": "2025-03-30 18:34:02",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "30.03.2025 Sweden🇸🇪\nHammarby IF today before match against IFK Göteborg",
-        "reply_to": null
-    },
-    {
-        "message_id": 28949,
-        "date": "2025-03-30 18:06:37",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "30.03.2025 Bulgaria 🇧🇬 \nBotev Plovdiv retreat when Levski Sofia come to the away sector",
-        "reply_to": null
-    },
-    {
-        "message_id": 28948,
-        "date": "2025-03-30 17:37:18",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28947,
-        "date": "2025-03-30 17:37:17",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28946,
-        "date": "2025-03-30 17:37:17",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28945,
-        "date": "2025-03-30 17:37:17",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28943,
-        "date": "2025-03-30 17:37:16",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "30.03.2025 Switzerland 🇨🇭 \nFC Luzern away against FC Lausanne-Sport | During halftime, the wrongfully banned FC Luzern fans break into the away section—then move onto the opposite stand. The police threaten to call off the match over loudspeakers.",
-        "reply_to": null
-    },
-    {
-        "message_id": 28942,
-        "date": "2025-03-30 16:48:59",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28941,
-        "date": "2025-03-30 16:48:59",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28940,
-        "date": "2025-03-30 16:48:59",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "30.03.2025 Poland 🇵🇱 \nGKS Katowice vs Górnik Zabrze Friendship in new Stadium",
-        "reply_to": null
-    },
-    {
-        "message_id": 28939,
-        "date": "2025-03-30 16:43:12",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "30.03.2025 Netherlands 🇳🇱\nInfo Arnhem: We found out the rabbits of Nijmegen where painting graffiti near Arnhem. We quickly reacted and went to them. When we arrived they quickly run away back to Nijmegen instead of getting in to a confrontation.  Everything in the picture can be picked up in Arnhem!",
-        "reply_to": null
-    },
-    {
-        "message_id": 28938,
-        "date": "2025-03-30 16:08:49",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28937,
-        "date": "2025-03-30 16:08:49",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "30.03.2025 Netherlands 🇳🇱\nInfo Arnhem: We found out the rabbits of Nijmegen where painting graffiti near Arnhem. We quickly reacted and went to them. When we arrived they quickly run away back to Nijmegen instead of getting in to a confrontation.  Everything in the picture can be picked up in Arnhem!",
-        "reply_to": null
-    },
-    {
-        "message_id": 28936,
-        "date": "2025-03-30 16:07:01",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "29.03.2025 Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿\nPatrick try to attack Morton home sector",
-        "reply_to": null
-    },
-    {
-        "message_id": 28935,
-        "date": "2025-03-30 15:08:38",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28934,
-        "date": "2025-03-30 15:08:38",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28933,
-        "date": "2025-03-30 15:08:37",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28932,
-        "date": "2025-03-30 15:08:37",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "30.03.2025 Belgium 🇧🇪 \nBrugge (NF13) against Anderlecht today.",
-        "reply_to": null
-    },
-    {
-        "message_id": 28931,
-        "date": "2025-03-30 13:14:54",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "30.03.2025 Germany 🇩🇪 \nFC Bayern vs 1860 Munich. 70-90x50. Fight after Amateure game of Bayern II. 1860 waited for Bayern fans to come out of the stadium with st Pauli friends. They attacked while Bayern was going into the subway system. Clear advantage 1860\n\nInfo Bayern: The fight took place on the first level of the subway station. Both sides stood firm, and after two minutes, the 1860 mob left the subway.",
-        "reply_to": null
-    },
-    {
-        "message_id": 28930,
-        "date": "2025-03-30 11:04:46",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "30.03.2025 Netherlands🇳🇱 \nAjax graffiti at PSV away end, but same morning covered by Eindhoven again",
-        "reply_to": 28928
-    },
-    {
-        "message_id": 28929,
-        "date": "2025-03-30 10:53:05",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28928,
-        "date": "2025-03-30 10:53:05",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "30.03.2025 Netherlands🇳🇱 \nAjax graffiti at PSV away end, but same morning covered by Eindhoven again",
-        "reply_to": null
-    },
-    {
-        "message_id": 28927,
-        "date": "2025-03-30 08:55:12",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28926,
-        "date": "2025-03-30 08:55:12",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28925,
-        "date": "2025-03-30 08:55:11",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28924,
-        "date": "2025-03-30 08:55:07",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "29.03.2025 Poland 🇵🇱 \npyro-show Śląsk Wrocław against Lech Poznań",
-        "reply_to": null
-    },
-    {
-        "message_id": 28923,
-        "date": "2025-03-30 07:02:33",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28922,
-        "date": "2025-03-30 07:02:33",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "29.03.2025 Czech🇨🇿\nperformance Slavia Praha against Dukla Praha",
-        "reply_to": null
-    },
-    {
-        "message_id": 28921,
-        "date": "2025-03-30 06:44:26",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28920,
-        "date": "2025-03-30 06:44:25",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28919,
-        "date": "2025-03-30 06:44:25",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "29.03.2025 Germany 🇩🇪 \nperformance Kaiserslautern against Düsseldorf",
-        "reply_to": null
-    },
-    {
-        "message_id": 28918,
-        "date": "2025-03-30 06:11:36",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28917,
-        "date": "2025-03-30 06:11:35",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "29.03.2025 Netherlands 🇳🇱\nHeracles Almelo vs Eagles Deventer. Win. Deventer\n\nSaturday night, a lad from Almelo fought against a lad from Deventer at a boxing gala in Almelo. Deventer came with a group and let Almelo run in their own city",
-        "reply_to": null
-    },
-    {
-        "message_id": 28916,
-        "date": "2025-03-29 21:08:34",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "29.03.2025 Netherlands 🇳🇱\nPSV Eindhoven 1 day before the game against Ajax tomorrow",
-        "reply_to": 28914
-    },
-    {
-        "message_id": 28915,
-        "date": "2025-03-29 21:02:05",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "29.03.2025 Netherlands 🇳🇱\nQuick Boys Firm away at Treffers",
-        "reply_to": null
-    },
-    {
-        "message_id": 28914,
-        "date": "2025-03-29 20:58:48",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "29.03.2025 Netherlands 🇳🇱\nPSV Eindhoven 1 day before the game against Ajax tomorrow",
-        "reply_to": null
-    },
-    {
-        "message_id": 28913,
-        "date": "2025-03-29 20:53:04",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28912,
-        "date": "2025-03-29 20:53:04",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "29.03.2025 Germany 🇩🇪 Mönchengladbach against rb Leipzig today. Against modern Football.",
-        "reply_to": null
-    },
-    {
-        "message_id": 28911,
-        "date": "2025-03-29 19:58:05",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28910,
-        "date": "2025-03-29 19:58:05",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28909,
-        "date": "2025-03-29 19:58:04",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "29.03.2025 England 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n200,000 Newcastle fans on the streets celebrating there first trophy in 70 years",
-        "reply_to": null
-    },
-    {
-        "message_id": 28908,
-        "date": "2025-03-29 18:35:11",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "29.03.2025 Italy 🇮🇹 Lecce vs Roma",
-        "reply_to": null
-    },
-    {
-        "message_id": 28907,
-        "date": "2025-03-29 18:19:03",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28906,
-        "date": "2025-03-29 18:19:02",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28905,
-        "date": "2025-03-29 18:19:02",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "29.03.2025 Germany 🇩🇪\nEintracht Frankfurt against Stuttgart",
-        "reply_to": null
-    },
-    {
-        "message_id": 28904,
-        "date": "2025-03-29 18:08:34",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28903,
-        "date": "2025-03-29 18:08:34",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28902,
-        "date": "2025-03-29 18:08:34",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28901,
-        "date": "2025-03-29 18:08:33",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28900,
-        "date": "2025-03-29 18:08:33",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "28.03.2025 Swiss🇨🇭 2 league.\nThun against Xamax",
-        "reply_to": null
-    },
-    {
-        "message_id": 28899,
-        "date": "2025-03-29 17:50:45",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28898,
-        "date": "2025-03-29 17:50:44",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "XX.03.2025 Romania🇹🇩 Arrange fight, U24. Steaua Bucuresti (Outlaws Young Boys + Armata 47 Vest) vs Petrolu Ploiesti (Young Hooligans). 6x6. Win. Steaua Bucuresti",
-        "reply_to": null
-    },
-    {
-        "message_id": 28897,
-        "date": "2025-03-29 17:39:44",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "29.03.2025 Sweden 🇸🇪 \nDjurgården vs 1312",
-        "reply_to": null
-    },
-    {
-        "message_id": 28896,
-        "date": "2025-03-29 17:09:31",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28895,
-        "date": "2025-03-29 17:09:30",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28894,
-        "date": "2025-03-29 17:09:30",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28893,
-        "date": "2025-03-29 17:09:29",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28892,
-        "date": "2025-03-29 17:09:29",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "29.03.2025 France 🇫🇷 \nSaint Etienne before match against PSG",
-        "reply_to": null
-    },
-    {
-        "message_id": 28891,
-        "date": "2025-03-29 16:03:21",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "29.03.2025 Germany 🇩🇪 \nMagdeburg away against Hannover",
-        "reply_to": null
-    },
-    {
-        "message_id": 28890,
-        "date": "2025-03-29 12:55:17",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "XX.03.2024 France 🇫🇷\nYouth Rennes after fight. 12x12. Win Rennes",
-        "reply_to": null
-    },
-    {
-        "message_id": 28889,
-        "date": "2025-03-29 12:51:24",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "XX.03.2025 Switzerland🇨🇭 Arrange fight.\nBern (Frontline) vs Basel (Bande Basel). 10x10 1,40 min. Win. Basel",
-        "reply_to": null
-    },
-    {
-        "message_id": 28888,
-        "date": "2025-03-29 12:47:16",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "23.03.2025 Italy 🇮🇹  Seria D.\nPortogruaro vs Bassano last sunday",
-        "reply_to": null
-    },
-    {
-        "message_id": 28887,
-        "date": "2025-03-29 12:04:48",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "29.03.2025 Germany 🇩🇪 2 league.\nHertha Berlin against Karlsruhe",
-        "reply_to": null
-    },
-    {
-        "message_id": 28886,
-        "date": "2025-03-29 11:17:07",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "28.03.2025 France 🇫🇷 2 league.\nAjaccio mob in Toulon",
-        "reply_to": null
-    },
-    {
-        "message_id": 28885,
-        "date": "2025-03-29 10:13:45",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28884,
-        "date": "2025-03-29 10:13:44",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28883,
-        "date": "2025-03-29 10:13:44",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28882,
-        "date": "2025-03-29 10:13:43",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28881,
-        "date": "2025-03-29 10:13:43",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "28.03.2025 Austria 🇦🇹 2 league.\nAdmira Wacker Mödling against Sankt Pölten\n\nInfo from @GruppaOFbot",
-        "reply_to": null
-    },
-    {
-        "message_id": 28875,
-        "date": "2025-03-29 07:59:16",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28874,
-        "date": "2025-03-29 07:59:16",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28873,
-        "date": "2025-03-29 07:59:15",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28872,
-        "date": "2025-03-29 07:59:15",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "🔥🆕 𝗙𝗹𝗮𝗿𝗲 𝗣𝗙-𝟮 𝗘𝗟𝗜𝗢𝗦 🆕🔥 \n🔴🟢⚪🔵🟡🟣 3,95 euro\n\nᴄʜᴇᴀᴘᴇꜱᴛ ᴘʀɪᴄᴇꜱ 🧮\nɪꜰ ʏᴏᴜ ꜰɪɴᴅ ɪᴛ ᴄʜᴇᴀᴘᴇʀ, ᴡᴇ ᴡɪʟʟ ʀᴇꜰᴜɴᴅ ᴛʜᴇ ᴅɪꜰꜰᴇʀᴇɴᴄᴇ 💳\n\n📩 https://t.me/GruppaOFPyroBot",
-        "reply_to": null
-    },
-    {
-        "message_id": 28871,
-        "date": "2025-03-29 07:29:10",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "28.03.2025 Germany 🇩🇪  2 league.\nDarmstadt 98 away against  SSV Ulm",
-        "reply_to": null
-    },
-    {
-        "message_id": 28869,
-        "date": "2025-03-28 19:04:57",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "28.03.2025 Germany 🇩🇪 Carl Zeiss Jena with stolen material from VFC Plauen",
-        "reply_to": null
-    },
-    {
-        "message_id": 28868,
-        "date": "2025-03-28 12:17:20",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "27.03.2025 Belgium, Ghent 🇧🇪\nFlemish hooligans for Nationalist march to demand remigration",
-        "reply_to": null
-    },
-    {
-        "message_id": 28867,
-        "date": "2025-03-28 04:50:02",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28866,
-        "date": "2025-03-28 04:50:02",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "26.03.2025 in Banja Luka in stadium FK Borac “Lešinari”🇧🇦. Delije Koprenedri🇷🇸 attacked the Lešinari to steal their flag that was in the association’s stadium",
-        "reply_to": null
-    },
-    {
-        "message_id": 28865,
-        "date": "2025-03-27 15:02:17",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": 28687
-    },
-    {
-        "message_id": 28864,
-        "date": "2025-03-27 15:02:17",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": 28687
-    },
-    {
-        "message_id": 28863,
-        "date": "2025-03-27 15:02:16",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": 28687
-    },
-    {
-        "message_id": 28862,
-        "date": "2025-03-27 15:02:16",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": 28687
-    },
-    {
-        "message_id": 28861,
-        "date": "2025-03-27 15:02:16",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "16.03.2025 Austria🇦🇹 \nRapid Wien against GAK",
-        "reply_to": 28687
-    },
-    {
-        "message_id": 28860,
-        "date": "2025-03-27 09:25:08",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28859,
-        "date": "2025-03-27 09:25:08",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28858,
-        "date": "2025-03-27 09:25:07",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28857,
-        "date": "2025-03-27 09:25:07",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "26.03.2025 Basketball.\nДелиje (Crvena Zvezda🇷🇸) last night",
-        "reply_to": null
-    },
-    {
-        "message_id": 28856,
-        "date": "2025-03-26 11:21:57",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28855,
-        "date": "2025-03-26 11:21:57",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28854,
-        "date": "2025-03-26 11:21:56",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "",
-        "reply_to": null
-    },
-    {
-        "message_id": 28853,
-        "date": "2025-03-26 11:21:56",
-        "sender_id": -1001484150043,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "24.03.2025 Bosnia 🇧🇦 \nManiacs (FK Željezničar Sarajevo) vs Horde Zla ( FK Sarajevo)",
         "reply_to": null
     }
 ]

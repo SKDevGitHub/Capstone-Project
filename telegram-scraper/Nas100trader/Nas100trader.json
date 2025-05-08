@@ -1,5 +1,485 @@
 [
     {
+        "message_id": 7059,
+        "date": "2025-05-07 16:04:02",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "#FOMC COMING",
+        "reply_to": null
+    },
+    {
+        "message_id": 7058,
+        "date": "2025-05-07 16:01:35",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "US30 AFTER✅",
+        "reply_to": 7051
+    },
+    {
+        "message_id": 7057,
+        "date": "2025-05-07 16:00:07",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "EURAUD RESPECT 2ND LEVEL✅",
+        "reply_to": 7050
+    },
+    {
+        "message_id": 7056,
+        "date": "2025-05-07 00:29:10",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "XAUUSD BUY 3385\nSL 3377\nTP 3392\nTP 3396\nTP 3420",
+        "reply_to": null
+    },
+    {
+        "message_id": 7055,
+        "date": "2025-05-06 21:00:26",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "TP3 HIT 220+ PIPS✅✅😍😍",
+        "reply_to": 7052
+    },
+    {
+        "message_id": 7054,
+        "date": "2025-05-06 19:46:18",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "TP2 HIT 100+ PIPS✅✅",
+        "reply_to": 7052
+    },
+    {
+        "message_id": 7053,
+        "date": "2025-05-06 17:15:13",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "TP HIT 50+ PIPS SET BE✅",
+        "reply_to": 7052
+    },
+    {
+        "message_id": 7052,
+        "date": "2025-05-06 17:00:52",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "XAUUSD BUY 3408/3405\nSL 3402\nTP 3413\nTP 3418\nTP 3430",
+        "reply_to": null
+    },
+    {
+        "message_id": 7051,
+        "date": "2025-05-06 16:06:43",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "US30✅",
+        "reply_to": null
+    },
+    {
+        "message_id": 7050,
+        "date": "2025-05-06 15:28:55",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "EURAUD✅",
+        "reply_to": null
+    },
+    {
+        "message_id": 7049,
+        "date": "2025-05-05 13:38:20",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "TP HIT 50+ PIPS SET BE✅",
+        "reply_to": 7048
+    },
+    {
+        "message_id": 7048,
+        "date": "2025-05-05 13:32:19",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "NAS100 BUY 19910\nSL 19875\nTP 19960\nTP 20020\nTP 20120",
+        "reply_to": null
+    },
+    {
+        "message_id": 7047,
+        "date": "2025-05-05 05:22:15",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "XAUUSD SELL 3260/3264\nSL 3270\nTP 3252\nTP 3240\nTP 3220",
+        "reply_to": null
+    },
+    {
+        "message_id": 7046,
+        "date": "2025-04-30 13:59:30",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "TP2 HIT 100+ PIPS✅✅😍😍",
+        "reply_to": 7044
+    },
+    {
+        "message_id": 7045,
+        "date": "2025-04-30 13:54:28",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "TP HIT 50+ PIPS✅✅😍😍",
+        "reply_to": 7044
+    },
+    {
+        "message_id": 7044,
+        "date": "2025-04-30 13:49:37",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "NAS100 SELL 19110/19140\nSL 19210\nTP 19060\nTP 19010\nTP 18900\nTP 18700",
+        "reply_to": null
+    },
+    {
+        "message_id": 7043,
+        "date": "2025-04-30 11:05:18",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "TP HIT 70+ PIPS 80+ PIPS RUNNING SET BE",
+        "reply_to": 7041
+    },
+    {
+        "message_id": 7042,
+        "date": "2025-04-30 10:02:38",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "SL HIT",
+        "reply_to": 7040
+    },
+    {
+        "message_id": 7041,
+        "date": "2025-04-30 10:02:30",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "XAUUSD SELL 3277/3282\nSL 3290\nTP 3270\nTP 3265\nTP 3250",
+        "reply_to": null
+    },
+    {
+        "message_id": 7040,
+        "date": "2025-04-30 09:39:30",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "XAUUSD BUY 3285/3282\nSL 3278\nTP 3290\nTP 3295\nTP 3305",
+        "reply_to": null
+    },
+    {
+        "message_id": 7039,
+        "date": "2025-04-30 09:15:55",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "GOLD H4✅",
+        "reply_to": null
+    },
+    {
+        "message_id": 7038,
+        "date": "2025-04-29 10:57:24",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "TP HIT 65+ PIPS✅✅😍😍",
+        "reply_to": 7035
+    },
+    {
+        "message_id": 7037,
+        "date": "2025-04-29 10:34:38",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "35+ PIPS RUNNING😍",
+        "reply_to": 7035
+    },
+    {
+        "message_id": 7036,
+        "date": "2025-04-29 10:31:47",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "20+ PIPS RUNNING SET BE✅",
+        "reply_to": 7035
+    },
+    {
+        "message_id": 7035,
+        "date": "2025-04-29 10:28:37",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "XAUUSD BUY 3307.50\nSL 3304\nTP 3314\nTP 3319\nTP 3335",
+        "reply_to": null
+    },
+    {
+        "message_id": 7034,
+        "date": "2025-04-29 06:20:59",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "GER30 H4 CHART✅",
+        "reply_to": null
+    },
+    {
+        "message_id": 7033,
+        "date": "2025-04-28 16:21:42",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "TP3 HIT 280+ PIPS✅✅😍😍",
+        "reply_to": 7029
+    },
+    {
+        "message_id": 7032,
+        "date": "2025-04-28 15:35:04",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "200+ PIPS RUNNING CLOSE 80% TRADE",
+        "reply_to": 7029
+    },
+    {
+        "message_id": 7031,
+        "date": "2025-04-28 15:23:18",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "TP2 HIT 100+ PIPS✅✅😍😍",
+        "reply_to": 7029
+    },
+    {
+        "message_id": 7030,
+        "date": "2025-04-28 15:09:05",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "TP HIT 60+ PIPS RUNNING 80 PIPS SET BE✅",
+        "reply_to": 7029
+    },
+    {
+        "message_id": 7029,
+        "date": "2025-04-28 14:52:16",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "SL 40360\nTP 40220\nTP 40180\nTP 40000",
+        "reply_to": 7028
+    },
+    {
+        "message_id": 7028,
+        "date": "2025-04-28 14:51:22",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "US30 SELL 40280",
+        "reply_to": null
+    },
+    {
+        "message_id": 7027,
+        "date": "2025-04-28 06:23:29",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Use small lot",
+        "reply_to": null
+    },
+    {
+        "message_id": 7026,
+        "date": "2025-04-28 06:23:23",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "XAUUSD BUY 3293/3290\nSL 3287\nTP 3298\nTP 3303\nTP 3315",
+        "reply_to": null
+    },
+    {
+        "message_id": 7025,
+        "date": "2025-04-27 12:09:59",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "ALL CHART EXPLANATION IN VIP GROUP👍",
+        "reply_to": null
+    },
+    {
+        "message_id": 7024,
+        "date": "2025-04-27 12:09:06",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "BTCUSD D1 CHART✅",
+        "reply_to": null
+    },
+    {
+        "message_id": 7023,
+        "date": "2025-04-27 12:08:29",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "GOLD H4 CHART✅",
+        "reply_to": null
+    },
+    {
+        "message_id": 7022,
+        "date": "2025-04-27 12:08:11",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "NAS100 H4 CHART✅",
+        "reply_to": null
+    },
+    {
+        "message_id": 7021,
+        "date": "2025-04-25 14:27:25",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "FRIDAY VIP PERFORMANCE",
+        "reply_to": null
+    },
+    {
+        "message_id": 7020,
+        "date": "2025-04-25 14:27:06",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "XAUUSD 65+ PIPS PROFIT \nXAUUSD 50+ PIPS PROFIT \nXAUUSD 120+ PIPS PROFIT \nXAUUSD 240+ PIPS PROFIT \nUS30       60+ PIPS PROFIT \nUS30.      70+ PIPS PROFIT \nUS30.     180+ PIPS PROFIT \nXAUUSD 50+ PIPS PROFIT\n\nTOTAL PROFIT 835+ PIPS\nLOSS  00",
+        "reply_to": null
+    },
+    {
+        "message_id": 7011,
+        "date": "2025-04-25 06:00:20",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "TP3 HIT 220+ PIPS✅✅😍😍",
+        "reply_to": 7005
+    },
+    {
+        "message_id": 7010,
+        "date": "2025-04-25 05:49:20",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "170+ PIPS RUNNING CLOSE YOUR 80% TRADE✅",
+        "reply_to": 7004
+    },
+    {
+        "message_id": 7009,
+        "date": "2025-04-25 05:46:46",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "TP2 HIT 120+ PIPS✅✅😍😍",
+        "reply_to": 7005
+    },
+    {
+        "message_id": 7008,
+        "date": "2025-04-25 05:43:35",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "TP HIT 70+ PIPS✅✅😍😍",
+        "reply_to": 7005
+    },
+    {
+        "message_id": 7007,
+        "date": "2025-04-25 05:41:27",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "50+ PIPS RUNNING😍 CLOSE SOME PROFIT",
+        "reply_to": 7004
+    },
+    {
+        "message_id": 7006,
+        "date": "2025-04-25 05:39:05",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "RUNNING 30+ PIPS SET BE",
+        "reply_to": 7004
+    },
+    {
+        "message_id": 7005,
+        "date": "2025-04-25 05:37:44",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "TP 3310\nTP 3305\nTP 3295",
+        "reply_to": 7004
+    },
+    {
+        "message_id": 7004,
+        "date": "2025-04-25 05:35:40",
+        "sender_id": -1001574762382,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "XAUUSD SELL 3315/3317\nSL 3320",
+        "reply_to": null
+    },
+    {
         "message_id": 7003,
         "date": "2025-04-23 15:33:34",
         "sender_id": -1001574762382,
@@ -707,316 +1187,6 @@
         "last_name": null,
         "username": null,
         "message": "GBPCAD BUY 1.81000\nSL 1.80600\nTP 1.81400\nTP 1.81800\nTP 1.83800",
-        "reply_to": null
-    },
-    {
-        "message_id": 6924,
-        "date": "2025-04-07 16:33:36",
-        "sender_id": -1001574762382,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "TP2 HIT 100+ PIPS✅✅😍😍",
-        "reply_to": 6921
-    },
-    {
-        "message_id": 6923,
-        "date": "2025-04-07 16:32:14",
-        "sender_id": -1001574762382,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "80+ PIPS RUNNING",
-        "reply_to": 6921
-    },
-    {
-        "message_id": 6922,
-        "date": "2025-04-07 16:31:03",
-        "sender_id": -1001574762382,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "TP HIT 50+ PIPS SET BE✅",
-        "reply_to": 6921
-    },
-    {
-        "message_id": 6921,
-        "date": "2025-04-07 16:28:59",
-        "sender_id": -1001574762382,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "NAS100 BUY 17240\nSL 17085\nTP 17290\nTP 17340\nTP 17440",
-        "reply_to": null
-    },
-    {
-        "message_id": 6920,
-        "date": "2025-04-04 00:59:51",
-        "sender_id": -1001574762382,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "TP3 HIT 370+ PIPS✅✅😍😍",
-        "reply_to": 6914
-    },
-    {
-        "message_id": 6919,
-        "date": "2025-04-03 14:51:17",
-        "sender_id": -1001574762382,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "250+ PIPS RUNNING✅",
-        "reply_to": 6914
-    },
-    {
-        "message_id": 6918,
-        "date": "2025-04-03 14:44:06",
-        "sender_id": -1001574762382,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "170+ PIPS RUNNING😍",
-        "reply_to": 6914
-    },
-    {
-        "message_id": 6917,
-        "date": "2025-04-03 14:14:46",
-        "sender_id": -1001574762382,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "SET BE✅",
-        "reply_to": 6914
-    },
-    {
-        "message_id": 6916,
-        "date": "2025-04-03 14:05:15",
-        "sender_id": -1001574762382,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "TP2 HIT 120+ PIPS✅✅😍😍",
-        "reply_to": 6914
-    },
-    {
-        "message_id": 6915,
-        "date": "2025-04-03 14:03:25",
-        "sender_id": -1001574762382,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "TP HIT 70+ PIPS✅✅😍😍",
-        "reply_to": 6914
-    },
-    {
-        "message_id": 6914,
-        "date": "2025-04-03 13:56:07",
-        "sender_id": -1001574762382,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "NAS100 SELL 18870/18930\nSL 19020\nTP 18800\nTP 18750\nTP 18500",
-        "reply_to": null
-    },
-    {
-        "message_id": 6913,
-        "date": "2025-04-03 13:38:05",
-        "sender_id": -1001574762382,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "TP HIT 100+ PIPS✅✅😍😍",
-        "reply_to": 6912
-    },
-    {
-        "message_id": 6912,
-        "date": "2025-04-03 13:32:46",
-        "sender_id": -1001574762382,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "SL 40930\nTP 41130\nTP 41230\nTP 41530",
-        "reply_to": 6911
-    },
-    {
-        "message_id": 6911,
-        "date": "2025-04-03 13:31:55",
-        "sender_id": -1001574762382,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "US30 BUY 41030",
-        "reply_to": null
-    },
-    {
-        "message_id": 6910,
-        "date": "2025-04-03 10:20:38",
-        "sender_id": -1001574762382,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "XAUUSD BUY 3113\nSL 3108\nTP 3121\nTP 3128\nTP 3145",
-        "reply_to": null
-    },
-    {
-        "message_id": 6909,
-        "date": "2025-04-01 16:06:45",
-        "sender_id": -1001574762382,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "TP2 HIT 100+ PIPS✅✅😍😍",
-        "reply_to": 6905
-    },
-    {
-        "message_id": 6908,
-        "date": "2025-04-01 15:17:31",
-        "sender_id": -1001574762382,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "85+ PIPS RUNNING SET BE AND KEEP HOLD",
-        "reply_to": 6905
-    },
-    {
-        "message_id": 6907,
-        "date": "2025-04-01 15:17:15",
-        "sender_id": -1001574762382,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "TP HIT 50+ PIPS",
-        "reply_to": 6905
-    },
-    {
-        "message_id": 6906,
-        "date": "2025-04-01 15:00:44",
-        "sender_id": -1001574762382,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "USE SMALL LOT",
-        "reply_to": null
-    },
-    {
-        "message_id": 6905,
-        "date": "2025-04-01 15:00:37",
-        "sender_id": -1001574762382,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "NAS100 BUY 19340/19300\nSL 19240\nTP 19390\nTP 19440\nTP 19640",
-        "reply_to": null
-    },
-    {
-        "message_id": 6904,
-        "date": "2025-04-01 11:22:02",
-        "sender_id": -1001574762382,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "35+ PIPS RUNNING SET BE✅",
-        "reply_to": 6903
-    },
-    {
-        "message_id": 6903,
-        "date": "2025-04-01 11:00:26",
-        "sender_id": -1001574762382,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "XAUUSD SELL 3133.50\nSL 3139\nTP 3129\nTP 3126\nTP 3112",
-        "reply_to": null
-    },
-    {
-        "message_id": 6902,
-        "date": "2025-03-28 08:01:24",
-        "sender_id": -1001574762382,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "TP3 HIT 330+PIPS😍😍🚀🚀",
-        "reply_to": 6897
-    },
-    {
-        "message_id": 6901,
-        "date": "2025-03-27 15:40:16",
-        "sender_id": -1001574762382,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "TP2 HIT 140+ PIPS✅✅",
-        "reply_to": 6897
-    },
-    {
-        "message_id": 6900,
-        "date": "2025-03-27 15:39:58",
-        "sender_id": -1001574762382,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "TP HIT 90+ PIPS✅✅",
-        "reply_to": 6897
-    },
-    {
-        "message_id": 6899,
-        "date": "2025-03-27 14:48:29",
-        "sender_id": -1001574762382,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "45+ PIPS RUNNING SET BE✅",
-        "reply_to": 6897
-    },
-    {
-        "message_id": 6898,
-        "date": "2025-03-27 14:24:36",
-        "sender_id": -1001574762382,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Use small lot",
-        "reply_to": null
-    },
-    {
-        "message_id": 6897,
-        "date": "2025-03-27 14:23:42",
-        "sender_id": -1001574762382,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "US30 SELL 42490/42530\nSL 42590\nTP 42440\nTP 42390\nTP 42200",
-        "reply_to": null
-    },
-    {
-        "message_id": 6896,
-        "date": "2025-03-26 17:34:35",
-        "sender_id": -1001574762382,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "NAS100✅",
-        "reply_to": null
-    },
-    {
-        "message_id": 6895,
-        "date": "2025-03-26 17:34:29",
-        "sender_id": -1001574762382,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "GBPJPY✅",
-        "reply_to": null
-    },
-    {
-        "message_id": 6894,
-        "date": "2025-03-26 17:34:21",
-        "sender_id": -1001574762382,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "US30✅",
         "reply_to": null
     }
 ]

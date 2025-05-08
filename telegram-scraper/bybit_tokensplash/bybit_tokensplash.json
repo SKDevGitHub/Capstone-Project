@@ -1,5 +1,125 @@
 [
     {
+        "message_id": 175,
+        "date": "2025-05-07 09:06:19",
+        "sender_id": -1002347521788,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "#HYPER #time\n• Start: 2025-04-22 12:00 UTC\n• End: 2025-05-06 09:00 UTC\n• New user deadline: 2025-05-06 08:55 UTC\n• New user prize: 250 HYPER ~$36.43 \n\nDetails",
+        "reply_to": null
+    },
+    {
+        "message_id": 173,
+        "date": "2025-05-07 09:05:52",
+        "sender_id": -1002347521788,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "#HAEDAL #time\n• Start: 2025-04-29 12:00 UTC\n• End: 2025-05-06 09:00 UTC\n• New user deadline: 2025-04-29 12:03 UTC\n• New user prize: 1600 HAEDAL ~$258.02 \n\nDetails",
+        "reply_to": null
+    },
+    {
+        "message_id": 171,
+        "date": "2025-05-06 09:05:56",
+        "sender_id": -1002347521788,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "#EPT #time\n• Start: 2025-04-21 12:00 UTC\n• End: 2025-05-05 09:00 UTC\n• New user deadline: 2025-05-05 08:24 UTC\n• New user prize: 1000 EPT ~$10.08 \n\nDetails",
+        "reply_to": null
+    },
+    {
+        "message_id": 170,
+        "date": "2025-05-01 09:04:59",
+        "sender_id": -1002347521788,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "#VTHO #time\n• Start: 2025-04-16 08:00 UTC\n• End: 2025-04-30 09:00 UTC\n• New user deadline: 2025-04-30 06:55 UTC\n• New user prize: 20000 VTHO ~$53.3 \n\nDetails",
+        "reply_to": null
+    },
+    {
+        "message_id": 169,
+        "date": "2025-04-30 09:52:42",
+        "sender_id": -1002347521788,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "#DOLO\n• New users: Yes\n• All users: No\n• Start: 2025-04-30 10:00 UTC\n• End: 2025-05-15 09:00 UTC\n\nDetails",
+        "reply_to": null
+    },
+    {
+        "message_id": 168,
+        "date": "2025-04-29 09:12:45",
+        "sender_id": -1002347521788,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "#MILK\n• New users: Yes\n• All users: Yes\n• Start: 2025-04-29 10:00 UTC\n• End: 2025-05-13 09:00 UTC\n\nDetails",
+        "reply_to": null
+    },
+    {
+        "message_id": 167,
+        "date": "2025-04-29 09:05:39",
+        "sender_id": -1002347521788,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "#VET #time\n• Start: 2025-04-14 10:00 UTC\n• End: 2025-04-28 09:00 UTC\n• New user deadline: 2025-04-28 08:59 UTC\n• New user prize: 2000 VET ~$55.9 \n\nDetails",
+        "reply_to": null
+    },
+    {
+        "message_id": 165,
+        "date": "2025-04-28 10:05:33",
+        "sender_id": -1002347521788,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "#HAEDAL\n• New users: Yes\n• All users: Yes\n• Start: 2025-04-29 12:00 UTC\n• End: 2025-05-06 09:00 UTC\n\nDetails",
+        "reply_to": null
+    },
+    {
+        "message_id": 164,
+        "date": "2025-04-27 13:52:28",
+        "sender_id": -1002347521788,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "#SIGN\n• New users: Yes\n• All users: Yes\n• Start: 2025-04-28 11:00 UTC\n• End: 2025-05-12 09:00 UTC\n\nDetails",
+        "reply_to": null
+    },
+    {
+        "message_id": 163,
+        "date": "2025-04-25 09:05:51",
+        "sender_id": -1002347521788,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "#XAUT #time\n• Start: 2025-04-11 10:00 UTC\n• End: 2025-04-24 09:00 UTC\n• New user deadline: 2025-04-24 08:47 UTC\n• New user prize: 20 USDT ~$ \n\nDetails",
+        "reply_to": null
+    },
+    {
+        "message_id": 161,
+        "date": "2025-04-25 09:05:41",
+        "sender_id": -1002347521788,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "#BABY1 #time\n• Start: 2025-04-10 10:00 UTC\n• End: 2025-04-24 09:00 UTC\n• New user deadline: 2025-04-24 08:51 UTC\n• New user prize: 500 BABY1 ~$38.91 \n\nDetails",
+        "reply_to": null
+    },
+    {
+        "message_id": 159,
+        "date": "2025-04-25 09:05:31",
+        "sender_id": -1002347521788,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "#FHE #time\n• Start: 2025-04-10 14:00 UTC\n• End: 2025-04-24 09:00 UTC\n• New user deadline: 2025-04-24 08:55 UTC\n• New user prize: 250 FHE ~$25.26 \n\nDetails",
+        "reply_to": null
+    },
+    {
         "message_id": 157,
         "date": "2025-04-24 09:05:48",
         "sender_id": -1002347521788,
@@ -217,96 +337,6 @@
         "last_name": null,
         "username": null,
         "message": "#AMI #time\n• Start: 2025-03-26 10:00 UTC\n• End: 2025-04-08 09:00 UTC\n• New user deadline: 2025-04-07 21:22 UTC\n• New user prize: 1000 AMI ~$71.27 \n\nDetails",
-        "reply_to": null
-    },
-    {
-        "message_id": 135,
-        "date": "2025-04-04 09:05:36",
-        "sender_id": -1002347521788,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "#BR #time\n• Start: 2025-03-20 13:00 UTC\n• End: 2025-04-03 09:00 UTC\n• New user deadline: 2025-04-03 08:53 UTC\n• New user prize: 1000 BR ~$94.84 \n\nDetails",
-        "reply_to": null
-    },
-    {
-        "message_id": 134,
-        "date": "2025-04-02 09:05:30",
-        "sender_id": -1002347521788,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "#PARTI #time\n• Start: 2025-03-25 13:00 UTC\n• End: 2025-04-01 09:00 UTC\n• New user deadline: 2025-04-01 08:58 UTC\n• New user prize: 500 PARTI ~$98.35 \n\nDetails",
-        "reply_to": null
-    },
-    {
-        "message_id": 133,
-        "date": "2025-04-01 17:05:29",
-        "sender_id": -1002347521788,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "#PUMP\n• New users: Yes\n• All users: No\n• Start: 2025-04-01 17:00 UTC\n• End: 2025-04-15 09:00 UTC\n\nDetails",
-        "reply_to": null
-    },
-    {
-        "message_id": 132,
-        "date": "2025-03-28 11:23:07",
-        "sender_id": -1002347521788,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "#KILO\n• New users: No\n• All users: Yes\n• Start: 2025-04-01 10:00 UTC\n• End: 2025-04-15 09:00 UTC\n\nDetails",
-        "reply_to": null
-    },
-    {
-        "message_id": 131,
-        "date": "2025-03-27 11:13:33",
-        "sender_id": -1002347521788,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "#SOSO\n• New users: No\n• All users: Yes\n• Start: 2025-03-28 10:00 UTC\n• End: 2025-04-04 08:59 UTC\n\nDetails",
-        "reply_to": null
-    },
-    {
-        "message_id": 130,
-        "date": "2025-03-27 10:05:32",
-        "sender_id": -1002347521788,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "#WAL\n• New users: Yes\n• All users: No\n• Start: 2025-03-27 10:00 UTC\n• End: 2025-04-10 09:00 UTC\n\nDetails",
-        "reply_to": null
-    },
-    {
-        "message_id": 129,
-        "date": "2025-03-27 09:05:34",
-        "sender_id": -1002347521788,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "#PELL #time\n• Start: 2025-03-13 10:00 UTC\n• End: 2025-03-26 09:00 UTC\n• New user deadline: 2025-03-13 10:10 UTC\n• New user prize: 2500 PELL ~$19.2 \n\nDetails",
-        "reply_to": null
-    },
-    {
-        "message_id": 128,
-        "date": "2025-03-26 09:05:48",
-        "sender_id": -1002347521788,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "#OIK #time\n• Start: 2025-03-12 10:00 UTC\n• End: 2025-03-25 09:00 UTC\n• New user deadline: 2025-03-25 08:48 UTC\n• New user prize: 100 OIK ~$5.15 \n\nDetails",
-        "reply_to": null
-    },
-    {
-        "message_id": 127,
-        "date": "2025-03-26 09:05:29",
-        "sender_id": -1002347521788,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "#CORN\n• New users: Yes\n• All users: Yes\n• Start: 2025-03-28 10:00 UTC\n• End: 2025-04-10 09:00 UTC\n\nDetails",
         "reply_to": null
     }
 ]

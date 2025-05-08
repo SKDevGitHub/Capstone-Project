@@ -1,5 +1,275 @@
 [
     {
+        "message_id": 4189,
+        "date": "2025-05-07 16:36:06",
+        "sender_id": -1001217642482,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "​​EVM-compatible L1 blockchain AppLayer (ex SparqNet) received funding from Arcanum Ventures. Amount is not disclosed.",
+        "reply_to": null
+    },
+    {
+        "message_id": 4188,
+        "date": "2025-05-07 16:33:38",
+        "sender_id": -1001217642482,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "​​Tokenized digital real estate platform Alt DRX raised $2.70M in a Series A funding round from Qatar Development Bank, Brand Capital, Hindustan Media Ventures (HMVL), Zee Group, WeFounderCircle, nX Capital.",
+        "reply_to": null
+    },
+    {
+        "message_id": 4187,
+        "date": "2025-05-07 16:33:38",
+        "sender_id": -1001217642482,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "​​Stablecoin payment infrastructure provider BVNK received funding from Visa. Amount is not disclosed.",
+        "reply_to": null
+    },
+    {
+        "message_id": 4186,
+        "date": "2025-05-06 17:29:21",
+        "sender_id": -1001217642482,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "​​Scalable layer 1 blockchain platform Litheum raised $750k in a Strategic funding round led by Alphemy Capital, Amber Group.",
+        "reply_to": null
+    },
+    {
+        "message_id": 4185,
+        "date": "2025-05-06 17:29:21",
+        "sender_id": -1001217642482,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "​​Digital asset infrastructure platform Fuze Finance raised $12.20M in a Series A funding round led by Galaxy Digital, e& capital (etisalat and), with participation from Further Ventures.",
+        "reply_to": null
+    },
+    {
+        "message_id": 4184,
+        "date": "2025-05-06 17:29:21",
+        "sender_id": -1001217642482,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "​​SocialFi community platform Beincom raised $11M in a Private funding round.",
+        "reply_to": null
+    },
+    {
+        "message_id": 4183,
+        "date": "2025-05-06 17:15:48",
+        "sender_id": -1001217642482,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "​​DeFi asset management platform Sentora raised $25M in a Series A funding round led by New Form Capital, with participation from Joint Effects, Tribe Capital, Ripple, UDHC, Curved Ventures, Bankai Ventures.",
+        "reply_to": null
+    },
+    {
+        "message_id": 4182,
+        "date": "2025-05-06 17:15:48",
+        "sender_id": -1001217642482,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "​​App layer for Dogecoin ecosystem DogeOS raised $6.90M in a funding round led by Polychain Capital.",
+        "reply_to": null
+    },
+    {
+        "message_id": 4181,
+        "date": "2025-05-05 16:37:57",
+        "sender_id": -1001217642482,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "​​DeFi asset management platform Tea-Fi received funding from Castrum Capital. Amount is not disclosed.",
+        "reply_to": null
+    },
+    {
+        "message_id": 4180,
+        "date": "2025-05-05 15:43:07",
+        "sender_id": -1001217642482,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "​​Digital risk protection platform Doppel raised $35M in a Series B funding round led by Bessemer Venture Partners, with participation from 9Yards Capital, Sozo Ventures, Andreessen Horowitz (a16z crypto), South Park Commons, Strategic Cyber Ventures (SCV), Script Capital, Sabrina Hahn.",
+        "reply_to": null
+    },
+    {
+        "message_id": 4179,
+        "date": "2025-05-02 15:24:51",
+        "sender_id": -1001217642482,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "​​Solana-based memecoin launchpad Boop fun closed Angel funding round from Raj Gokal, Mert, WereMeow, Francesco Agosti, 0xSun. Amount raised is not disclosed.",
+        "reply_to": null
+    },
+    {
+        "message_id": 4178,
+        "date": "2025-05-02 15:24:51",
+        "sender_id": -1001217642482,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "​​Decentralized AI computing infrastructure aZen Protocol raised $1.20M in a Seed funding round led by Waterdrip Capital, with participation from DWF Ventures, Rootz Labs, Mindfulness Capital, Attention Ventures, Quantum Leap Labs, DePIN X, Open Digital Infrastructure Group (ODIG).",
+        "reply_to": null
+    },
+    {
+        "message_id": 4177,
+        "date": "2025-05-02 15:24:51",
+        "sender_id": -1001217642482,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "​​Company focused on providing access to RWA backed tokens Dinari raised $12.70M in a Series A funding round led by Hack VC, Blockchange Ventures, with participation from VanEck, F-Prime Capital, Blizzard, Arete Capital, Factor Capital, GSR Ventures, Silvermine Capital.",
+        "reply_to": null
+    },
+    {
+        "message_id": 4176,
+        "date": "2025-04-30 14:45:02",
+        "sender_id": -1001217642482,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "​​Decentralized AI Data infrastructure platform Gata (ex Aggregata) raised $4M in a Seed funding round from YZi Labs (ex Binance Labs), Gate Ventures, IDG Blockchain, Maelstrom, Manifold, MH Ventures, Anti Capital, Formless Capital, V3V Ventures, Dewhales Capital, WAGMI Ventures, 071labs (Zero Seven One Labs), Echo.",
+        "reply_to": null
+    },
+    {
+        "message_id": 4175,
+        "date": "2025-04-30 13:05:14",
+        "sender_id": -1001217642482,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "​​Decentralized 3D mapping infrastructure protocol ROVR raised $2.60M in a Seed funding round led by Borderless Capital, Geodnet, with participation from IoTeX.",
+        "reply_to": null
+    },
+    {
+        "message_id": 4174,
+        "date": "2025-04-30 13:03:34",
+        "sender_id": -1001217642482,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "​​Web3 startup focused on decentralized data storage Terminal 3 raised $8M in a Seed funding round led by Illuminate Financial, Titan Fund, with participation from IDG Blockchain, 500 Startups (500 Global), Animoca Brands, BlackPine, Progression Fund, Consensys Mesh, Cherubic Ventures, Hard Yaka.",
+        "reply_to": null
+    },
+    {
+        "message_id": 4173,
+        "date": "2025-04-30 13:03:34",
+        "sender_id": -1001217642482,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "​​Asia-focused L1 EVM blockchain Kaia closed funding round led by Blockchain Capital, 1kx, with participation from Galaxy Digital, The Spartan Group, IDG Capital, Mirana Ventures, SNZ Holding, Comma3 Ventures, Caladan, Lingfeng Innovation Fund (LIF), Waterdrip Capital, MEXC Ventures. Amount raised is not disclosed.",
+        "reply_to": null
+    },
+    {
+        "message_id": 4172,
+        "date": "2025-04-30 13:03:34",
+        "sender_id": -1001217642482,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "​​Global USD digital wallet ZAR raised $7M in a funding round led by Dragonfly Capital, Andreessen Horowitz (a16z crypto), VanEck, with participation from Coinbase Ventures.",
+        "reply_to": null
+    },
+    {
+        "message_id": 4171,
+        "date": "2025-04-29 16:22:43",
+        "sender_id": -1001217642482,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "​​RISC-V powered Layer 1 blockchain Unto Labs (ThruVM) raised $14.40M in a funding round led by Framework Ventures, Electric Capital.",
+        "reply_to": null
+    },
+    {
+        "message_id": 4170,
+        "date": "2025-04-29 14:24:16",
+        "sender_id": -1001217642482,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "​​Autonomous IP layer 1 blockchain Camp Network raised $25M in a Series A funding round led by 1kx, Blockchain Capital, with participation from OKX Ventures (ex OKEx Blockdream Ventures), Lattice Fund, Paper Ventures, dao5 (daofive), TrueBridge Capital, Selini Capital, Hypersphere, Maven 11 Capital, Protagonist.",
+        "reply_to": null
+    },
+    {
+        "message_id": 4169,
+        "date": "2025-04-29 12:09:51",
+        "sender_id": -1001217642482,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "​​Parallel MPC interoperability network on Sui Ika (dWallet Labs) received funding from Sui Foundation. Amount is not disclosed.",
+        "reply_to": null
+    },
+    {
+        "message_id": 4168,
+        "date": "2025-04-29 11:55:28",
+        "sender_id": -1001217642482,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "​​Privacy blockchain Miden raised $25M in a Seed funding round led by Andreessen Horowitz (a16z crypto), Hack VC, 1kx, with participation from Finality Capital, Symbolic Capital (ex Hyperedge Capital), P2 Ventures (Polygon Ventures), MH Ventures, Delta Blockchain Fund, Avery Ching, Sreeram Kannan.",
+        "reply_to": null
+    },
+    {
+        "message_id": 4167,
+        "date": "2025-04-28 19:21:01",
+        "sender_id": -1001217642482,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "​​Web3 Japanese pop culture platform Yoake raised $1.25M in a Private funding round led by Next Web Capital, with participation from Bitbank Ventures, Credit Scend, Hakuhodo Keithley (Key3), Taisu Ventures, X2Y2.",
+        "reply_to": null
+    },
+    {
+        "message_id": 4166,
+        "date": "2025-04-28 19:21:01",
+        "sender_id": -1001217642482,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "​​Wine investment platform WineFi raised $2M in a Seed funding round led by Coterie Holdings, with participation from SFC Capital, Founders Capital.",
+        "reply_to": null
+    },
+    {
+        "message_id": 4165,
+        "date": "2025-04-25 15:55:52",
+        "sender_id": -1001217642482,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "​​API platform for stock, options and crypto Alpaca raised $52M in a Series C funding round from 850 Management, Derayah Financial, National Investments Company, Portage Ventures, Unbound.",
+        "reply_to": null
+    },
+    {
+        "message_id": 4164,
+        "date": "2025-04-25 15:55:52",
+        "sender_id": -1001217642482,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "​​Solana-based high-performance engine MagicBlock raised $7.50M in a Seed funding round led by Lightspeed Faction, with participation from Maven 11 Capital, Mechanism Capital, Robot Ventures, Delphi Ventures, Equilibrium co, Pivot Global, Anatoly Yakovenko, Tristan, Ajit Tripathi.",
+        "reply_to": null
+    },
+    {
+        "message_id": 4163,
+        "date": "2025-04-25 12:10:42",
+        "sender_id": -1001217642482,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "​​Decentralized AI startup on Solana Nous Research raised $50M in a Series A funding round from Paradigm.",
+        "reply_to": null
+    },
+    {
         "message_id": 4162,
         "date": "2025-04-24 18:57:04",
         "sender_id": -1001217642482,
@@ -26,7 +296,7 @@
         "first_name": null,
         "last_name": null,
         "username": null,
-        "message": "​​Decentralized trading infrastructure platform Theo raised $20M in a funding round led by Hack VC, Anthos Capital, with participation from Manifold, Mirana Ventures, Metalayer Ventures, SCB Limited, Amber Group, Selini Capital, MEXC, Flowdesk.",
+        "message": "​​Decentralized trading infrastructure platform Theo raised $20M in a funding round led by Hack VC, Anthos Capital, with participation from Manifold, Mirana Ventures, MH Ventures, Metalayer Ventures, SCB Limited, Amber Group, Selini Capital, MEXC, Flowdesk.",
         "reply_to": null
     },
     {
@@ -557,386 +827,6 @@
         "last_name": null,
         "username": null,
         "message": "​​Bitcoin DeFi aggregation protocol Sats Terminal raised $1.70M in a Pre-seed funding round led by Coinbase Ventures, Draper Associates, with participation from Draper Dragon, BitcoinFi, UTXO Management, Core Ventures, Sats Ventures, Delta Blockchain Fund, Tenzor Capital, 3Commas Capital, MH Ventures, domo, Paul Taylor, Franklin Bi, Danish Chaudhry.",
-        "reply_to": null
-    },
-    {
-        "message_id": 4106,
-        "date": "2025-04-07 14:32:14",
-        "sender_id": -1001217642482,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "​​High-yield stablecoin DeFi protocol Cap Labs raised $8M in a Seed funding round led by Franklin Templeton, Triton Capital, with participation from GSR Markets LTD, Flow Traders, Laser Digital, IMC, RockawayX, Superscrypt, CMCC Global, Selini Capital, Caladan, Paper Ventures, Presto Labs, Fasanara Capital, Auros Global, Breed VC, Curved Ventures, Nonce Classic, Flowdesk, Spencer Noon.",
-        "reply_to": null
-    },
-    {
-        "message_id": 4105,
-        "date": "2025-04-07 12:23:37",
-        "sender_id": -1001217642482,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "​​WhatsApp-based instant money transfers platform Felix Pago raised $75M in a Series B funding round led by QED Investors.",
-        "reply_to": null
-    },
-    {
-        "message_id": 4104,
-        "date": "2025-04-07 12:23:37",
-        "sender_id": -1001217642482,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "​​ZK-powered peer-to-peer app P2P me raised $2M in a Seed funding round from Multicoin Capital, Coinbase Ventures.",
-        "reply_to": null
-    },
-    {
-        "message_id": 4103,
-        "date": "2025-04-05 08:43:48",
-        "sender_id": -1001217642482,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "​​Stablecoin-native L2 on Optimism Codex raised $15.80M in a Seed funding round led by Dragonfly Capital, with participation from Coinbase Ventures, Wintermute, Selini Capital, Cumberland (DRW), Circle Ventures.",
-        "reply_to": null
-    },
-    {
-        "message_id": 4102,
-        "date": "2025-04-04 13:58:24",
-        "sender_id": -1001217642482,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "​​Decentralized fantasy MMORPG on Ronin Legends of Elumia has been acquired by Triumph Games.",
-        "reply_to": null
-    },
-    {
-        "message_id": 4101,
-        "date": "2025-04-04 13:58:24",
-        "sender_id": -1001217642482,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "​​Entertainment-focused AI fan ecosystem MEET48 closed funding round led by Liang Xinjun, Hash Global, Hashkey Capital, with participation from Animoca Brands, Infinity Labs, Promontory Technologies. Amount raised is not disclosed.",
-        "reply_to": null
-    },
-    {
-        "message_id": 4100,
-        "date": "2025-04-04 13:58:24",
-        "sender_id": -1001217642482,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "​​Blockchain-based reward point system BugsCoin received funding from The DuckDao. Amount is not disclosed.",
-        "reply_to": null
-    },
-    {
-        "message_id": 4099,
-        "date": "2025-04-03 19:55:54",
-        "sender_id": -1001217642482,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "​​Blockchain-based gaming platform Ultra raised $12M in a funding round led by NOIA Capital.",
-        "reply_to": null
-    },
-    {
-        "message_id": 4098,
-        "date": "2025-04-03 15:05:19",
-        "sender_id": -1001217642482,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "​​Move ecosystem central liquidity engine Momentum (MSafe) raised $5M in a Strategic funding round led by Varys Capital, with participation from Coinbase Ventures, Circle Ventures, Jump Crypto, Aptos Network, Gate Ventures, Amber Group, Selini Capital, Arcanum Capital, WAGMI Ventures, Dewhales Capital, MonkeVentures, Sui Foundation.",
-        "reply_to": null
-    },
-    {
-        "message_id": 4097,
-        "date": "2025-04-03 15:05:18",
-        "sender_id": -1001217642482,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "​​Blockchain testnet platform Bloctopus (ex LZero) raised $1M in a Seed funding round led by Hivemind, with participation from Ethereum Foundation, Kurtosis, TechStars, IronKey Capital, Brevan Howard Digital, Quantstamp, Cred Protocol, Nexus Network, Airside Labs, Raga Finance.",
-        "reply_to": null
-    },
-    {
-        "message_id": 4096,
-        "date": "2025-04-03 15:05:18",
-        "sender_id": -1001217642482,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "​​Solana-based NFT drop platform DRiP has been acquired by Jupiter.",
-        "reply_to": null
-    },
-    {
-        "message_id": 4095,
-        "date": "2025-04-03 15:05:18",
-        "sender_id": -1001217642482,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "​​Omnichain liquidity infrastructure StakeStone raised $1M in a Public sale round at a $20M FDV. Sale was hosted on the Binance Wallet.",
-        "reply_to": null
-    },
-    {
-        "message_id": 4094,
-        "date": "2025-04-02 15:28:13",
-        "sender_id": -1001217642482,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "​​Fractional ownership of luxury assets platform Collecto raised $3.02M in a funding round from Marcello Albergoni, Alessandro Zanotti, Andrea Travasoni, Guido Frisiani, Marco Bragadin, Giacomo Lorusso, Fabio Peloso.",
-        "reply_to": null
-    },
-    {
-        "message_id": 4093,
-        "date": "2025-04-02 13:32:48",
-        "sender_id": -1001217642482,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "​​On-chain AI agent fund bAI Fund raised $1M in a funding round from Morph, Foresight Ventures.",
-        "reply_to": null
-    },
-    {
-        "message_id": 4092,
-        "date": "2025-04-02 13:06:34",
-        "sender_id": -1001217642482,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "​​Gamified healthcare platform Universal Health Token received funding from Aptos Network. Amount is not disclosed.",
-        "reply_to": null
-    },
-    {
-        "message_id": 4090,
-        "date": "2025-04-02 13:06:34",
-        "sender_id": -1001217642482,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "​​Hyper-casual finance platform Hana Network raised $1.75M in a Public sale round at a $40M FDV.",
-        "reply_to": null
-    },
-    {
-        "message_id": 4089,
-        "date": "2025-04-01 19:55:41",
-        "sender_id": -1001217642482,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "​​Babylon-based BTC liquid staking platform PumpBTC raised $750k in a Public sale round at a $15M FDV. Sale was hosted on the Binance Wallet.",
-        "reply_to": null
-    },
-    {
-        "message_id": 4088,
-        "date": "2025-04-01 11:37:19",
-        "sender_id": -1001217642482,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "​​Private capital markets automation platform Globacap has been acquired by Archax.",
-        "reply_to": null
-    },
-    {
-        "message_id": 4087,
-        "date": "2025-04-01 11:37:19",
-        "sender_id": -1001217642482,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "​​SVM-compatible Layer 1 blockchain Ambient raised $7.20M in a Seed funding round from a16z Crypto Startup Accelerator (CSX), Delphi Digital, Amber Group.",
-        "reply_to": null
-    },
-    {
-        "message_id": 4086,
-        "date": "2025-04-01 11:37:18",
-        "sender_id": -1001217642482,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "​​Web3 AI image remix platform Mahojin raised $5M in a Seed funding round led by a16z Crypto Startup Accelerator (CSX), Maelstrom, with participation from WAGMI Ventures, Han Bridge Capital.",
-        "reply_to": null
-    },
-    {
-        "message_id": 4085,
-        "date": "2025-04-01 11:37:18",
-        "sender_id": -1001217642482,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "​​Decentralized AI financial data protocol Cambrian Network raised $5.90M in a Seed funding round led by a16z Crypto Startup Accelerator (CSX), with participation from Blockchain Builders Fund (BBF).",
-        "reply_to": null
-    },
-    {
-        "message_id": 4084,
-        "date": "2025-03-31 15:37:06",
-        "sender_id": -1001217642482,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "​​Confidential blockchain powered by Fully Homomorphic Encryption Fhenix received funding from Tandem. Amount is not disclosed.",
-        "reply_to": null
-    },
-    {
-        "message_id": 4083,
-        "date": "2025-03-31 15:37:05",
-        "sender_id": -1001217642482,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "​​Internet company listed on Nasdaq The9 Limited raised $8M in a funding round from FineWill Capital, Elune Capital, Bripheno Pte. Ltd..",
-        "reply_to": null
-    },
-    {
-        "message_id": 4082,
-        "date": "2025-03-31 15:37:05",
-        "sender_id": -1001217642482,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "​​Music streaming platform Napster has been acquired by Infinite Reality for $207M.",
-        "reply_to": null
-    },
-    {
-        "message_id": 4081,
-        "date": "2025-03-29 12:36:41",
-        "sender_id": -1001217642482,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "​​Crypto and fiat finance platform Request Finance closed funding round from Bpifrance, Balderton Capital, XAnge VC. Amount raised is not disclosed.",
-        "reply_to": null
-    },
-    {
-        "message_id": 4080,
-        "date": "2025-03-27 18:01:26",
-        "sender_id": -1001217642482,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "​​Remittance & rewards app for NRIs Abound raised $14M in a funding round from Near Foundation, Circle Ventures, Times Internet.",
-        "reply_to": null
-    },
-    {
-        "message_id": 4079,
-        "date": "2025-03-27 15:29:57",
-        "sender_id": -1001217642482,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "​​Parallelized confidential computing network Arcium (ex Elusiv) raised $1M in a Angel funding round from Jordi Alexander, Joe McCann, WereMeow, Fedor Holz, RunnerXBT.",
-        "reply_to": null
-    },
-    {
-        "message_id": 4078,
-        "date": "2025-03-27 15:29:57",
-        "sender_id": -1001217642482,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "​​Solana-based digital art marketplace Exchange Art has been acquired by Bonk.",
-        "reply_to": null
-    },
-    {
-        "message_id": 4077,
-        "date": "2025-03-27 15:29:50",
-        "sender_id": -1001217642482,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "​​Solana-powered decentralized EV charging De Charge raised $2.50M in a Seed funding round led by Lemniscap, with participation from Colosseum, Daedalus, Escape Velocity, Levitate Labs.",
-        "reply_to": null
-    },
-    {
-        "message_id": 4076,
-        "date": "2025-03-27 15:29:49",
-        "sender_id": -1001217642482,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "​​Omni-chain MEV liquidation engine Warlock Labs raised $8M in a Seed funding round led by Polychain Capital, with participation from Greenfield Capital, TRGC, Reciprocal Ventures, Symbolic Capital (ex Hyperedge Capital), Ambush Capital, Dean Eigenmann, ivangbi.",
-        "reply_to": null
-    },
-    {
-        "message_id": 4075,
-        "date": "2025-03-27 15:29:49",
-        "sender_id": -1001217642482,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "​​Swap execution engine Magpie Protocol raised $1.60M in a Public sale round at a $45M FDV. Sale was hosted on the Fjord Foundry.",
-        "reply_to": null
-    },
-    {
-        "message_id": 4074,
-        "date": "2025-03-27 15:29:49",
-        "sender_id": -1001217642482,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "​​Perpetual DEX focused on risk management and capital efficiency KiloEx raised $750k in a Public sale round at a $15M FDV. Sale was hosted on the Binance Wallet.",
-        "reply_to": null
-    },
-    {
-        "message_id": 4073,
-        "date": "2025-03-27 15:29:49",
-        "sender_id": -1001217642482,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "​​Ethereum L2 for AI agents Capx AI raised $3.14M in a funding round led by Manifold, Luganodes, with participation from Echo, P2 Ventures (Polygon Ventures), Gate Labs, Stix, MH Ventures, Blue7, Cogitent Ventures, Autonomy Capital, Next Web Capital, Blockarm Capital, Mythos Venture Partners (MVP), Arcanum Capital, Sandeep Nailwal, Richard Ma, Amrit Kumar.",
-        "reply_to": null
-    },
-    {
-        "message_id": 4072,
-        "date": "2025-03-26 17:45:22",
-        "sender_id": -1001217642482,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "​​Blockchain-based tactical arcade shooter Cantina Royale will officially become part of the BoomLand.",
-        "reply_to": null
-    },
-    {
-        "message_id": 4071,
-        "date": "2025-03-26 17:45:22",
-        "sender_id": -1001217642482,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "​​AI-powered DeFi analytics platform OpenBlocks (ex Blockpour) has been acquired by Supra.",
-        "reply_to": null
-    },
-    {
-        "message_id": 4070,
-        "date": "2025-03-26 17:45:22",
-        "sender_id": -1001217642482,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "​​Anime-inspired blockchain ARPG Tarta Labs (Spot Zero) raised $4.50M in a Pre-seed funding round led by BITKRAFT Ventures, with participation from The Spartan Group, Infinity Ventures Crypto (IVC), Hashkey Capital, Gam3Girl Ventures.",
-        "reply_to": null
-    },
-    {
-        "message_id": 4069,
-        "date": "2025-03-26 17:45:22",
-        "sender_id": -1001217642482,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "​​Web3 game company developed Immortal Rising 2 Planetarium Labs (Immortal Rising 2) raised $3M in a funding round from The Spartan Group, Planetarium, MARBLEX Corp., Immutable, Comma3 Ventures, Notch Ventures, 32bit Ventures, Sovrun, Cristian Manea.",
-        "reply_to": null
-    },
-    {
-        "message_id": 4068,
-        "date": "2025-03-26 17:45:22",
-        "sender_id": -1001217642482,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "​​Video game magazine Game Informer has been acquired by Gunzilla Games.",
         "reply_to": null
     }
 ]

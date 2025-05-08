@@ -1,5 +1,1535 @@
 [
     {
+        "message_id": 34212,
+        "date": "2025-05-07 22:02:59",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Strategy e Coinbase apostam em IA: conheça as melhores criptomoedas de IA\n\nhttps://www.criptofacil.com/strategy-e-coinbase-apostam-em-ia-conheca-as-melhores-criptomoedas-de-ia/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34211,
+        "date": "2025-05-07 21:03:01",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Coinbase divulga documentos secretos da SEC sobre XRP e Ethereum\n\nhttps://www.criptofacil.com/coinbase-divulga-documentos-secretos-da-sec-sobre-xrp-e-ethereum/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34210,
+        "date": "2025-05-07 20:02:54",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Visa investe em player do ecossistema de pagamentos em stablecoins\n\nhttps://www.criptofacil.com/visa-investe-em-player-do-ecossistema-de-pagamentos-em-stablecoins/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34209,
+        "date": "2025-05-07 19:03:14",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Ethereum sobe com atualização, mas indicadores preocupam\n\nhttps://www.criptofacil.com/ethereum-sobe-com-atualizacao-mas-indicadores-preocupam/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34208,
+        "date": "2025-05-07 18:02:49",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Bitcoin Core toma decisão polêmica que pode dividir a rede\n\nhttps://www.criptofacil.com/bitcoin-core-toma-decisao-polemica-que-pode-dividir-a-rede/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34207,
+        "date": "2025-05-07 17:02:33",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Preço do Bitcoin: Dados de ETFs e movimento das baleias sinalizam alta\n\nhttps://www.criptofacil.com/preco-do-bitcoin-dados-de-etfs-e-movimento-das-baleias-sinalizam-alta/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34206,
+        "date": "2025-05-07 16:02:56",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Hyperliquid mira alta para US$ 25 com suporte de dados onchain\n\nhttps://www.criptofacil.com/hyperliquid-mira-alta-para-us-25-com-suporte-de-dados-onchain/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34205,
+        "date": "2025-05-07 15:12:37",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "China libera US$ 138 Bilhões: 5 altcoins de alto potencial para comprar hoje\n\nhttps://www.criptofacil.com/china-libera-us-138-bilhoes-5-altcoins-de-alto-potencial-para-comprar-hoje/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34204,
+        "date": "2025-05-07 14:03:39",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "New Hampshire cria a primeira Reserva de Bitcoin dos EUA\n\nhttps://www.criptofacil.com/new-hampshire-cria-a-primeira-reserva-de-bitcoin-dos-eua/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34203,
+        "date": "2025-05-07 13:02:41",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Atualização Pectra é lançada com sucesso no Ethereum\n\nhttps://www.criptofacil.com/atualizacao-pectra-e-lancada-com-sucesso-no-ethereum/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34202,
+        "date": "2025-05-07 12:19:26",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Atenção na Curve\n\nhttps://criptofacil.substack.com/p/atencao-na-curve",
+        "reply_to": null
+    },
+    {
+        "message_id": 34201,
+        "date": "2025-05-07 12:03:25",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Bitcoin Hoje 07/05/2025: BTC supera US$ 97.000 com possível acordo EUA/China\n\nhttps://www.criptofacil.com/bitcoin-hoje-07-05-2025/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34200,
+        "date": "2025-05-07 11:12:17",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Desenvolvedor lucra US$ 43 milhões com memecoin após ‘truque’ polêmico\n\nhttps://www.criptofacil.com/desenvolvedor-lucra-us-43-milhoes-com-memecoin-apos-truque-polemico/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34199,
+        "date": "2025-05-07 10:07:37",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "KuCoin teria perdido quase 80% em reservas de Bitcoin, mas exchange nega\n\nhttps://www.criptofacil.com/kucoin-teria-perdido-quase-80-em-reservas-de-bitcoin-mas-exchange-nega/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34198,
+        "date": "2025-05-06 22:07:44",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Trump une política e criptomoedas: jantares e nova lei podem beneficiar altcoins emergentes\n\nhttps://www.criptofacil.com/trump-une-politica-e-criptomoedas-jantares-e-nova-lei-podem-beneficiar-altcoins-emergentes/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34197,
+        "date": "2025-05-06 21:07:37",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "VIRTUAL em forte queda, mas pode subir 120% se mantiver suporte\n\nhttps://www.criptofacil.com/virtual-em-forte-queda-mas-pode-subir-120-se-mantiver-suporte/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34196,
+        "date": "2025-05-06 20:12:33",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Litecoin recua com adiamento da SEC: o que vem a seguir?\n\nhttps://www.criptofacil.com/litecoin-recua-com-adiamento-da-sec-o-que-vem-a-seguir/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34195,
+        "date": "2025-05-06 19:07:42",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "CRO, token da Crypto.com, ganha produto negociado em bolsa\n\nhttps://www.criptofacil.com/cro-token-da-crypto-com-ganha-produto-negociado-em-bolsa/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34194,
+        "date": "2025-05-06 18:07:11",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Jupiter aposta nas memecoins e lança a plataforma Boop.Fun na rede Solana\n\nhttps://www.criptofacil.com/jupiter-aposta-nas-memecoins-e-lanca-a-plataforma-boop-fun-na-rede-solana/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34193,
+        "date": "2025-05-06 17:07:12",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "ETF de XRP do Brasil decepciona e acumula queda de 10% na primeira semana\n\nhttps://www.criptofacil.com/etf-de-xrp-do-brasil-decepciona-e-acumula-queda-de-10-na-primeira-semana/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34192,
+        "date": "2025-05-06 16:07:31",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Memecoins estão de volta: Veja as melhores para investir em 2025\n\nhttps://www.criptofacil.com/memecoins-estao-de-volta-veja-as-melhores-para-investir-em-2025/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34191,
+        "date": "2025-05-06 15:17:18",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Criptomoedas de IA surpreendem o mercado em momento de consolidação do Bitcoin\n\nhttps://www.criptofacil.com/criptomoedas-de-ia-surpreendem-o-mercado-em-momento-de-consolidacao-do-bitcoin/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34190,
+        "date": "2025-05-06 14:08:22",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "eToro anuncia detalhes de lançamento de IPO\n\nhttps://www.criptofacil.com/etoro-anuncia-detalhes-de-lancamento-de-ipo/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34189,
+        "date": "2025-05-06 13:12:29",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Sui pode subir 50% se confirmar sinal, revela análise\n\nhttps://www.criptofacil.com/sui-pode-subir-50-se-confirmar-sinal-revela-analise/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34188,
+        "date": "2025-05-06 12:14:51",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Devorando Bitcoin\n\nhttps://criptofacil.substack.com/p/devorando-bitcoin",
+        "reply_to": null
+    },
+    {
+        "message_id": 34187,
+        "date": "2025-05-06 12:03:42",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Bitcoin Hoje 06/05/2025: baleias movimentam US$ 300 milhões em BTC após 12 anos\n\nhttps://www.criptofacil.com/bitcoin-hoje-06-05-2025/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34186,
+        "date": "2025-05-06 11:07:29",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Conta da Curve Finance no X é hackeada e promove airdrop falso\n\nhttps://www.criptofacil.com/conta-da-curve-finance-no-x-e-hackeada-e-promove-airdrop-falso/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34185,
+        "date": "2025-05-06 10:07:40",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Reino Unido apresenta projeto que regulariza stablecoins, staking e exchanges de criptomoedas\n\nhttps://www.criptofacil.com/reino-unido-apresenta-projeto-que-regulariza-stablecoins-staking-e-exchanges-de-criptomoedas/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34184,
+        "date": "2025-05-05 22:07:43",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Ethereum e mais 4 criptomoedas para ficar de olho esta semana\n\nhttps://www.criptofacil.com/ethereum-e-mais-4-criptomoedas-para-ficar-de-olho-esta-semana/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34183,
+        "date": "2025-05-05 21:08:30",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "ETFs de Bitcoin compraram 6 vezes mais BTC do que os mineradores produziram\n\nhttps://www.criptofacil.com/etfs-de-bitcoin-compraram-6-vezes-mais-btc-do-que-os-mineradores-produziram/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34182,
+        "date": "2025-05-05 20:02:54",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Com US$ 34 milhões, Solaxy busca aprimorar desempenho e segurança da rede Solana\n\nhttps://www.criptofacil.com/com-us-34-milhoes-solaxy-busca-aprimorar-desempenho-e-seguranca-da-rede-solana/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34181,
+        "date": "2025-05-05 19:02:29",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Quirguistão vai lançar criptomoeda própria e comprar BNB e Bitcoin para reserva estratégica\n\nhttps://www.criptofacil.com/quirguistao-vai-lancar-criptomoeda-propria-e-comprar-bnb-e-bitcoin-para-reserva-estrategica/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34180,
+        "date": "2025-05-05 18:12:22",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Investidores dos EUA buscam no Bitcoin refúgio contra instabilidade\n\nhttps://www.criptofacil.com/investidores-dos-eua-buscam-no-bitcoin-refugio-contra-instabilidade/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34179,
+        "date": "2025-05-05 17:08:11",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "VanEck pede autorização para criar ETF de BNB\n\nhttps://www.criptofacil.com/vaneck-pede-autorizacao-para-criar-etf-de-bnb/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34178,
+        "date": "2025-05-05 16:07:44",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Expectativa de Bitcoin a US$ 300 mil impulsiona nova criptomoeda\n\nhttps://www.criptofacil.com/expectativa-de-bitcoin-a-us-300-mil-impulsiona-nova-criptomoeda/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34177,
+        "date": "2025-05-05 15:02:56",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "2 Criptomoedas entram na zona de sobrecompra e acendem alerta para correção\n\nhttps://www.criptofacil.com/2-criptomoedas-entram-na-zona-de-sobrecompra-e-acendem-alerta-para-correcao/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34176,
+        "date": "2025-05-05 14:03:25",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Solana corrige falha que permitia emissão não autorizada de tokens\n\nhttps://www.criptofacil.com/solana-corrige-falha-que-permitia-emissao-nao-autorizada-de-tokens/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34175,
+        "date": "2025-05-05 13:07:55",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Tether anuncia solução com foco em Inteligência Artificial e pagamentos em cripto\n\nhttps://www.criptofacil.com/tether-anuncia-solucao-com-foco-em-inteligencia-artificial-e-pagamentos-em-cripto/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34174,
+        "date": "2025-05-05 12:14:35",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Ameaça europeia\n\nhttps://criptofacil.substack.com/p/ameaca-europeia",
+        "reply_to": null
+    },
+    {
+        "message_id": 34173,
+        "date": "2025-05-05 12:12:42",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Bitcoin Hoje 05/05/2025: BTC perde suporte dos US$ 95 mil e acende risco de correção\n\nhttps://www.criptofacil.com/bitcoin-hoje-05-05-2025/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34172,
+        "date": "2025-05-05 11:07:33",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Mercado Bitcoin anuncia parceria com a Wormhole\n\nhttps://www.criptofacil.com/mercado-bitcoin-anuncia-parceria-com-a-wormhole/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34171,
+        "date": "2025-05-05 10:02:43",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "ETFs de Altcoins: XRP, Solana e Dogecoin têm mais de 80% de chances de aprovação, aponta Bloomberg\n\nhttps://www.criptofacil.com/etfs-de-altcoins-xrp-solana-e-dogecoin-tem-mais-de-80-de-chances-de-aprovacao-aponta-bloomberg/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34170,
+        "date": "2025-05-04 22:12:31",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Rekt entre as melhores memecoins da última semana\n\nhttps://www.criptofacil.com/rekt-entre-as-melhores-memecoins-da-ultima-semana/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34169,
+        "date": "2025-05-04 20:12:38",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "União Europeia ameaça blockchains de privacidade e descentralização\n\nhttps://www.criptofacil.com/uniao-europeia-ameaca-blockchains-de-privacidade-e-descentralizacao/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34168,
+        "date": "2025-05-04 18:02:39",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Mais da metade das criptomoedas listadas desde 2021 já ‘morreram’, aponta CoinGecko\n\nhttps://www.criptofacil.com/mais-da-metade-das-criptomoedas-listadas-desde-2021-ja-morreram-aponta-coingecko/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34167,
+        "date": "2025-05-04 15:12:35",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Ethereum Foundation revela novo roadmap para 2025\n\nhttps://www.criptofacil.com/ethereum-foundation-revela-novo-roadmap-para-2025/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34166,
+        "date": "2025-05-04 12:12:36",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "FIFA lança blockchain própria e deixa Algorand e Polygon para trás\n\nhttps://www.criptofacil.com/fifa-lanca-blockchain-propria-e-deixa-algorand-e-polygon-para-tras/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34165,
+        "date": "2025-05-04 10:07:38",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Ataques hackers causam prejuízo de US$ 364 milhões em abril\n\nhttps://www.criptofacil.com/ataques-hackers-causam-prejuizo-de-us-364-milhoes-em-abril/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34164,
+        "date": "2025-05-03 22:07:47",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "VIRTUAL entre as criptomoedas que mais subiram na semana\n\nhttps://www.criptofacil.com/virtual-entre-as-criptomoedas-que-mais-subiram-na-semana/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34163,
+        "date": "2025-05-03 20:07:43",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Strategy Lucra com Bitcoin no 1º Trimestre — Veja as Criptos Ideais para Comprar Agora\n\nhttps://www.criptofacil.com/strategy-lucra-com-bitcoin-no-1o-trimestre-veja-as-criptos-ideais-para-comprar-agora/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34162,
+        "date": "2025-05-03 18:07:40",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Estados controlam 2,3% de todo o Bitcoin disponível no mundo\n\nhttps://www.criptofacil.com/estados-controlam-23-de-todo-o-bitcoin-disponivel-no-mundo/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34161,
+        "date": "2025-05-03 15:12:38",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Trader transforma US$ 1,5 mil em US$ 300 mil em 5 horas ao comprar memecoins\n\nhttps://www.criptofacil.com/trader-transforma-us-15-mil-em-us-300-mil-em-5-horas-ao-comprar-memecoins/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34160,
+        "date": "2025-05-03 12:07:43",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Mercado mostra otimismo com o XRP, mas movimentação das baleias preocupa\n\nhttps://www.criptofacil.com/mercado-mostra-otimismo-com-o-xrp-mas-movimentacao-das-baleias-preocupa/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34159,
+        "date": "2025-05-03 10:12:26",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Apple vai liberar compra de NFTs e criptomoedas em aplicativos iOS\n\nhttps://www.criptofacil.com/apple-vai-liberar-compra-de-nfts-e-criptomoedas-em-aplicativos-ios/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34158,
+        "date": "2025-05-02 22:07:09",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Immutable na liderança do mercado: IMX seguirá em alta?\n\nhttps://www.criptofacil.com/immutable-na-lideranca-do-mercado-imx-seguira-em-alta/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34157,
+        "date": "2025-05-02 21:07:31",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Bitcoin vai subir? Rompimento histórico se aproxima\n\nhttps://www.criptofacil.com/bitcoin-vai-subir-rompimento-historico-se-aproxima/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34156,
+        "date": "2025-05-02 20:02:56",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Investidores em cripto adotam novas soluções para comprar fora das exchanges\n\nhttps://www.criptofacil.com/investidores-em-cripto-adotam-novas-solucoes-para-comprar-fora-das-exchanges/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34155,
+        "date": "2025-05-02 19:02:56",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "EUA podem estocar Bitcoin como faz com o petróleo, diz cofundadora da Tezos\n\nhttps://www.criptofacil.com/eua-podem-estocar-bitcoin-como-faz-com-o-petroleo-diz-cofundadora-da-tezos/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34154,
+        "date": "2025-05-02 18:02:56",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Kraken é a mais nova exchange global a integrar o Pix no Brasil\n\nhttps://www.criptofacil.com/kraken-e-a-mais-nova-exchange-global-a-integrar-o-pix-no-brasil/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34153,
+        "date": "2025-05-02 17:02:32",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Criptomoeda para comprar: Hype pode subir 150%, diz analista\n\nhttps://www.criptofacil.com/criptomoeda-para-comprar-hype-pode-subir-150-diz-analista/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34152,
+        "date": "2025-05-02 16:02:33",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "SEC libera ETFs e previsão de alta do Bitcoin agita mercado de novas criptomoedas\n\nhttps://www.criptofacil.com/sec-libera-etfs-e-previsao-de-alta-do-bitcoin-agita-mercado-de-novas-criptomoedas/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34151,
+        "date": "2025-05-02 15:02:39",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Binance distribui nova criptomoeda de graça via airdrop\n\nhttps://www.criptofacil.com/binance-distribui-nova-criptomoeda-de-graca-via-airdrop/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34150,
+        "date": "2025-05-02 14:02:54",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Movement suspende próprio fundador por suspeita de manipulação; MOVE cai 20%\n\nhttps://www.criptofacil.com/movement-suspende-proprio-fundador-por-suspeita-de-manipulacao-move-cai-20/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34149,
+        "date": "2025-05-02 13:02:54",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Morgan Stanley oferecerá negociação de criptomoedas à vista em 2026\n\nhttps://www.criptofacil.com/morgan-stanley-oferecera-negociacao-de-criptomoedas-a-vista-em-2026/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34148,
+        "date": "2025-05-02 12:14:41",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Operação Fantasos\n\nhttps://criptofacil.substack.com/p/operacao-fantasos",
+        "reply_to": null
+    },
+    {
+        "message_id": 34147,
+        "date": "2025-05-02 12:02:59",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Bitcoin Hoje 02/05/2025: dados de mineração apontam para novo rali do BTC\n\nhttps://www.criptofacil.com/bitcoin-hoje-02-05-2025/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34146,
+        "date": "2025-05-02 11:12:25",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Dogecoin pode subir 20% em breve, revela análise\n\nhttps://www.criptofacil.com/dogecoin-pode-subir-20-em-breve-revela-analise/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34145,
+        "date": "2025-05-02 10:02:47",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Metaplanet cria subsidiária nos EUA para aumentar compras de Bitcoin\n\nhttps://www.criptofacil.com/metaplanet-cria-subsidiaria-nos-eua-para-aumentar-compras-de-bitcoin/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34144,
+        "date": "2025-05-01 22:07:35",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Previsão Solana: o que esperar em maio?\n\nhttps://www.criptofacil.com/previsao-solana-o-que-esperar-em-maio/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34143,
+        "date": "2025-05-01 21:07:45",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Tokens de IA disparam: VIRTUAL sobe 131% e MIND surge como alternativa estratégica\n\nhttps://www.criptofacil.com/tokens-de-ia-disparam-virtual-sobe-131-e-mind-surge-como-alternativa-estrategica/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34142,
+        "date": "2025-05-01 20:07:17",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Solana apresenta proposta para liberar negociação de ações na blockchain\n\nhttps://www.criptofacil.com/solana-apresenta-proposta-para-liberar-negociacao-de-acoes-na-blockchain/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34141,
+        "date": "2025-05-01 19:12:14",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Sui lidera o Top 20: preço seguirá em alta?\n\nhttps://www.criptofacil.com/sui-lidera-o-top-20-preco-seguira-em-alta/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34140,
+        "date": "2025-05-01 18:12:29",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "PF deflagra operação contra pirâmide cripto Trade Coin Club e bloqueia R$ 1,6 bilhão\n\nhttps://www.criptofacil.com/pf-deflagra-operacao-contra-piramide-cripto-trade-coin-club-e-bloqueia-r-16-bilhao/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34139,
+        "date": "2025-05-01 17:07:47",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Eric Trump confirma aporte bilionário em USD1 na Binance\n\nhttps://www.criptofacil.com/eric-trump-confirma-aporte-bilionario-em-usd1-na-binance/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34138,
+        "date": "2025-05-01 16:07:23",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "BlackRock destaca retomada de fluxos: Veja as top pré-vendas para comprar agora\n\nhttps://www.criptofacil.com/blackrock-destaca-retomada-de-fluxos-veja-as-top-pre-vendas-para-comprar-agora/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34137,
+        "date": "2025-05-01 15:08:07",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Worldcoin anuncia cartão Visa e verificações de identidade no Tinder\n\nhttps://www.criptofacil.com/worldcoin-anuncia-cartao-visa-e-verificacoes-de-identidade-no-tinder/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34136,
+        "date": "2025-05-01 14:07:59",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "‘Criptomoedas podem acabar com bancos em 10 anos’, diz Eric Trump\n\nhttps://www.criptofacil.com/criptomoedas-podem-acabar-com-bancos-em-10-anos-diz-eric-trump/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34135,
+        "date": "2025-05-01 13:02:56",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Ripple faz proposta bilionária para comprar a Circle (USDC)\n\nhttps://www.criptofacil.com/ripple-faz-proposta-bilionaria-para-comprar-a-circle-usdc/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34134,
+        "date": "2025-05-01 12:14:09",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Pressão no BC\n\nhttps://criptofacil.substack.com/p/pressao-no-bc",
+        "reply_to": null
+    },
+    {
+        "message_id": 34133,
+        "date": "2025-05-01 12:08:12",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Bitcoin Hoje 01/05/2025: BTC tem melhor fechamento para abril desde 2020\n\nhttps://www.criptofacil.com/bitcoin-hoje-01-05-2025/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34132,
+        "date": "2025-05-01 11:07:26",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Arizona, nos EUA, aprova criação de reserva de Bitcoin\n\nhttps://www.criptofacil.com/arizona-nos-eua-aprova-criacao-de-reserva-de-bitcoin/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34131,
+        "date": "2025-05-01 10:07:45",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Web Summit Rio ensina como se preparar para o próximo bull market\n\nhttps://www.criptofacil.com/web-summit-rio-ensina-como-se-preparar-para-o-proximo-bull-market/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34130,
+        "date": "2025-04-30 22:12:10",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Nova cripto promissora pode explodir enquanto Litecoin se prepara para romper resistência\n\nhttps://www.criptofacil.com/nova-cripto-promissora-pode-explodir-enquanto-litecoin-se-prepara-para-romper-resistencia/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34129,
+        "date": "2025-04-30 21:12:28",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Cardano em momento decisivo: para qual lado irá o preço?\n\nhttps://www.criptofacil.com/cardano-em-momento-decisivo-para-qual-lado-ira-o-preco/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34128,
+        "date": "2025-04-30 20:07:51",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Grupo é preso em MG acusado de usar criptomoedas para lavar US$ 36 milhões\n\nhttps://www.criptofacil.com/grupo-e-preso-em-mg-acusado-de-usar-criptomoedas-para-lavar-us-36-milhoes/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34127,
+        "date": "2025-04-30 19:07:51",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Exchanges de criptomoedas pressionam BC por mudanças em regra sobre custódia\n\nhttps://www.criptofacil.com/exchanges-de-criptomoedas-pressionam-bc-por-mudancas-em-regra-sobre-custodia/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34126,
+        "date": "2025-04-30 18:07:20",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Stablecoin do PayPal deixa de ser alvo da SEC\n\nhttps://www.criptofacil.com/stablecoin-do-paypal-deixa-de-ser-alvo-da-sec/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34125,
+        "date": "2025-04-30 17:12:22",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Empresa de Trump anuncia token e wallet: Descubra como Best Wallet Token se destaca\n\nhttps://www.criptofacil.com/empresa-de-trump-anuncia-token-e-wallet-descubra-como-best-wallet-token-se-destaca/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34124,
+        "date": "2025-04-30 16:07:48",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Ledger alerta usuários sobre novo golpe; Conheça e saiba como se proteger\n\nhttps://www.criptofacil.com/ledger-alerta-usuarios-sobre-novo-golpe-conheca-e-saiba-como-se-proteger/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34123,
+        "date": "2025-04-30 15:57:04",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "JemLit lança ranking diário com prêmios em dinheiro para fãs de loot boxes\n\nhttps://www.criptofacil.com/jemlit-lanca-ranking-diario-com-premios-em-dinheiro-para-fas-de-loot-boxes/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34122,
+        "date": "2025-04-30 15:07:42",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Crypto.com lança cartão Visa sem cobrança de IOF para brasileiros\n\nhttps://www.criptofacil.com/crypto-com-lanca-cartao-sem-cobranca-de-iof-para-brasileiros/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34121,
+        "date": "2025-04-30 14:02:43",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Memecoin dispara 500% em 8 horas com especulação na Binance\n\nhttps://www.criptofacil.com/memecoin-dispara-500-em-8-horas-com-especulacao-na-binance/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34120,
+        "date": "2025-04-30 13:03:17",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Ethereum volta a ficar abaixo de US$ 1.800: para onde vai o preço?\n\nhttps://www.criptofacil.com/ethereum-volta-a-ficar-abaixo-de-us-1-800-para-onde-vai-o-preco/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34119,
+        "date": "2025-04-30 12:14:53",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "21Shares quer DOGE\n\nhttps://criptofacil.substack.com/p/21shares-quer-doge",
+        "reply_to": null
+    },
+    {
+        "message_id": 34118,
+        "date": "2025-04-30 12:07:18",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Bitcoin Hoje 30/04/2025: ETFs voltam a captar e BTC mira os US$ 96.000\n\nhttps://www.criptofacil.com/bitcoin-hoje-30-04-2025/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34117,
+        "date": "2025-04-30 11:07:23",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "EUA quer pena de 20 anos de prisão para fundador de plataforma de criptomoedas\n\nhttps://www.criptofacil.com/eua-quer-pena-de-20-anoa-de-prisao-para-fundador-da-celsius/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34116,
+        "date": "2025-04-30 10:07:28",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Web Summit Rio 2025: Itaú investe em educação cripto para atrair investidores\n\nhttps://www.criptofacil.com/web-summit-rio-2025-itau-investe-em-educacao-cripto-para-atrair-investidores/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34115,
+        "date": "2025-04-29 22:07:08",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Mercado cripto em recuperação: memecoins promissoras para investir em maio de 2025\n\nhttps://www.criptofacil.com/mercado-cripto-em-recuperacao-memecoins-promissoras-para-investir-em-maio-de-2025/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34114,
+        "date": "2025-04-29 21:07:42",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Bitcoin pode se beneficiar da crise dos EUA e bater US$ 120 mil neste trimestre\n\nhttps://www.criptofacil.com/bitcoin-pode-se-beneficiar-da-crise-dos-eua-e-bater-us-120-mil-neste-trimestre/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34113,
+        "date": "2025-04-29 20:07:28",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "IA impulsiona Virtuals Protocol: preço seguirá em alta?\n\nhttps://www.criptofacil.com/ia-impulsiona-virtuals-protocol-preco-seguira-em-alta/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34112,
+        "date": "2025-04-29 19:07:46",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "ETF de Dogecoin pode ser lançado após pedido de gestora\n\nhttps://www.criptofacil.com/etf-de-dogecoin-pode-ser-lancado-apos-pedido-de-gestora/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34111,
+        "date": "2025-04-29 18:07:53",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Mercado cripto invade Web Summit com regulação e stablecoins\n\nhttps://www.criptofacil.com/mercado-cripto-invade-web-summit-com-regulacao-e-stablecoins/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34110,
+        "date": "2025-04-29 17:07:40",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Mastercard anuncia suporte para pagamento com stablecoins\n\nhttps://www.criptofacil.com/mastercard-anuncia-suporte-para-pagamento-com-stablecoins/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34109,
+        "date": "2025-04-29 16:07:41",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "ETF de Bitcoin da BlackRock atinge marca histórica em volume diário\n\nhttps://www.criptofacil.com/etf-de-bitcoin-da-blackrock-atinge-marca-historica-em-volume-diario/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34108,
+        "date": "2025-04-29 15:02:49",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Alta de 17% em Solayer e Virtual impulsiona busca por token L2 promissor da Solana\n\nhttps://www.criptofacil.com/alta-de-17-em-solayer-e-virtual-impulsiona-busca-por-token-l2-promissor-da-solana/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34107,
+        "date": "2025-04-29 14:07:50",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Criptomoeda que Binance deu de graça sobe 60% com listagem em exchange\n\nhttps://www.criptofacil.com/criptomoeda-que-binance-deu-de-graca-sobe-60-com-listagem-em-exchange/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34106,
+        "date": "2025-04-29 13:08:21",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "XRP mostra sinais positivos: preço pode ir a US$ 2,50?\n\nhttps://www.criptofacil.com/xrp-mostra-sinais-positivos-preco-pode-ir-a-us-250/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34105,
+        "date": "2025-04-29 12:14:29",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Nike em apuros\n\nhttps://criptofacil.substack.com/p/nike-em-apuros",
+        "reply_to": null
+    },
+    {
+        "message_id": 34104,
+        "date": "2025-04-29 12:03:10",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Bitcoin Hoje 29/04/2025: BTC segue em alta e Kiyosaki prevê valorização de 110%\n\nhttps://www.criptofacil.com/bitcoin-hoje-29-04-2025/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34103,
+        "date": "2025-04-29 11:12:33",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Coinbase lança fundo com rendimentos em Bitcoin que paga de 4% a 8% de juros\n\nhttps://www.criptofacil.com/coinbase-lanca-fundo-com-rendimentos-em-bitcoin-que-paga-de-4-a-8-de-juros/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34102,
+        "date": "2025-04-29 10:07:49",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Web Summit Rio 2025: tecnologia impulsiona economia e gera empregos\n\nhttps://www.criptofacil.com/web-summit-rio-2025-tecnologia-impulsiona-economia-e-gera-empregos/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34101,
+        "date": "2025-04-28 22:12:26",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Com políticas pró-cripto de Trump, investidores buscam novas oportunidades\n\nhttps://www.criptofacil.com/com-politicas-pro-cripto-de-trump-investidores-buscam-novas-oportunidades/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34100,
+        "date": "2025-04-28 21:07:49",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Sui e mais 4 criptomoedas para ficar de olho esta semana\n\nhttps://www.criptofacil.com/sui-e-mais-4-criptomoedas-para-ficar-de-olho-esta-semana/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34099,
+        "date": "2025-04-28 20:12:29",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "ETFs de XRP: ProShares traz opções alavancadas e short para investidores\n\nhttps://www.criptofacil.com/etfs-de-xrp-proshares-traz-opcoes-alavancadas-e-short-para-investidores/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34098,
+        "date": "2025-04-28 19:12:39",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Web Summit Rio 2025: inclusão e sustentabilidade protagonizam primeiro dia de evento\n\nhttps://www.criptofacil.com/web-summit-rio-2025-inclusao-e-sustentabilidade-protagonizam-primeiro-dia-de-evento/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34097,
+        "date": "2025-04-28 18:12:45",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Strategy anuncia compra de mais 15.355 Bitcoins\n\nhttps://www.criptofacil.com/strategy-anuncia-compra-de-mais-15-355-bitcoins/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34096,
+        "date": "2025-04-28 17:17:30",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Pré-venda do BTC Bull ganha destaque com avanço da hyperbitcoinization e disparada no preço do Bitcoin\n\nhttps://www.criptofacil.com/pre-venda-do-btc-bull-ganha-destaque-com-avanco-da-hyperbitcoinization-e-disparada-no-preco-do-bitcoin/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34095,
+        "date": "2025-04-28 16:07:43",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Exchange processa usuários suspeitos de manipulação de criptomoeda\n\nhttps://www.criptofacil.com/exchange-processa-usuarios-suspeitos-de-manipulacao-de-criptomoeda/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34094,
+        "date": "2025-04-28 15:37:48",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Previsão de preço do Fantasy Pepe ($FEPE): Projeções para 2025, 2026, 2027, 2030 e 2035\n\nhttps://www.criptofacil.com/previsao-de-preco-do-fantasy-pepe-fepe-projecoes-para-2025-2026-2027-2030-e-2035/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34093,
+        "date": "2025-04-28 15:07:43",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Fundos cripto têm o 3º melhor influxo de capital da história com US$ 3,4 bilhões\n\nhttps://www.criptofacil.com/fundos-cripto-tem-o-3o-melhor-influxo-de-capital-da-historia-com-us-34-bilhoes/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34092,
+        "date": "2025-04-28 14:07:59",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Nike é acusada de golpe em projeto de NFTs que faliu\n\nhttps://www.criptofacil.com/nike-e-acusada-de-golpe-em-projeto-de-nfts-que-faliu/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34091,
+        "date": "2025-04-28 13:07:21",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Monero salta 50% após possível ataque hacker envolvendo 3 mil Bitcoins\n\nhttps://www.criptofacil.com/monero-salta-50-apos-possivel-ataque-hacker-envolvendo-3-mil-bitcoins/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34090,
+        "date": "2025-04-28 12:14:35",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Acordo fechado\n\nhttps://criptofacil.substack.com/p/acordo-fechado",
+        "reply_to": null
+    },
+    {
+        "message_id": 34089,
+        "date": "2025-04-28 12:07:20",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Bitcoin Hoje 28/04/2025: BTC abre a semana em alta cotado acima dos US$ 95.000\n\nhttps://www.criptofacil.com/bitcoin-hoje-28-04-2025/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34088,
+        "date": "2025-04-28 11:12:23",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Em primeira fala pública, presidente da SEC defende inovação cripto\n\nhttps://www.criptofacil.com/em-primeira-fala-publica-presidente-da-sec-defende-inovacao-cripto/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34087,
+        "date": "2025-04-28 10:07:02",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Solana vai remover 150 validadores e ascende alerta sobre centralização\n\nhttps://www.criptofacil.com/solana-vai-remover-150-validadores-e-ascende-alerta-sobre-centralizacao/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34086,
+        "date": "2025-04-27 22:03:24",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Neiro on ETH entre as melhores memecoins da última semana\n\nhttps://www.criptofacil.com/neiro-on-eth-entre-as-melhores-memecoins-da-ultima-semana/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34085,
+        "date": "2025-04-27 20:12:03",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Best Wallet ganha força após hack da Bybit causar prejuízo de US$ 280 milhões\n\nhttps://www.criptofacil.com/best-wallet-ganha-forca-apos-hack-da-bybit-causar-prejuizo-de-us-280-milhoes/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34084,
+        "date": "2025-04-27 18:07:38",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Polygon lança iniciativa revolucionária e holders de POL vão ganhar tokens de graça\n\nhttps://www.criptofacil.com/polygon-lanca-iniciativa-revolucionaria-e-holders-de-pol-vao-ganhar-tokens-de-graca/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34083,
+        "date": "2025-04-27 15:07:50",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Criptomoedas são prioridade do Banco Central do Brasil; Novas regras saem no 2ª semestre\n\nhttps://www.criptofacil.com/criptomoedas-sao-prioridade-do-banco-central-do-brasil-novas-regras-saem-no-2a-semestre/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34082,
+        "date": "2025-04-27 12:07:10",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Fed recua em diretrizes contra criptomoedas e reabre caminho para bancos\n\nhttps://www.criptofacil.com/fed-recua-em-diretrizes-contra-criptomoedas-e-reabre-caminho-para-bancos/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34081,
+        "date": "2025-04-27 10:07:23",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Hacker devolve US$ 5 milhões a protocolo cripto após acordo\n\nhttps://www.criptofacil.com/hacker-devolve-us-5-milhoes-a-protocolo-cripto-apos-acordo/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34080,
+        "date": "2025-04-26 22:07:39",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "TRUMP entre as criptomoedas que mais subiram na semana\n\nhttps://www.criptofacil.com/trump-entre-as-criptomoedas-que-mais-subiram-na-semana/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34079,
+        "date": "2025-04-26 20:02:53",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Solana recebe US$ 509,9 milhões de gigantes institucionais e Solaxy entra no jogo\n\nhttps://www.criptofacil.com/solana-recebe-us-5099-milhoes-de-gigantes-institucionais-e-solaxy-entra-no-jogo/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34078,
+        "date": "2025-04-26 18:07:11",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Gigante mundial de games, Ubisoft, lança jogo na rede Ethereum\n\nhttps://www.criptofacil.com/gigante-mundial-de-games-ubisoft-lanca-jogo-na-rede-ethereum/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34077,
+        "date": "2025-04-26 15:12:28",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "ARK prevê preço do Bitcoin a US$ 2,4 milhões até 2030\n\nhttps://www.criptofacil.com/ark-preve-preco-do-bitcoin-a-us-24-milhoes-ate-2030/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34076,
+        "date": "2025-04-26 12:07:44",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Criptomoedas ganham força na Malásia\n\nhttps://www.criptofacil.com/criptomoedas-ganham-forca-na-malasia/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34075,
+        "date": "2025-04-26 10:02:31",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "TRUMP retoma alta: preço pode subir mais 25%?\n\nhttps://www.criptofacil.com/trump-retoma-alta-preco-pode-subir-mais-25/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34074,
+        "date": "2025-04-25 22:07:57",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Alta de 28% em token de IA destaca nova tendência do mercado\n\nhttps://www.criptofacil.com/alta-de-28-em-token-de-ia-destaca-nova-tendencia-do-mercado/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34073,
+        "date": "2025-04-25 21:07:14",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Sui dispara 70%: rumores seguirão impulsionando o preço?\n\nhttps://www.criptofacil.com/sui-dispara-70-rumores-seguirao-impulsionando-o-preco/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34072,
+        "date": "2025-04-25 20:07:47",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Bitwise registra primeiro ETF de NEAR após forte valorização do token\n\nhttps://www.criptofacil.com/bitwise-registra-primeiro-etf-de-near-apos-forte-valorizacao-do-token/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34071,
+        "date": "2025-04-25 19:07:51",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Dragonchain dispara mais de 100% após fim de processo da SEC\n\nhttps://www.criptofacil.com/dragonchain-dispara-mais-de-100-apos-fim-de-processo-da-sec/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34070,
+        "date": "2025-04-25 18:07:50",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Tokens de IA ignoram veto da NVIDIA e acumulam ganhos no mercado cripto\n\nhttps://www.criptofacil.com/tokens-de-ia-ignoram-veto-da-nvidia-e-acumulam-ganhos-no-mercado-cripto/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34069,
+        "date": "2025-04-25 17:12:36",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Maior fuga de Bitcoin das exchanges em 2 anos dispara sinal de alta no mercado\n\nhttps://www.criptofacil.com/maior-fuga-de-bitcoin-das-exchanges-em-2-anos-dispara-sinal-de-alta-no-mercado/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34068,
+        "date": "2025-04-25 16:17:21",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Ethereum será destruído por redes de Camada 2, diz fundador da Cardano\n\nhttps://www.criptofacil.com/ethereum-sera-destruido-por-redes-de-camada-2-diz-fundador-da-cardano/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34067,
+        "date": "2025-04-25 15:08:01",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Best Wallet Token supera US$ 11 milhões e anuncia airdrop\n\nhttps://www.criptofacil.com/best-wallet-token-supera-us-11-milhoes-e-anuncia-airdrop/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34066,
+        "date": "2025-04-25 14:02:53",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Binance remove 4 criptomoedas e uma delas sobe 130% em possível ‘exit scam’\n\nhttps://www.criptofacil.com/binance-remove-4-criptomoedas-uma-delas-sobe-130-em-possivel-exit-scam/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34065,
+        "date": "2025-04-25 13:08:02",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Shiba Inu se recupera, mas ainda pode cair 15%, revela análise\n\nhttps://www.criptofacil.com/shiba-inu-se-recupera-mas-ainda-pode-cair-15-revela-analise/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34064,
+        "date": "2025-04-25 12:14:34",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "50% da meta\n\nhttps://criptofacil.substack.com/p/50-da-meta",
+        "reply_to": null
+    },
+    {
+        "message_id": 34063,
+        "date": "2025-04-25 12:03:02",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Bitcoin Hoje 25/04/2025: BTC se consolida e BONK recupera terreno\n\nhttps://www.criptofacil.com/bitcoin-hoje-25-04-2025/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34062,
+        "date": "2025-04-25 11:12:27",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Japão considera criar reserva de Bitcoin\n\nhttps://www.criptofacil.com/japao-considera-criar-reserva-de-bitcoin/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34061,
+        "date": "2025-04-25 10:07:50",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Ondo Finance discute tokenização de Tesouro dos EUA com a SEC\n\nhttps://www.criptofacil.com/ondo-finance-discute-tokenizacao-de-tesouro-dos-eua-com-a-sec/",
+        "reply_to": null
+    },
+    {
+        "message_id": 34060,
+        "date": "2025-04-24 22:12:18",
+        "sender_id": -1001115486688,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "3 Criptomoedas em alta com nova ordem de Trump para educação em IA\n\nhttps://www.criptofacil.com/3-criptomoedas-em-alta-com-nova-ordem-de-trump-para-educacao-em-ia/",
+        "reply_to": null
+    },
+    {
         "message_id": 34059,
         "date": "2025-04-24 21:07:48",
         "sender_id": -1001115486688,
@@ -2057,1556 +3587,6 @@
         "last_name": null,
         "username": null,
         "message": "FTX vai deixar de pagar US$ 2,5 bilhões a credores\n\nhttps://www.criptofacil.com/ftx-vai-deixar-de-pagar-us-25-bilhoes-a-credores/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33853,
-        "date": "2025-04-07 22:07:44",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Baleias compram Bitcoin na queda: preço pode superar US$ 80 mil?\n\nhttps://www.criptofacil.com/baleias-compram-bitcoin-na-queda-preco-pode-superar-us-80-mil/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33852,
-        "date": "2025-04-07 21:07:36",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Negociações entre Europa e Trump podem impactar criptomoedas: Hora de comprar Bitcoin?\n\nhttps://www.criptofacil.com/negociacoes-entre-europa-e-trump-podem-impactar-criptomoedas-hora-de-comprar-bitcoin/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33851,
-        "date": "2025-04-07 20:37:37",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "‘Ciclo de alta do Bitcoin acabou’, afirma CEO da CryptoQuant\n\nhttps://www.criptofacil.com/ciclo-de-alta-do-bitcoin-acabou-afirma-ceo-da-cryptoquant/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33850,
-        "date": "2025-04-07 19:57:09",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Agências dos EUA devem reportar reservas de Bitcoin ao Tesouro até hoje\n\nhttps://www.criptofacil.com/agencias-dos-eua-devem-reportar-reservas-de-bitcoin-ao-tesouro-ate-hoje/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33849,
-        "date": "2025-04-07 18:57:27",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Ações de Trump fazem EUA perder US$ 5 bilhões em criptomoedas\n\nhttps://www.criptofacil.com/acoes-de-trump-fazem-eua-perder-us-5-bilhoes-em-criptomoedas/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33848,
-        "date": "2025-04-07 17:52:37",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "XRP e mais quatro criptomoedas para ficar de olho esta semana\n\nhttps://www.criptofacil.com/xrp-e-mais-quatro-criptomoedas-para-ficar-de-olho-esta-semana/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33847,
-        "date": "2025-04-07 16:52:43",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Criptomoedas em queda: Entenda o motivo e veja as melhores altcoins para comprar\n\nhttps://www.criptofacil.com/criptomoedas-em-queda-entenda-o-motivo-e-veja-as-melhores-altcoins-para-comprar/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33846,
-        "date": "2025-04-07 15:53:10",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Brasil vai na contramão global e injeta US$ 1,4 milhão em fundos de criptomoedas\n\nhttps://www.criptofacil.com/brasil-vai-na-contramao-global-e-injeta-us-14-milhao-em-fundos-de-criptomoedas/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33845,
-        "date": "2025-04-07 14:52:07",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Tether avalia lançar stablecoin voltada exclusivamente para os Estados Unidos\n\nhttps://www.criptofacil.com/tether-avalia-lancar-stablecoin-voltada-exclusivamente-para-os-estados-unidos/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33844,
-        "date": "2025-04-07 13:52:04",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Eventos que podem impactar ainda mais as criptomoedas nesta semana\n\nhttps://www.criptofacil.com/eventos-que-podem-impactar-ainda-mais-as-criptomoedas-nesta-semana/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33843,
-        "date": "2025-04-07 12:47:52",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Bitcoin Hoje 07/04/2025: BTC recua forte para US$ 76.400; O que vem a seguir?\n\nhttps://www.criptofacil.com/bitcoin-hoje-07-04-2025/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33842,
-        "date": "2025-04-07 12:19:17",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Anti-CBDC\n\nhttps://criptofacil.substack.com/p/anti-cbdc",
-        "reply_to": null
-    },
-    {
-        "message_id": 33841,
-        "date": "2025-04-07 11:47:18",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Hackers intensificam ataques a projetos da Solana, alerta Google\n\nhttps://www.criptofacil.com/hackers-intensificam-ataques-a-projetos-da-solana-alerta-google/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33840,
-        "date": "2025-04-07 10:47:10",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Valor bloqueado em DeFi despenca mais de 30% e acende alerta no mercado\n\nhttps://www.criptofacil.com/valor-bloqueado-em-defi-despenca-mais-de-30-e-acende-alerta-no-mercado/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33839,
-        "date": "2025-04-06 22:32:19",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Empresas cripto recuam de planos de IPO nos EUA após tarifas de Trump\n\nhttps://www.criptofacil.com/empresas-cripto-recuam-de-planos-de-ipo-nos-eua-apos-tarifas-de-trump/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33838,
-        "date": "2025-04-06 20:27:36",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Vine entre as memecoins que mais subiram na última semana\n\nhttps://www.criptofacil.com/vine-entre-as-memecoins-que-mais-subiram-na-ultima-semana/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33837,
-        "date": "2025-04-06 18:27:26",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Cidade em São Paulo entra no Top 10 global em adoção de Bitcoin\n\nhttps://www.criptofacil.com/cidade-em-sao-paulo-entra-no-top-10-global-em-adocao-de-bitcoin/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33836,
-        "date": "2025-04-06 15:27:19",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Bitcoin ainda pode ter novo rali acentuado e alcançar US$ 110 mil, diz Fidelity\n\nhttps://www.criptofacil.com/bitcoin-ainda-pode-ter-novo-rali-acentuado-e-alcancar-us-110-mil-diz-fidelity/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33835,
-        "date": "2025-04-06 12:22:13",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Carteiras de Bitcoin são alvos de malware disfarçado de atualização\n\nhttps://www.criptofacil.com/carteiras-de-bitcoin-sao-alvos-de-malware-disfarcado-de-atualizacao/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33834,
-        "date": "2025-04-06 10:17:35",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "EUA avançam com lei que limita criação de dólar digital\n\nhttps://www.criptofacil.com/eua-avancam-com-lei-que-limita-criacao-de-dolar-digital/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33833,
-        "date": "2025-04-05 22:12:13",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "EOS entre as criptomoedas que mais subiram na semana\n\nhttps://www.criptofacil.com/eos-entre-as-criptomoedas-que-mais-subiram-na-semana/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33832,
-        "date": "2025-04-05 20:12:42",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Bitwise lança três ETFs com foco em empresas de criptomoedas\n\nhttps://www.criptofacil.com/bitwise-lanca-tres-etfs-com-foco-em-empresas-de-criptomoedas/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33831,
-        "date": "2025-04-05 18:07:34",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Novas listagens de criptomoedas superam Bitcoin, ouro e ações – veja como lucrar\n\nhttps://www.criptofacil.com/novas-listagens-de-criptomoedas-superam-bitcoin-ouro-e-acoes-veja-como-lucrar/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33830,
-        "date": "2025-04-05 15:02:31",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Avalanche (AVAX) pode alcançar US$ 250 até 2029, segundo Standard Chartered\n\nhttps://www.criptofacil.com/avalanche-avax-pode-alcancar-us-250-ate-2029-segundo-standard-chartered/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33829,
-        "date": "2025-04-05 12:02:42",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Protocolo cripto anuncia distribuição gratuita de tokens para 340 mil usuários\n\nhttps://www.criptofacil.com/protocolo-cripto-anuncia-distribuicao-gratuita-de-tokens-para-340-mil-usuarios/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33828,
-        "date": "2025-04-05 10:57:14",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Banco americano projeta preço do Bitcoin em US$ 88 mil no fim de semana\n\nhttps://www.criptofacil.com/banco-americano-projeta-preco-do-bitcoin-em-us-88-mil-no-fim-de-semana/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33827,
-        "date": "2025-04-04 22:47:43",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "SEC declara que stablecoins lastreadas em dólar não são valores mobiliários\n\nhttps://www.criptofacil.com/sec-declara-que-stablecoins-lastreadas-em-dolar-nao-sao-valores-mobiliarios/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33826,
-        "date": "2025-04-04 21:47:44",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "ETF de Solana a caminho? Grayscale avança, e altcoin Solaxy surge como aposta promissora\n\nhttps://www.criptofacil.com/etf-de-solana-a-caminho-grayscale-avanca-e-altcoin-solaxy-surge-como-aposta-promissora/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33825,
-        "date": "2025-04-04 20:42:45",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "XRP em apuros? Detentores mostram insatisfação\n\nhttps://www.criptofacil.com/xrp-em-apuros-detentores-mostram-insatisfacao/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33824,
-        "date": "2025-04-04 19:42:40",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Bitcoin supera S&P 500 e US100 após tarifaço de Trump\n\nhttps://www.criptofacil.com/bitcoin-supera-sp-500-e-us100-apos-tarifaco-de-trump/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33823,
-        "date": "2025-04-04 18:37:39",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "‘Dia da Libertação’ faz investidores resgatarem US$ 165 milhões de ETFs de Bitcoin\n\nhttps://www.criptofacil.com/dia-da-libertacao-faz-investidores-resgatarem-us-165-milhoes-de-etfs-de-bitcoin/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33822,
-        "date": "2025-04-04 17:37:31",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "CVM proíbe Eike Batista de vender token da supercana no Brasil\n\nhttps://www.criptofacil.com/cvm-proibe-eike-batista-de-vender-token-da-supercana-no-brasil/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33821,
-        "date": "2025-04-04 16:37:32",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Solana: desbloqueio de US$ 200 milhões pressiona mercado e reduz atividade na rede\n\nhttps://www.criptofacil.com/solana-desbloqueio-de-us-200-milhoes-pressiona-mercado-e-reduz-atividade-na-rede/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33820,
-        "date": "2025-04-04 15:37:10",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Trump, recessão e criptomoedas: Quais altcoins investir em 2025?\n\nhttps://www.criptofacil.com/trump-recessao-e-criptomoedas-quais-altcoins-investir-em-2025/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33819,
-        "date": "2025-04-04 14:37:15",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "EUA avançam na regulamentação de stablecoins\n\nhttps://www.criptofacil.com/eua-avancam-na-regulamentacao-de-stablecoins/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33818,
-        "date": "2025-04-04 13:37:41",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "BNB perde importante suporte: preço seguirá em queda?\n\nhttps://www.criptofacil.com/bnb-perde-importante-suporte-preco-seguira-em-queda/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33817,
-        "date": "2025-04-04 12:37:41",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Bitcoin Hoje 04/04/2025: BTC fecha semana com queda de 3,4% cotado a US$ 82.000\n\nhttps://www.criptofacil.com/bitcoin-hoje-04-04-2025/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33816,
-        "date": "2025-04-04 12:14:07",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Data marcada no Ethereum\n\nhttps://criptofacil.substack.com/p/data-marcada-no-ethereum",
-        "reply_to": null
-    },
-    {
-        "message_id": 33815,
-        "date": "2025-04-04 11:37:20",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "ETFs de Bitcoin podem receber US$ 3 bilhões no segundo trimestre, diz análise\n\nhttps://www.criptofacil.com/etfs-de-bitcoin-podem-receber-us-3-bilhoes-no-segundo-trimestre-diz-analise/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33814,
-        "date": "2025-04-04 10:37:39",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Pump.fun lança sistema de empréstimo para compra de memecoins\n\nhttps://www.criptofacil.com/pump-fun-lanca-sistema-de-emprestimo-para-compra-de-memecoins/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33813,
-        "date": "2025-04-03 22:27:21",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Babylon vai dar criptomoedas de graça em airdrop\n\nhttps://www.criptofacil.com/babylon-vai-dar-criptomoedas-de-graca-em-airdrop/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33812,
-        "date": "2025-04-03 21:27:31",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Bitcoin supera o SPX mesmo em queda — veja a melhor cripto para comprar agora\n\nhttps://www.criptofacil.com/bitcoin-supera-o-spx-mesmo-em-queda-veja-a-melhor-cripto-para-comprar-agora/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33811,
-        "date": "2025-04-03 20:27:43",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Pectra será ativada no Ethereum no dia 7 de maio\n\nhttps://www.criptofacil.com/pectra-sera-ativada-no-ethereum-no-dia-7-de-maio/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33810,
-        "date": "2025-04-03 19:27:12",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Valor da criptomoeda Pi desaba: nova mínima ou chance de virada?\n\nhttps://www.criptofacil.com/valor-da-criptomoeda-pi-desaba-nova-minima-ou-chance-de-virada/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33809,
-        "date": "2025-04-03 18:22:32",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Hackers vendem celulares com malware que rouba criptomoedas\n\nhttps://www.criptofacil.com/hackers-vendem-celulares-com-malware-que-rouba-criptomoedas/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33808,
-        "date": "2025-04-03 17:02:41",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Alerta: Cruz da morte surge no gráfico do Bitcoin\n\nhttps://www.criptofacil.com/alerta-cruz-da-morte-surge-no-grafico-do-bitcoin/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33807,
-        "date": "2025-04-03 16:02:45",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Senado dos EUA avança na nomeação de Paul Atkins para liderar a SEC\n\nhttps://www.criptofacil.com/senado-dos-eua-avanca-nomeacao-de-paul-atkins-para-liderar-a-sec/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33806,
-        "date": "2025-04-03 15:07:39",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Separação entre Trump e Musk abala mercado: Previsão para Dogecoin e memecoins\n\nhttps://www.criptofacil.com/separacao-entre-trump-e-musk-abala-mercado-previsao-para-dogecoin-e-memecoins/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33805,
-        "date": "2025-04-03 14:12:45",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Solana perde todo lucro acumulado de um ano\n\nhttps://www.criptofacil.com/solana-perde-todo-lucro-acumulado-de-um-ano/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33804,
-        "date": "2025-04-03 13:07:38",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Fundação Hedera (HBAR) entra na disputa pela compra do TikTok\n\nhttps://www.criptofacil.com/fundacao-hedera-hbar-entra-na-disputa-pela-compra-do-tiktok/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33803,
-        "date": "2025-04-03 12:14:14",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "UST 2.0?\n\nhttps://criptofacil.substack.com/p/ust-20",
-        "reply_to": null
-    },
-    {
-        "message_id": 33802,
-        "date": "2025-04-03 12:03:17",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Bitcoin Hoje 03/04/2025: Memecoin TRUMP desaba e BTC devolve ganhos com tarifas\n\nhttps://www.criptofacil.com/bitcoin-hoje-03-04-2025/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33801,
-        "date": "2025-04-03 11:12:22",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Shiba Inu tenta manter suporte, mas indicadores apontam queda\n\nhttps://www.criptofacil.com/shiba-inu-tenta-manter-suporte-mas-indicadores-apontam-queda/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33800,
-        "date": "2025-04-03 10:07:46",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Principal stablecoin da Binance perde 9% do valor após denúncia de insolvência\n\nhttps://www.criptofacil.com/principal-stablecoin-da-binance-perde-9-do-valor-apos-denuncia-de-insolvencia/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33799,
-        "date": "2025-04-02 23:07:22",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Solana pode subir 35% se romper esta resistência, revela análise\n\nhttps://www.criptofacil.com/solana-pode-subir-35-se-romper-esta-resistencia-revela-analise/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33798,
-        "date": "2025-04-02 22:07:39",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "VanEck entra com pedido para ETF de BNB\n\nhttps://www.criptofacil.com/vaneck-entra-com-pedido-para-etf-de-bnb/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33797,
-        "date": "2025-04-02 21:07:41",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "PayPal disponibiliza Solana e Chainlink para usuários dos EUA\n\nhttps://www.criptofacil.com/paypal-disponibiliza-solana-e-chainlink-para-usuarios-dos-eua/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33796,
-        "date": "2025-04-02 20:07:18",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Bitcoin chega a US$ 87.000 com saída de Elon Musk do governo Trump\n\nhttps://www.criptofacil.com/bitcoin-chega-a-us-87-000-com-saida-de-elon-musk-do-governo-trump/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33795,
-        "date": "2025-04-02 19:07:44",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Lucros com USDC disparam e Coinbase revela cripto com alto potencial\n\nhttps://www.criptofacil.com/lucros-com-usdc-disparam-e-coinbase-revela-cripto-com-alto-potencial/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33794,
-        "date": "2025-04-02 18:02:48",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Mais uma empresa japonesa listada em bolsa anuncia compra e estratégia de reserva de Bitcoin\n\nhttps://www.criptofacil.com/mais-uma-empresa-japonesa-listada-em-bolsa-anuncia-compra-e-estrategia-de-reserva-de-bitcoin/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33793,
-        "date": "2025-04-02 17:07:39",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Hacker da zkLend perde US$ 5,4 milhões em golpe com Tornado Cash\n\nhttps://www.criptofacil.com/hacker-da-zklend-perde-us-54-milhoes-em-golpe-com-tornado-cash/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33792,
-        "date": "2025-04-02 17:02:23",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Trader perde milhões em criptomoedas após mudança inesperada na Binance\n\nhttps://www.criptofacil.com/trader-perde-milhoes-em-criptomoedas-apos-mudanca-inesperada-na-binance/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33791,
-        "date": "2025-04-02 16:07:34",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "ABCripto lança programa tributário para empresas de criptomoedas\n\nhttps://www.criptofacil.com/abcripto-lanca-programa-tributario-para-empresas-de-criptomoedas/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33790,
-        "date": "2025-04-02 16:02:24",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "PumpBTC introduz recursos de staking no Bitcoin\n\nhttps://www.criptofacil.com/pumpbtc-introduz-recursos-de-staking-no-bitcoin/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33789,
-        "date": "2025-04-02 15:07:33",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "GameStop arrecada US$1,5 bi e pode virar 4ª maior holder de Bitcoin\n\nhttps://www.criptofacil.com/gamestop-arrecada-us15-bi-e-pode-virar-4a-maior-holder-de-bitcoin/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33788,
-        "date": "2025-04-02 14:32:45",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "BlackRock recebe aprovação para operar com criptomoedas no Reino Unido\n\nhttps://www.criptofacil.com/blackrock-recebe-aprovacao-para-operar-com-criptomoedas-no-reino-unido/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33787,
-        "date": "2025-04-02 13:12:10",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Santiment revela indicadores para prever fundos das criptomoedas\n\nhttps://www.criptofacil.com/santiment-revela-indicadores-para-prever-fundos-das-criptomoedas/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33786,
-        "date": "2025-04-02 12:14:18",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Sequestro em Bitcoin\n\nhttps://criptofacil.substack.com/p/sequestro-em-bitcoin",
-        "reply_to": null
-    },
-    {
-        "message_id": 33785,
-        "date": "2025-04-02 12:12:11",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Bitcoin Hoje 02/04/2025: ETF de BTC recebe fluxo de US$ 15 milhões após fala de CEO\n\nhttps://www.criptofacil.com/bitcoin-hoje-02-04-2025-etf-de-btc-recebe-fluxo-de-us-15-milhoes-apos-fala-de-ceo/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33784,
-        "date": "2025-04-02 11:07:41",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Plataforma de NFTs encerra atividades e foca em projeto de IA\n\nhttps://www.criptofacil.com/plataforma-de-nfts-encerra-atividades-e-foca-em-projeto-de-ia/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33783,
-        "date": "2025-04-02 10:12:33",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "CZ da Binance queima mais de US$ 3 milhões em memecoins\n\nhttps://www.criptofacil.com/cz-da-binance-queima-mais-de-us-3-milhoes-em-memecoins/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33782,
-        "date": "2025-04-01 22:07:24",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Confira as criptomoedas que mais subiram em março\n\nhttps://www.criptofacil.com/confira-as-criptomoedas-que-mais-subiram-em-marco/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33781,
-        "date": "2025-04-01 21:07:13",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Conheça as 3 criptomoedas impulsionadas pela tese de Bitcoin de Arthur Hayes\n\nhttps://www.criptofacil.com/conheca-as-3-criptomoedas-impulsionadas-pela-tese-de-bitcoin-de-arthur-hayes/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33780,
-        "date": "2025-04-01 20:07:19",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Juiz brasileiro envia a primeira notificação judicial da história via NFT\n\nhttps://www.criptofacil.com/juiz-brasileiro-envia-a-primeira-notificacao-judicial-da-historia-via-nft/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33779,
-        "date": "2025-04-01 19:07:23",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "XRP sobe, mas movimentação das baleias indica cautela\n\nhttps://www.criptofacil.com/xrp-sobe-mas-movimentacao-das-baleias-indica-cautela/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33778,
-        "date": "2025-04-01 18:07:35",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Itaú defende stablecoins e autocustódia de criptomoedas\n\nhttps://www.criptofacil.com/itau-defende-stablecoins-e-autocustodia-de-criptomoedas/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33777,
-        "date": "2025-04-01 17:07:34",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Atenção: Mercado cripto enfrenta liberação de US$ 642 milhões em tokens nesta semana\n\nhttps://www.criptofacil.com/atencao-mercado-cripto-enfrenta-liberacao-de-us-642-milhoes-em-tokens-nesta-semana/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33776,
-        "date": "2025-04-01 16:07:17",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Espanhol sequestrado em São Paulo perde US$ 50 milhões em criptomoedas\n\nhttps://www.criptofacil.com/espanhol-sequestrado-em-sao-paulo-perde-us-50-milhoes-em-criptomoedas/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33775,
-        "date": "2025-04-01 15:07:33",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Ressurgimento do Vine por Elon Musk catalisa ascensão da Solaxy ($SOLX) na rede Solana\n\nhttps://www.criptofacil.com/ressurgimento-do-vine-por-elon-musk-catalisa-ascensao-da-solaxy-solx-na-rede-solana/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33774,
-        "date": "2025-04-01 14:12:14",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Inflação e tarifas podem derrubar Bitcoin para menos de US$ 80 mil\n\nhttps://www.criptofacil.com/inflacao-e-tarifas-podem-derrubar-bitcoin-para-menos-de-us-80-mil/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33773,
-        "date": "2025-04-01 13:07:31",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Tether adiciona US$ 735 milhões em suas reservas de Bitcoin\n\nhttps://www.criptofacil.com/tether-adiciona-us-735-milhoes-em-suas-reservas-de-bitcoin/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33772,
-        "date": "2025-04-01 12:14:52",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Brasil restringe investimentos\n\nhttps://criptofacil.substack.com/p/brasil-restringe-investimentos",
-        "reply_to": null
-    },
-    {
-        "message_id": 33771,
-        "date": "2025-04-01 12:03:44",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Bitcoin Hoje 01/04/2025: BTC tem pior março desde a pandemia\n\nhttps://www.criptofacil.com/bitcoin-hoje-01-04-2025/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33770,
-        "date": "2025-04-01 11:07:28",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Stablecoin sUSD da Synthetix perde paridade com dólar e pode estar em risco\n\nhttps://www.criptofacil.com/stablecoin-susd-da-synthetix-perde-paridade-com-dolar-e-pode-estar-em-risco/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33769,
-        "date": "2025-04-01 10:07:42",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Metaplanet e Strategy anunciam compra de mais Bitcoins\n\nhttps://www.criptofacil.com/metaplanet-e-strategy-anunciam-compra-de-bitcoins/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33768,
-        "date": "2025-03-31 22:07:57",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Ethereum sob ameaça se perder este suporte, revela análise\n\nhttps://www.criptofacil.com/ethereum-sob-ameaca-se-perder-este-suporte-revela-analise/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33767,
-        "date": "2025-03-31 21:07:57",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Novo Token BTC Bull ganha força enquanto Saylor pressiona S&P 500 a comprar Bitcoin\n\nhttps://www.criptofacil.com/novo-token-btc-bull-ganha-forca-enquanto-saylor-pressiona-sp-500-a-comprar-bitcoin/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33766,
-        "date": "2025-03-31 20:07:54",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Circle, por trás da USDC, contrata bancos e pode fazer IPO em abril\n\nhttps://www.criptofacil.com/circle-por-tras-da-usdc-contrata-bancos-e-pode-fazer-ipo-em-abril/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33765,
-        "date": "2025-03-31 19:03:17",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Criptomoeda dispara após publicação de Elon Musk no X\n\nhttps://www.criptofacil.com/criptomoeda-dispara-apos-publicacao-de-elon-musk-no-x/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33764,
-        "date": "2025-03-31 18:07:35",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Criptomoedas de graça: Protocolo Initia anuncia airdrop\n\nhttps://www.criptofacil.com/criptomoedas-de-graca-protocolo-initia-anuncia-airdrop/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33763,
-        "date": "2025-03-31 17:07:42",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Dogecoin e mais 4 criptomoedas para ficar de olho esta semana\n\nhttps://www.criptofacil.com/dogecoin-e-mais-4-criptomoedas-para-ficar-de-olho-esta-semana/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33762,
-        "date": "2025-03-31 16:08:00",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Brasil proíbe fundos de pensão fechados de investirem em criptomoedas\n\nhttps://www.criptofacil.com/brasil-proibe-fundos-de-pensao-fechados-de-investirem-em-criptomoedas/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33761,
-        "date": "2025-03-31 15:03:30",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "5 Altcoins indicadas para enfrentar as novas tarifas dos EUA\n\nhttps://www.criptofacil.com/5-altcoins-indicadas-para-enfrentar-as-novas-tarifas-dos-eua/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33760,
-        "date": "2025-03-31 14:07:59",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Fundos de criptomoedas têm novo influxo positivo apesar da incerteza econômica nos EUA\n\nhttps://www.criptofacil.com/fundos-de-criptomoedas-tem-novo-influxo-positivo-apesar-da-incerteza-economica-nos-eua/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33759,
-        "date": "2025-03-31 13:07:40",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Irmãos Trump e Hut 8 lançam empresa para ‘revolucionar’ mineração de Bitcoin\n\nhttps://www.criptofacil.com/irmaos-trump-e-hut-8-lancam-empresa-para-revolucionar-mineracao-de-bitcoin/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33758,
-        "date": "2025-03-31 12:14:18",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Mais cripto, menos B3\n\nhttps://criptofacil.substack.com/p/mais-cripto-menos-b3",
-        "reply_to": null
-    },
-    {
-        "message_id": 33757,
-        "date": "2025-03-31 12:07:10",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Bitcoin Hoje 31/03/2025: BTC cai 6% e ETFs encerram sequência de compras\n\nhttps://www.criptofacil.com/bitcoin-hoje-31-03-2025/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33756,
-        "date": "2025-03-31 11:12:11",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Bitcoins apreendidos no Brasil podem ajudar no combate ao câncer\n\nhttps://www.criptofacil.com/bitcoins-apreendidos-no-brasil-podem-ajudar-no-combate-ao-cancer/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33755,
-        "date": "2025-03-31 10:03:13",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Mineração de Bitcoin sob risco? Dois pools controlam mais de 56% da rede\n\nhttps://www.criptofacil.com/mineracao-de-bitcoin-sob-risco-dois-pools-controlam-mais-de-56-da-rede/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33754,
-        "date": "2025-03-30 22:02:41",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Criptomoedas estão entre as cinco formas de investimento mais populares do Brasil, revela pesquisa\n\nhttps://www.criptofacil.com/criptomoedas-estao-entre-as-cinco-formas-de-investimento-mais-populares-do-brasil-revela-pesquisa/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33753,
-        "date": "2025-03-30 20:02:24",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "BlackRock aumenta exposição ao Bitcoin em 1.810% em 12 meses\n\nhttps://www.criptofacil.com/blackrock-aumenta-exposicao-ao-bitcoin-em-1-810-em-12-meses/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33752,
-        "date": "2025-03-30 18:02:36",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Fartcoin no Top 3 memecoins da última semana – Análise\n\nhttps://www.criptofacil.com/fartcoin-no-top-3-memecoins-da-ultima-semana-analise/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33751,
-        "date": "2025-03-30 15:07:45",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Aave anuncia integração com a Chainlink\n\nhttps://www.criptofacil.com/aave-anuncia-integracao-com-a-chainlink/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33750,
-        "date": "2025-03-30 12:12:08",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "FBI descobre que Hamas recebia doações em criptomoedas e congela US$ 200 mil\n\nhttps://www.criptofacil.com/fbi-descobre-que-hamas-recebia-doacoes-em-criptomoedas-e-congela-us-200-mil/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33749,
-        "date": "2025-03-30 10:07:37",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "ETFs de Bitcoin deixam de impulsionar mercado e agora puxam preços para baixo\n\nhttps://www.criptofacil.com/etfs-de-bitcoin-deixam-de-impulsionar-mercado-e-agora-puxam-precos-para-baixo/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33748,
-        "date": "2025-03-29 22:12:40",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Cronos entre as criptomoedas que mais subiram na semana\n\nhttps://www.criptofacil.com/cronos-entre-as-criptomoedas-que-mais-subiram-na-semana/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33747,
-        "date": "2025-03-29 20:07:14",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "XRP vai cair para US$ 1, alerta trader com mais de 40 anos de experiência\n\nhttps://www.criptofacil.com/xrp-vai-cair-para-us-1-alerta-trader-com-mais-de-40-anos-de-experiencia/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33746,
-        "date": "2025-03-29 18:07:44",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Previsão do Bitcoin para 2025 e 2 memecoins com potencial de valorização\n\nhttps://www.criptofacil.com/previsao-do-bitcoin-para-2025-e-2-memecoins-com-potencial-de-valorizacao/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33745,
-        "date": "2025-03-29 15:12:23",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Se Strategy mantiver o ritmo, preço do Bitcoin pode ir a US$ 1 milhão, diz Bernstein\n\nhttps://www.criptofacil.com/se-strategy-mantiver-o-ritmo-preco-do-bitcoin-pode-ir-a-us-1-milhao-diz-bernstein/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33744,
-        "date": "2025-03-29 12:07:35",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Google ajuda país a barrar exchanges de criptomoedas\n\nhttps://www.criptofacil.com/google-ajuda-pais-a-barrar-exchanges-de-criptomoedas/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33743,
-        "date": "2025-03-29 10:12:39",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Stablecoins registram 18 meses consecutivos de alta; Domínio da USDT cai\n\nhttps://www.criptofacil.com/stablecoins-registram-18-meses-consecutivos-de-alta-dominio-da-usdt-cai/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33742,
-        "date": "2025-03-28 22:07:46",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Senadora dos EUA propõe uso do Bitcoin para reduzir dívida nacional em 50%\n\nhttps://www.criptofacil.com/senadora-dos-eua-propoe-uso-do-bitcoin-para-reduzir-divida-nacional-em-50/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33741,
-        "date": "2025-03-28 21:07:19",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "CZ da Binance doa US$ 600 mil em criptomoedas para vítimas de terremoto em Mianmar e Tailândia\n\nhttps://www.criptofacil.com/cz-da-binance-doa-us-600-mil-em-criptomoedas-para-vitimas-de-terremoto-em-mianmar-e-tailandia/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33740,
-        "date": "2025-03-28 20:12:14",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Cronos dispara após anúncio da SEC, mas padrão gráfico preocupa\n\nhttps://www.criptofacil.com/cronos-dispara-apos-anuncio-da-sec-mas-padrao-grafico-preocupa/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33739,
-        "date": "2025-03-28 19:07:34",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Grayscale solicita ETF de Avalanche à SEC, ampliando oferta de fundos cripto\n\nhttps://www.criptofacil.com/grayscale-solicita-etf-de-avalanche-a-sec-ampliando-oferta-de-fundos-cripto/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33738,
-        "date": "2025-03-28 17:37:41",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Bitcoin e criptomoedas recuam após inflação acima do esperado nos EUA\n\nhttps://www.criptofacil.com/bitcoin-e-criptomoedas-recuam-apos-inflacao-acima-do-esperado-nos-eua/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33737,
-        "date": "2025-03-28 17:07:46",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Solana em risco: preço pode cair 15% se perder este suporte\n\nhttps://www.criptofacil.com/solana-em-risco-preco-pode-cair-15-se-perder-este-suporte/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33736,
-        "date": "2025-03-28 16:07:45",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Colapso Terra (LUNA): Credores do TerraUSD já podem solicitar reembolso em novo portal\n\nhttps://www.criptofacil.com/colapso-terra-luna-credores-do-terrausd-ja-podem-solicitar-reembolso-em-novo-portal/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33735,
-        "date": "2025-03-28 15:12:26",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Criptomoedas promissoras após a SEC desistir de processos judiciais\n\nhttps://www.criptofacil.com/criptomoedas-promissoras-apos-a-sec-desistir-de-processos-judiciais/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33734,
-        "date": "2025-03-28 14:08:18",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "SEC retira processos contra empresas de criptomoedas, incluindo Crypto.com\n\nhttps://www.criptofacil.com/sec-retira-processos-contra-empresas-de-criptomoedas-incluindo-crypto-com/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33733,
-        "date": "2025-03-28 13:02:47",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Banco estatal da França investe US$ 27 milhões em criptomoedas e Web3\n\nhttps://www.criptofacil.com/banco-estatal-da-franca-investe-us-27-milhoes-em-criptomoedas-e-web3/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33732,
-        "date": "2025-03-28 12:14:42",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Nigéria vs Binance\n\nhttps://criptofacil.substack.com/p/nigeria-vs-binance",
-        "reply_to": null
-    },
-    {
-        "message_id": 33731,
-        "date": "2025-03-28 12:02:59",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Bitcoin Hoje 28/03/2025: BTC perde suporte e pode confirmar forte correção\n\nhttps://www.criptofacil.com/bitcoin-hoje-28-03-2025/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33730,
-        "date": "2025-03-28 11:12:41",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Circle assina acordo para implementar USDC na Bolsa de Valores dos EUA\n\nhttps://www.criptofacil.com/circle-assina-acordo-para-implementar-usdc-na-bolsa-de-valores-dos-eua/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33729,
-        "date": "2025-03-28 10:12:14",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Possível presidente da SEC pode ser obrigado a vender empresa ligada à FTX\n\nhttps://www.criptofacil.com/possivel-presidente-da-sec-pode-ser-obrigado-a-vender-empresa-ligada-a-ftx/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33728,
-        "date": "2025-03-27 22:12:27",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Toncoin em forte alta: preço pode ir a US$ 4?\n\nhttps://www.criptofacil.com/toncoin-em-forte-alta-preco-pode-ir-a-us-4/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33727,
-        "date": "2025-03-27 21:07:26",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Exchange descentralizada enfrenta roubo de US$ 13 milhões\n\nhttps://www.criptofacil.com/exchange-descentralizada-enfrenta-roubo-de-us-13-milhoes/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33726,
-        "date": "2025-03-27 20:13:04",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Previsão XRP: indicadores apontam cenário de risco para a criptomoeda\n\nhttps://www.criptofacil.com/previsao-xrp-indicadores-apontam-cenario-de-risco-para-a-criptomoeda/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33725,
-        "date": "2025-03-27 19:07:46",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Com fim da Regra de DeFi, tokens emergentes ganham força no mercado cripto\n\nhttps://www.criptofacil.com/com-fim-da-regra-de-defi-tokens-emergentes-ganham-forca-no-mercado-cripto/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33724,
-        "date": "2025-03-27 18:07:27",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Protocolo DeFi Injective reforça parceria com Google Cloud\n\nhttps://www.criptofacil.com/protocolo-defi-injective-reforca-parceria-com-google-cloud/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33723,
-        "date": "2025-03-27 17:08:10",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Ethereum se aproxima da implantação da Pectra na rede principal\n\nhttps://www.criptofacil.com/ethereum-se-aproxima-da-implantacao-da-pectra-na-rede-principal/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33722,
-        "date": "2025-03-27 16:07:47",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Nigéria acusa Binance de facilitar transações para terroristas e cobra US$ 81 bilhões da exchange\n\nhttps://www.criptofacil.com/nigeria-acusa-binance-de-facilitar-transacoes-para-terroristas-e-cobra-us-81-bilhoes-da-exchange/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33721,
-        "date": "2025-03-27 15:08:16",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Top 5 memecoins para ficar de olho em abril de 2025\n\nhttps://www.criptofacil.com/top-5-memecoins-para-ficar-de-olho-em-abril-de-2025/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33720,
-        "date": "2025-03-27 14:12:44",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Shiba Inu pode estar armando uma armadilha de preços – Entenda\n\nhttps://www.criptofacil.com/shiba-inu-pode-estar-armando-uma-armadilha-de-precos-entenda/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33719,
-        "date": "2025-03-27 13:02:52",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "‘Hyperliquid pode virar nova FTX’, diz CEO da Bitget\n\nhttps://www.criptofacil.com/hyperliquid-pode-virar-nova-ftx-diz-ceo-da-bitget/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33718,
-        "date": "2025-03-27 12:14:39",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Hyper prejuízo\n\nhttps://criptofacil.substack.com/p/hyper-prejuizo",
-        "reply_to": null
-    },
-    {
-        "message_id": 33717,
-        "date": "2025-03-27 12:12:15",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Bitcoin Hoje 27/03/2025: BTC cai e memecoins lideram perdas do dia\n\nhttps://www.criptofacil.com/bitcoin-hoje-27-03-2025/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33716,
-        "date": "2025-03-27 11:12:27",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "SEC desiste de investigar empresa de jogos Immutable\n\nhttps://www.criptofacil.com/sec-desiste-de-investigar-empresa-de-jogos-immutable/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33715,
-        "date": "2025-03-27 10:12:47",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Binance vai punir funcionários por manipulação de mercado\n\nhttps://www.criptofacil.com/binance-vai-punir-funcionarios-por-manipulacao-de-mercado/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33714,
-        "date": "2025-03-26 22:07:48",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Interesse institucional dispara: conheça os criptoativos em pré-venda que podem surfar a onda da BlackRock\n\nhttps://www.criptofacil.com/interesse-institucional-dispara-conheca-os-criptoativos-em-pre-venda-que-podem-surfar-a-onda-da-blackrock/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33713,
-        "date": "2025-03-26 21:07:46",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Cardano pode subir 20% se mantiver este suporte, revela análise\n\nhttps://www.criptofacil.com/cardano-pode-subir-20-se-mantiver-este-suporte-revela-analise/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33712,
-        "date": "2025-03-26 20:07:43",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "USDC bate novo recorde histórico superando US$ 60 bilhões\n\nhttps://www.criptofacil.com/usdc-bate-novo-recorde-historico-superando-us-60-bilhoes/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33711,
-        "date": "2025-03-26 19:03:23",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Celo migra para Ethereum como Layer 2\n\nhttps://www.criptofacil.com/celo-migra-para-ethereum-como-layer-2/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33710,
-        "date": "2025-03-26 18:07:46",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Operação com memecoin leva Hyperliquid a perder US$ 230 milhões\n\nhttps://www.criptofacil.com/operacao-com-memecoin-leva-hyperliquid-a-perder-us-230-milhoes/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33709,
-        "date": "2025-03-26 17:07:56",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "CVM volta atrás e libera tokens RWA do Mercado Bitcoin\n\nhttps://www.criptofacil.com/cvm-volta-atras-e-libera-tokens-rwa-do-mercado-bitcoin/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33708,
-        "date": "2025-03-26 16:12:26",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Fidelity, gigante financeira dos EUA, vai lançar sua própria stablecoin\n\nhttps://www.criptofacil.com/fidelity-gigante-financeira-dos-eua-vai-lancar-sua-propria-stablecoin/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33707,
-        "date": "2025-03-26 15:08:15",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Dogecoin lidera Top 10 e pode subir mais 25%, revela análise\n\nhttps://www.criptofacil.com/dogecoin-lidera-top-10-e-pode-subir-mais-25-revela-analise/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33706,
-        "date": "2025-03-26 14:02:55",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Influenciador de criptomoedas ‘BitBoy’ é preso na Flórida\n\nhttps://www.criptofacil.com/influenciador-de-criptomoedas-bitboy-e-preso-na-florida/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33705,
-        "date": "2025-03-26 13:12:47",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "GameStop confirma que vai comprar Bitcoin; token GME sobe 40%\n\nhttps://www.criptofacil.com/gamestop-confirma-que-vai-comprar-bitcoin-token-gme-sobe-40/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33704,
-        "date": "2025-03-26 12:47:32",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "GameStop vai adotar Bitcoin após encontro de CEO com Michael Saylor?\n\nhttps://www.criptofacil.com/gamestop-vai-adotar-bitcoin-apos-encontro-de-ceo-com-michael-saylor/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33703,
-        "date": "2025-03-26 12:14:43",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "ETFs em exchange\n\nhttps://criptofacil.substack.com/p/etfs-em-exchange",
-        "reply_to": null
-    },
-    {
-        "message_id": 33702,
-        "date": "2025-03-26 12:07:23",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Bitcoin Hoje 26/03/2025: BTC sobe 1,5% e volta aos US$ 88.000\n\nhttps://www.criptofacil.com/bitcoin-hoje-26-03-2025/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33701,
-        "date": "2025-03-26 11:12:33",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Pagamentos em Worldcoin seguem proibidos no Brasil após ANPD negar recurso da TFH\n\nhttps://www.criptofacil.com/pagamentos-em-worldcoin-seguem-proibidos-no-brasil-apos-anpd-negar-recurso-da-tfh/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33700,
-        "date": "2025-03-26 10:08:05",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Memecoin inspirada em rotina de influencer atrai US$ 19 milhões para Solana\n\nhttps://www.criptofacil.com/memecoin-inspirada-em-rotina-de-influencer-atrai-us-19-milhoes-para-solana/",
-        "reply_to": null
-    },
-    {
-        "message_id": 33699,
-        "date": "2025-03-25 22:07:33",
-        "sender_id": -1001115486688,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "eToro anuncia registro para IPO nos Estados Unidos\n\nhttps://www.criptofacil.com/etoro-anuncia-registro-para-ipo-nos-estados-unidos/",
         "reply_to": null
     }
 ]

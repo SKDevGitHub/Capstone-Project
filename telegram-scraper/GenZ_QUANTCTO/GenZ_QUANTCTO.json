@@ -1,5 +1,55 @@
 [
     {
+        "message_id": 43,
+        "date": "2025-04-29 11:50:14",
+        "sender_id": -1002342319385,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 42,
+        "date": "2025-04-29 11:50:12",
+        "sender_id": -1002342319385,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "Standard Chartered Says Bitcoin Will Hit All-Time High in Q2",
+        "reply_to": null
+    },
+    {
+        "message_id": 41,
+        "date": "2025-04-26 15:18:58",
+        "sender_id": -1002342319385,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
+        "message_id": 40,
+        "date": "2025-04-26 15:18:58",
+        "sender_id": -1002342319385,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "some of y'all lack",
+        "reply_to": null
+    },
+    {
+        "message_id": 36,
+        "date": "2025-04-26 15:18:15",
+        "sender_id": -1002342319385,
+        "first_name": null,
+        "last_name": null,
+        "username": null,
+        "message": "",
+        "reply_to": null
+    },
+    {
         "message_id": 35,
         "date": "2025-04-23 13:47:56",
         "sender_id": -1002342319385,
@@ -147,46 +197,6 @@
         "last_name": null,
         "username": null,
         "message": "You’re holding $QUANT. \n\nWhat if it could pay you while the market decides where to go next?\n\nYou could be earning DAILY staking $QUANT.  \n\nHere’s how it works and how you can still make money in chop",
-        "reply_to": null
-    },
-    {
-        "message_id": 20,
-        "date": "2025-04-07 00:21:13",
-        "sender_id": -1002342319385,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "There’s only one thing to do in times like these. \n\nControl what you can. \n\nLike coming to the $QUANT Data Dump.\n\nThe rest will sort itself out.",
-        "reply_to": null
-    },
-    {
-        "message_id": 19,
-        "date": "2025-04-07 00:20:18",
-        "sender_id": -1002342319385,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "Most memecoins follow a hype-to-die cycle.\n\nBut social currencies? They evolve, scale, and onboard the world.\n\n$QUANT isn’t just a memecoin anymore. \n\nHere’s why one fades, and the other builds forever",
-        "reply_to": null
-    },
-    {
-        "message_id": 18,
-        "date": "2025-04-04 14:09:14",
-        "sender_id": -1002342319385,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "🎯 Follow the pack, and let’s take $QUANT to new heights! 🚀🐕",
-        "reply_to": null
-    },
-    {
-        "message_id": 16,
-        "date": "2025-03-31 17:43:43",
-        "sender_id": -1002342319385,
-        "first_name": null,
-        "last_name": null,
-        "username": null,
-        "message": "what is $QUANT reading today\n\n1. business & creativity\n2. social psych\n3. writing and communication\n4. self improvement",
         "reply_to": null
     }
 ]
